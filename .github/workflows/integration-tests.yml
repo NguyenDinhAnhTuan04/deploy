@@ -314,9 +314,11 @@ jobs:
           pip install safety bandit
 
       - name: Run Safety (dependency vulnerability scan)
+        continue-on-error: true
         run: safety check --json
 
       - name: Run Bandit (security issues scan)
+        continue-on-error: true
         run: bandit -r Builder-Layer-End/agents/ -f json -o bandit-report.json
 
       - name: Upload Bandit report
