@@ -96,8 +96,9 @@ jobs:
 
       - name: Run unit tests
         run: |
-          pytest Builder-Layer-End/tests/unit/ \
+          pytest Builder-Layer-End/tests/ \
             -v \
+            --ignore=Builder-Layer-End/tests/integration/ \
             --cov=Builder-Layer-End/agents \
             --cov-report=xml \
             --cov-report=term-missing \
