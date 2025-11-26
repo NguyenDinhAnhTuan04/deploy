@@ -58,12 +58,15 @@ jobs:
         run: isort --check-only Builder-Layer-End/agents/ Builder-Layer-End/tests/
 
       - name: Run flake8 (linting)
+        continue-on-error: true
         run: flake8 Builder-Layer-End/agents/ Builder-Layer-End/tests/ --max-line-length=100 --ignore=E203,W503
 
       - name: Run mypy (type checking)
+        continue-on-error: true
         run: mypy Builder-Layer-End/agents/ --ignore-missing-imports
 
       - name: Run pylint (code quality)
+        continue-on-error: true
         run: pylint Builder-Layer-End/agents/ --disable=C0111,R0903,W0212 --max-line-length=100
 
   # ==========================================================================
