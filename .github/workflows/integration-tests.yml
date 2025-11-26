@@ -46,22 +46,22 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install flake8 mypy black isort pylint
-          pip install -r requirements.txt
+          pip install -r Builder-Layer-End/requirements.txt
       
       - name: Run Black (code formatting check)
-        run: black --check agents/ tests/
+        run: black --check Builder-Layer-End/agents/ Builder-Layer-End/tests/
       
       - name: Run isort (import sorting check)
-        run: isort --check-only agents/ tests/
+        run: isort --check-only Builder-Layer-End/agents/ Builder-Layer-End/tests/
       
       - name: Run flake8 (linting)
-        run: flake8 agents/ tests/ --max-line-length=100 --ignore=E203,W503
+        run: flake8 Builder-Layer-End/agents/ Builder-Layer-End/tests/ --max-line-length=100 --ignore=E203,W503
       
       - name: Run mypy (type checking)
-        run: mypy agents/ --ignore-missing-imports
+        run: mypy Builder-Layer-End/agents/ --ignore-missing-imports
       
       - name: Run pylint (code quality)
-        run: pylint agents/ --disable=C0111,R0903,W0212 --max-line-length=100
+        run: pylint Builder-Layer-End/agents/ --disable=C0111,R0903,W0212 --max-line-length=100
 
   # ==========================================================================
   # UNIT TESTS
@@ -84,14 +84,14 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r Builder-Layer-End/requirements.txt
           pip install pytest pytest-cov pytest-asyncio pytest-mock
       
       - name: Run unit tests
         run: |
-          pytest tests/unit/ \
+          pytest Builder-Layer-End/tests/unit/ \
             -v \
-            --cov=agents \
+            --cov=Builder-Layer-End/agents \
             --cov-report=xml \
             --cov-report=term-missing \
             --cov-fail-under=${{ env.COVERAGE_THRESHOLD }}
@@ -130,13 +130,13 @@ jobs:
       
       - name: Start Docker Compose stack
         run: |
-          docker-compose -f docker-compose.test.yml up -d
+          docker-compose -f Builder-Layer-End/docker-compose.test.yml up -d
           echo "Waiting for services to be healthy..."
           sleep 60
       
       - name: Check service health
         run: |
-          docker-compose -f docker-compose.test.yml ps
+          docker-compose -f Builder-Layer-End/docker-compose.test.yml ps
           
           # Check Stellio
           curl -f http://localhost:8080/actuator/health || exit 1
@@ -145,13 +145,13 @@ jobs:
           curl -f http://localhost:3030/$/ping || exit 1
           
           # Check Neo4j
-          docker-compose -f docker-compose.test.yml exec -T neo4j cypher-shell -u neo4j -p test12345 "RETURN 1" || exit 1
+          docker-compose -f Builder-Layer-End/docker-compose.test.yml exec -T neo4j cypher-shell -u neo4j -p test12345 "RETURN 1" || exit 1
           
           echo "All services are healthy"
       
       - name: Run integration tests
         run: |
-          docker-compose -f docker-compose.test.yml run --rm test-runner \
+          docker-compose -f Builder-Layer-End/docker-compose.test.yml run --rm test-runner \
             pytest tests/integration/test_complete_system.py \
             -v \
             --cov=agents \
@@ -186,15 +186,15 @@ jobs:
       - name: Print Docker logs on failure
         if: failure()
         run: |
-          docker-compose -f docker-compose.test.yml logs stellio-api-gateway
-          docker-compose -f docker-compose.test.yml logs neo4j
-          docker-compose -f docker-compose.test.yml logs fuseki
-          docker-compose -f docker-compose.test.yml logs redis
+          docker-compose -f Builder-Layer-End/docker-compose.test.yml logs stellio-api-gateway
+          docker-compose -f Builder-Layer-End/docker-compose.test.yml logs neo4j
+          docker-compose -f Builder-Layer-End/docker-compose.test.yml logs fuseki
+          docker-compose -f Builder-Layer-End/docker-compose.test.yml logs redis
       
       - name: Cleanup Docker stack
         if: always()
         run: |
-          docker-compose -f docker-compose.test.yml down -v
+          docker-compose -f Builder-Layer-End/docker-compose.test.yml down -v
 
   # ==========================================================================
   # PERFORMANCE TESTS
@@ -212,13 +212,13 @@ jobs:
       
       - name: Start Docker Compose stack
         run: |
-          docker-compose -f docker-compose.test.yml up -d
+          docker-compose -f Builder-Layer-End/docker-compose.test.yml up -d
           echo "Waiting for services..."
           sleep 60
       
       - name: Run performance benchmarks
         run: |
-          docker-compose -f docker-compose.test.yml run --rm test-runner \
+          docker-compose -f Builder-Layer-End/docker-compose.test.yml run --rm test-runner \
             pytest tests/integration/test_complete_system.py \
             -v \
             -m "performance" \
@@ -227,7 +227,7 @@ jobs:
       
       - name: Cleanup
         if: always()
-        run: docker-compose -f docker-compose.test.yml down -v
+        run: docker-compose -f Builder-Layer-End/docker-compose.test.yml down -v
 
   # ==========================================================================
   # E2E TESTS (Full 722-camera pipeline)
@@ -246,18 +246,18 @@ jobs:
       
       - name: Start Docker Compose stack
         run: |
-          docker-compose -f docker-compose.test.yml up -d
+          docker-compose -f Builder-Layer-End/docker-compose.test.yml up -d
           echo "Waiting for services..."
           sleep 90
       
       - name: Generate test data
         run: |
-          docker-compose -f docker-compose.test.yml run --rm test-runner \
+          docker-compose -f Builder-Layer-End/docker-compose.test.yml run --rm test-runner \
             python -c "from tests.integration.test_complete_system import *; print('Generating test data...')"
       
       - name: Run E2E pipeline test
         run: |
-          docker-compose -f docker-compose.test.yml run --rm test-runner \
+          docker-compose -f Builder-Layer-End/docker-compose.test.yml run --rm test-runner \
             pytest tests/integration/test_complete_system.py::TestCompleteSystem::test_full_pipeline_722_cameras \
             -v \
             --tb=short \
@@ -266,7 +266,7 @@ jobs:
       - name: Generate test report
         if: always()
         run: |
-          docker-compose -f docker-compose.test.yml run --rm test-runner \
+          docker-compose -f Builder-Layer-End/docker-compose.test.yml run --rm test-runner \
             pytest tests/integration/ \
             --html=report.html \
             --self-contained-html
@@ -280,7 +280,7 @@ jobs:
       
       - name: Cleanup
         if: always()
-        run: docker-compose -f docker-compose.test.yml down -v
+        run: docker-compose -f Builder-Layer-End/docker-compose.test.yml down -v
 
   # ==========================================================================
   # SECURITY SCAN
@@ -309,7 +309,7 @@ jobs:
         run: safety check --json
       
       - name: Run Bandit (security issues scan)
-        run: bandit -r agents/ -f json -o bandit-report.json
+        run: bandit -r Builder-Layer-End/agents/ -f json -o bandit-report.json
       
       - name: Upload Bandit report
         if: always()
