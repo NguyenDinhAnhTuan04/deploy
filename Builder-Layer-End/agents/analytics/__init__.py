@@ -10,18 +10,18 @@ from .cv_analysis_agent import (
     Detection,
     ImageAnalysisResult,
     TrafficMetrics,
-    DetectionStatus
+    DetectionStatus,
 )
 
 __all__ = [
-    'CVAnalysisAgent',
-    'CVConfig',
-    'YOLOv8Detector',
-    'ImageDownloader',
-    'MetricsCalculator',
-    'NGSILDEntityGenerator',
-    'Detection',
-    'ImageAnalysisResult',
-    'TrafficMetrics',
-    'DetectionStatus'
+    "CVAnalysisAgent",
+    "CVConfig",
+    "YOLOv8Detector",
+    "ImageDownloader",
+    "MetricsCalculator",
+    "NGSILDEntityGenerator",
+    "Detection",
+    "ImageAnalysisResult",
+    "TrafficMetrics",
+    "DetectionStatus",
 ]

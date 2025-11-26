@@ -8,7 +8,7 @@ This package contains agents that integrate external systems:
 """
 
 __all__ = [
-    'neo4j_sync_agent',
-    'api_gateway_agent',
-    'cache_manager_agent',
+    "neo4j_sync_agent",
+    "api_gateway_agent",
+    "cache_manager_agent",
 ]
