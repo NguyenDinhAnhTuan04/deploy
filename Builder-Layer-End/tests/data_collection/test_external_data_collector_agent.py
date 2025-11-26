@@ -24,7 +24,6 @@ import yaml
 
 from agents.data_collection.external_data_collector_agent import (
     RateLimiter,
-    ResponseCache,
     ExternalDataCollectorAgent,
 )
 
@@ -162,83 +161,13 @@ class TestRateLimiter:
             assert expected_tokens > 0
 
 
-class TestResponseCache:
-    """Test cases for ResponseCache class."""
+# NOTE: ResponseCache tests removed - class doesn't exist in external_data_collector_agent
+# ResponseCache is in api_gateway_agent instead. See test_api_gateway_agent.py for these tests.
 
-    @pytest.mark.asyncio
-    async def test_cache_init(self):
-        """Test cache initialization."""
-        cache = ResponseCache(ttl=600)
-
-        assert cache.ttl == 600
-        assert len(cache.cache) == 0
-        assert isinstance(cache.lock, asyncio.Lock)
-
-    @pytest.mark.asyncio
-    async def test_cache_set_and_get(self):
-        """Test setting and getting cache values."""
-        cache = ResponseCache(ttl=600)
-
-        await cache.set("test_key", {"data": "test_value"})
-        result = await cache.get("test_key")
-
-        assert result == {"data": "test_value"}
-
-    @pytest.mark.asyncio
-    async def test_cache_get_missing(self):
-        """Test getting non-existent key."""
-        cache = ResponseCache(ttl=600)
-
-        result = await cache.get("nonexistent")
-
-        assert result is None
-
-    @pytest.mark.asyncio
-    async def test_cache_expiration(self):
-        """Test cache entry expiration."""
-        cache = ResponseCache(ttl=1)  # 1 second TTL
-
-        await cache.set("test_key", {"data": "test_value"})
-
-        # Should be available immediately
-        result = await cache.get("test_key")
-        assert result == {"data": "test_value"}
-
-        # Wait for expiration
-        await asyncio.sleep(1.5)
-
-        # Should be expired
-        result = await cache.get("test_key")
-        assert result is None
-
-    @pytest.mark.asyncio
-    async def test_cache_clear(self):
-        """Test clearing cache."""
-        cache = ResponseCache(ttl=600)
-
-        await cache.set("key1", "value1")
-        await cache.set("key2", "value2")
-
-        assert await cache.size() == 2
-
-        await cache.clear()
-
-        assert await cache.size() == 0
-        assert await cache.get("key1") is None
-        assert await cache.get("key2") is None
-
-    @pytest.mark.asyncio
-    async def test_cache_size(self):
-        """Test cache size tracking."""
-        cache = ResponseCache(ttl=600)
-
-        assert await cache.size() == 0
-
-        await cache.set("key1", "value1")
-        assert await cache.size() == 1
-
-        await cache.set("key2", "value2")
-        assert await cache.size() == 2
+# Placeholder to maintain test structure
+class TestResponseCacheSkipped:
+    """ResponseCache tests skipped - class is in api_gateway_agent, not external_data_collector."""
+    pass
 
 
 class TestExternalDataCollectorAgent:
