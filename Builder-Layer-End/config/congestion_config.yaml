@@ -1,0 +1,34 @@
+congestion_detection:
+  thresholds:
+    occupancy: 0.7
+    average_speed: 15  # km/h
+    intensity: 0.75
+  
+  rules:
+    logic: "AND"  # occupancy > 0.7 AND speed < 15
+    min_duration: 120  # seconds (ignore transient)
+  
+  stellio:
+    base_url: "http://stellio:8080"
+    update_endpoint: "/ngsi-ld/v1/entities/{id}/attrs"
+    batch_updates: true
+    max_workers: 4
+  
+  alert:
+    enabled: true
+    notify_on_change: true  # only when false→true
+
+  # State storage for congestion history and last known states
+  state:
+    file: "data/congestion_state.json"
+
+  # Output Configuration
+  output:
+    # Output files
+    congestion_file: "data/congestion.json"
+    statistics_file: "data/congestion_statistics.json"
+    
+    # Output format
+    format: "json"
+    pretty_print: true
+    include_timestamp: true

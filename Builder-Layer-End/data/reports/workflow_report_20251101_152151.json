@@ -1,0 +1,22 @@
+{
+  "execution_time": "2025-11-01T08:21:51.250412Z",
+  "total_duration_seconds": 0.01,
+  "status": "failed",
+  "phases": [],
+  "endpoints": {
+    "stellio": "http://localhost:8080/health",
+    "neo4j": "http://localhost:7474"
+  },
+  "statistics": {
+    "total_phases": 0,
+    "successful_phases": 0,
+    "failed_phases": 0,
+    "total_agents": 0,
+    "successful_agents": 0,
+    "failed_agents": 0,
+    "skipped_agents": 0
+  },
+  "errors": [
+    "Required health check failed: Stellio returned status 500"
+  ]
+}

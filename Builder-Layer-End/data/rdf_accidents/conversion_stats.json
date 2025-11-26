@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-11-17T19:52:08.830225Z",
+  "total_entities": 2,
+  "successful": 2,
+  "failed": 0,
+  "total_triples": 20,
+  "duration_seconds": 0.19,
+  "output_files": [
+    "data\\rdf_accidents\\Camera_20251117_195208.ttl",
+    "data\\rdf_accidents\\Camera_20251117_195208.nt",
+    "data\\rdf_accidents\\Camera_20251117_195208.rdf",
+    "data\\rdf_accidents\\Camera_20251117_195208.jsonld"
+  ],
+  "error_count": 0
+}

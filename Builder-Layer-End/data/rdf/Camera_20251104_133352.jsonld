@@ -1,0 +1,1735 @@
+[
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252021.59",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Quốc lộ 1 - Rạch Láng Le 1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 21.59"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.686397790909, 10.8610818827294]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:IDICO-QL1%252029",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "QL1 - Tỉnh lộ 10 B (2)"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "IDICO-QL1 29"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.593974232674, 10.7492355507977]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520300",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Quốc Lộ 13 - cầu Ông Dầu"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 300"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.713809967041, 10.8361932799182]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%25201.8",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Cao tốc LTDG - Võ Chí Công"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 1.8"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.790762543678, 10.796827763223]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252021.84",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Tô Ngọc Vân - TX25"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 21.84"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.677986383438, 10.8797100979598]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252022.6.1",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Nguyễn Thị Định - Đường C (20-1)"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 22.6.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.77956700325, 10.7659102810674]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520102.1",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Đinh Tiên Hoàng - Võ Thị Sáu 1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 102.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.695774793625, 10.7917743133057]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520374",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Cách Mạng Tháng Tám - Bùi Thị Xuân"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 374"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.691064834595, 10.7726452614037]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252011.1",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Võ Văn Kiệt - Huỳnh Mẫn Đạt"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 11.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.677197813988, 10.751960277381]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520124.1",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Nguyễn Văn Quỳ - Cầu Phú Mỹ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 124.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.7367374897, 10.7409610852775]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:IDICO-QL1%252036",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "QL1 - Nút giao An Lạc 2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "IDICO-QL1 36"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.601693630219, 10.7235049089888]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520423",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Mai Bá Hương - Kênh 4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 423"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.509790420532, 10.7736992353084]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520273",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Phan Đăng Lưu - Thích Quảng Đức"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 273"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.684530973434, 10.8032933150268]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252013.2",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Võ Văn Kiệt - Nguyễn Tri Phương 2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 13.2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.670079231262, 10.7503686605855]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252021.69",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Quốc lộ 1 - Đường Lê Thị Riêng 2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 21.69"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.654415130615, 10.8619248135124]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Platform"
+    ],
+    "https://uri.etsi.org/ngsi-ld/coverageArea": [
+      {
+        "@value": "Ho Chi Minh City, Vietnam"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/deploymentYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2020
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/description": [
+      {
+        "@value": "City-wide traffic monitoring infrastructure"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/name": [
+      {
+        "@value": "Ho Chi Minh City Traffic Monitoring System"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/operator": [
+      {
+        "@value": "HCMC Department of Transportation"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520259",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Nguyễn Thị Minh Khai - Bà Huyện Thanh Quan"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 259"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.690624952316, 10.7748059039379]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252022.4",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Nút giao Mỹ Thủy 2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 22.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.7755866, 10.7701157]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252026.4",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Phổ Quang - Hoàng Minh Giám"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 26.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.672879457474, 10.8079619154301]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252044.4",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Phan Đăng Lưu - Lê Văn Duyệt"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 44.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.696482896805, 10.8019970541825]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520308",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Kinh Dương Vương - Tên Lửa"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 308"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.61497592926, 10.7380517925754]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520440",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Trần Văn Giàu - cầu Tân Tạo"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 440"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.571368575096, 10.7590644777735]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252034.11",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Nguyễn Văn Trỗi - Trần Huy Liệu"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 34.11"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH_AXIS"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.677948832512, 10.794472307568]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520145",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Lê Văn Sỹ - Huỳnh Văn Bánh"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 145"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.671452522278, 10.7918902432446]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520197",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Ba Tháng Hai – Sư Vạn Hạnh"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 197"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.670830249786, 10.7697784337206]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520442",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Trần Đại Nghĩa - Võ Trần Chí"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 442"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.577017307281, 10.7304200365785]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520299.1",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Võ Nguyên Giáp - Đỗ Xuân Hợp (1)"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 299.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.765716075897, 10.8349709243101]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/ObservableProperty"
+    ],
+    "https://uri.etsi.org/ngsi-ld/description": [
+      {
+        "@value": "Observable property representing traffic flow characteristics"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/name": [
+      {
+        "@value": "Traffic Flow Monitoring"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/unitOfMeasurement": [
+      {
+        "@value": "vehicles/hour"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252022.7",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Nguyễn Thị Định - Đường D"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 22.7"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.781423091888, 10.7646823693643]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520419",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Điện Biên Phủ - Nguyễn Gia Trí"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 419"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.715161800385, 10.8010801833774]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520245",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Huỳnh Tấn Phát - Phạm Hữu Lầu"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 245"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.737660169601, 10.7052043577961]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520335",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Nguyễn Chí Thanh - Thuận Kiều"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 335"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.658009290695, 10.7576784340111]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:ITS%25208.2",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Lý Tự Trọng - Chu Mạnh Trinh"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "ITS 8.2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.704602, 10.781944]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520247",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Tôn Đức Thắng - Hàm Nghi"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 247"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.70635342598, 10.7710748334425]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252021.3",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Quốc lộ 1 - KCX Linh Trung 1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 21.3"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.768741607666, 10.872081942303]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520385",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Đinh Tiên Hoàng - Trần Quang Khải"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 385"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.696075201035, 10.7927439077816]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520292",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Lũy Bán Bích - Thoại Ngọc Hầu"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 292"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.636122465134, 10.7821519725547]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520406",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Trần Quang Khải - Trần Khắc Chân"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 406"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.691054105759, 10.7918902432446]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252018.2",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Võ Văn Kiệt - An Dương Vương 2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 18.2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.620351076126, 10.7265671915496]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252010.1",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Võ Văn Kiệt - Cầu Chữ Y 1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 10.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.68367266655, 10.7519444666594]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252029.4",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Trường Sơn - Ga Quốc Nội 2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 29.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.664902567863, 10.8129465937096]}"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520417",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Vòng xoay Mũi Tàu Phú Lâm"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 417"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.624095439911, 10.7459416028391]}"
+      }
+    ]
+  }
+]

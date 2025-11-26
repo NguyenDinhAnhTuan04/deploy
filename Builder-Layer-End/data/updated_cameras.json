@@ -1,0 +1,187 @@
+[
+  {
+    "id": "urn:ngsi-ld:Camera:0",
+    "type": "Camera",
+    "name": {
+      "type": "Property",
+      "value": "Mock Camera Update 0"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.6296,
+          10.7629
+        ]
+      }
+    },
+    "status": {
+      "type": "Property",
+      "value": "updated"
+    },
+    "lastUpdate": {
+      "type": "Property",
+      "value": "2025-11-17T20:04:19.235073Z"
+    },
+    "imageUrl": {
+      "type": "Property",
+      "value": "https://example.com/camera-0/latest.jpg"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Mock camera update #0 for testing purposes"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Camera:1",
+    "type": "Camera",
+    "name": {
+      "type": "Property",
+      "value": "Mock Camera Update 1"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.6396,
+          10.7729
+        ]
+      }
+    },
+    "status": {
+      "type": "Property",
+      "value": "updated"
+    },
+    "lastUpdate": {
+      "type": "Property",
+      "value": "2025-11-17T20:04:19.235073Z"
+    },
+    "imageUrl": {
+      "type": "Property",
+      "value": "https://example.com/camera-1/latest.jpg"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Mock camera update #1 for testing purposes"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Camera:2",
+    "type": "Camera",
+    "name": {
+      "type": "Property",
+      "value": "Mock Camera Update 2"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.64959999999999,
+          10.7829
+        ]
+      }
+    },
+    "status": {
+      "type": "Property",
+      "value": "updated"
+    },
+    "lastUpdate": {
+      "type": "Property",
+      "value": "2025-11-17T20:04:19.235073Z"
+    },
+    "imageUrl": {
+      "type": "Property",
+      "value": "https://example.com/camera-2/latest.jpg"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Mock camera update #2 for testing purposes"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Camera:3",
+    "type": "Camera",
+    "name": {
+      "type": "Property",
+      "value": "Mock Camera Update 3"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.6596,
+          10.7929
+        ]
+      }
+    },
+    "status": {
+      "type": "Property",
+      "value": "updated"
+    },
+    "lastUpdate": {
+      "type": "Property",
+      "value": "2025-11-17T20:04:19.235073Z"
+    },
+    "imageUrl": {
+      "type": "Property",
+      "value": "https://example.com/camera-3/latest.jpg"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Mock camera update #3 for testing purposes"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Camera:4",
+    "type": "Camera",
+    "name": {
+      "type": "Property",
+      "value": "Mock Camera Update 4"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.6696,
+          10.8029
+        ]
+      }
+    },
+    "status": {
+      "type": "Property",
+      "value": "updated"
+    },
+    "lastUpdate": {
+      "type": "Property",
+      "value": "2025-11-17T20:04:19.235073Z"
+    },
+    "imageUrl": {
+      "type": "Property",
+      "value": "https://example.com/camera-4/latest.jpg"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Mock camera update #4 for testing purposes"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ]
+  }
+]

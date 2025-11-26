@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-11-17T19:42:22.083353Z",
+  "dataset": "lod-dataset",
+  "files_loaded": [
+    "Camera_20251117_074613.ttl",
+    "Camera_20251117_191515.ttl",
+    "Camera_20251117_194219.ttl"
+  ],
+  "total_triples": 60,
+  "named_graphs": [
+    "http://example.org/graphs/Camera_20251117_191515",
+    "http://example.org/graphs/Camera_20251117_074613",
+    "http://example.org/graphs/Camera_20251117_194219"
+  ],
+  "sparql_endpoint": "http://localhost:3030/lod-dataset/sparql",
+  "duration_seconds": 2.11,
+  "status": "success",
+  "errors": []
+}

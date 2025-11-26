@@ -1,0 +1,243 @@
+{
+  "execution_time": "2025-11-05T14:55:23.401976Z",
+  "total_duration_seconds": 32.17,
+  "status": "partial",
+  "phases": [
+    {
+      "name": "Data Collection",
+      "status": "success",
+      "duration_seconds": 2.04,
+      "agents": [
+        {
+          "name": "image_refresh_agent",
+          "status": "success",
+          "duration_seconds": 2.04,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "external_data_collector_agent",
+          "status": "skipped",
+          "duration_seconds": 0.0,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "Transformation",
+      "status": "success",
+      "duration_seconds": 0.11,
+      "agents": [
+        {
+          "name": "ngsi_ld_transformer_agent",
+          "status": "success",
+          "duration_seconds": 0.05,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "sosa_ssn_mapper_agent",
+          "status": "success",
+          "duration_seconds": 0.05,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "Validation",
+      "status": "success",
+      "duration_seconds": 0.06,
+      "agents": [
+        {
+          "name": "smart_data_models_validation_agent",
+          "status": "success",
+          "duration_seconds": 0.06,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "Publishing",
+      "status": "success",
+      "duration_seconds": 4.31,
+      "agents": [
+        {
+          "name": "ngsi_ld_to_rdf_agent",
+          "status": "success",
+          "duration_seconds": 0.74,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "entity_publisher_agent",
+          "status": "success",
+          "duration_seconds": 4.31,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "Analytics",
+      "status": "success",
+      "duration_seconds": 10.27,
+      "agents": [
+        {
+          "name": "cv_analysis_agent",
+          "status": "success",
+          "duration_seconds": 10.24,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "congestion_detection_agent",
+          "status": "success",
+          "duration_seconds": 0.03,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "accident_detection_agent",
+          "status": "skipped",
+          "duration_seconds": 0.0,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "pattern_recognition_agent",
+          "status": "skipped",
+          "duration_seconds": 0.0,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "RDF Loading",
+      "status": "success",
+      "duration_seconds": 8.87,
+      "agents": [
+        {
+          "name": "triplestore_loader_agent",
+          "status": "success",
+          "duration_seconds": 8.87,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "Analytics Data Loop",
+      "status": "success",
+      "duration_seconds": 0.21,
+      "agents": [
+        {
+          "name": "smart_data_models_validation_agent",
+          "status": "success",
+          "duration_seconds": 0.03,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "entity_publisher_agent",
+          "status": "success",
+          "duration_seconds": 0.05,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "ngsi_ld_to_rdf_agent",
+          "status": "success",
+          "duration_seconds": 0.1,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "triplestore_loader_agent",
+          "status": "success",
+          "duration_seconds": 0.02,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "State Update Sync",
+      "status": "success",
+      "duration_seconds": 0.46,
+      "agents": [
+        {
+          "name": "stellio_state_query_agent",
+          "status": "success",
+          "duration_seconds": 0.4,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "ngsi_ld_to_rdf_agent",
+          "status": "success",
+          "duration_seconds": 0.03,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "triplestore_loader_agent",
+          "status": "success",
+          "duration_seconds": 0.02,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "Neo4j Sync",
+      "status": "failed",
+      "duration_seconds": 5.84,
+      "agents": [
+        {
+          "name": "neo4j_sync_agent",
+          "status": "failed",
+          "duration_seconds": 5.84,
+          "error_message": "main() takes 0 positional arguments but 1 was given",
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    }
+  ],
+  "endpoints": {},
+  "statistics": {
+    "total_phases": 9,
+    "successful_phases": 8,
+    "failed_phases": 1,
+    "total_agents": 20,
+    "successful_agents": 16,
+    "failed_agents": 1,
+    "skipped_agents": 3
+  },
+  "errors": [
+    "Phase 'Neo4j Sync' failed"
+  ]
+}

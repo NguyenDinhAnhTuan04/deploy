@@ -1,0 +1,2035 @@
+[
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:0-20251117T195009106117Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:0"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.691054105759,
+          10.7918902432446
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:09.106117Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:09.106117Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 91.2,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:09.106117Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:09.106117Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:09.106117Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:1-20251117T195013419935Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:1"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.677986383438,
+          10.8797100979598
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:13.419935Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:13.419935Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 79.0,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:13.419935Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:13.419935Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:13.419935Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:2-20251117T195013734061Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:2"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.713809967041,
+          10.8361932799182
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:13.734061Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:13.734061Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 79.0,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:13.734061Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:13.734061Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:13.734061Z"
+    },
+    "detectionDetails": {
+      "type": "Property",
+      "value": {
+        "total_detections": 1,
+        "classes": {
+          "train": 1
+        }
+      }
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:3-20251117T195014501917Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:3"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.691064834595,
+          10.7726452614037
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:14.501917Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:14.501917Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 82.3,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:14.501917Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:14.501917Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:14.501917Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:4-20251117T195014737138Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:4"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.781423091888,
+          10.7646823693643
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:14.737138Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:14.737138Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 84.7,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:14.737138Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:14.737138Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:14.737138Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:5-20251117T195014954920Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:5"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.593974232674,
+          10.7492355507977
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:14.954920Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:14.954920Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 75.0,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:14.954920Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:14.954920Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:14.954920Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:6-20251117T195015487192Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:6"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.684530973434,
+          10.8032933150268
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:15.487192Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:15.487192Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 72.8,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:15.487192Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:15.487192Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:15.487192Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:7-20251117T195016193509Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:7"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.620351076126,
+          10.7265671915496
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:16.193509Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:16.193509Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 75.9,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:16.193509Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:16.193509Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:16.193509Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:8-20251117T195016660160Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:8"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.715161800385,
+          10.8010801833774
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:16.660160Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:16.660160Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 76.9,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:16.660160Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:16.660160Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:16.660160Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:9-20251117T195017039875Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:9"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.686397790909,
+          10.8610818827294
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.02,
+      "observedAt": "2025-11-17T19:50:17.039875Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.02,
+      "observedAt": "2025-11-17T19:50:17.039875Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 86.9,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:17.039875Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 1,
+      "observedAt": "2025-11-17T19:50:17.039875Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:17.039875Z"
+    },
+    "detectionDetails": {
+      "type": "Property",
+      "value": {
+        "total_detections": 1,
+        "classes": {
+          "car": 1
+        }
+      }
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:10-20251117T195017399284Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:10"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.636122465134,
+          10.7821519725547
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:17.399284Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:17.399284Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 84.3,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:17.399284Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:17.399284Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:17.399284Z"
+    },
+    "detectionDetails": {
+      "type": "Property",
+      "value": {
+        "total_detections": 1,
+        "classes": {
+          "traffic light": 1
+        }
+      }
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:11-20251117T195017766548Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:11"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.790762543678,
+          10.796827763223
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:17.766548Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:17.766548Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 83.1,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:17.766548Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:17.766548Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:17.766548Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:12-20251117T195018084001Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:12"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.765716075897,
+          10.8349709243101
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:18.084001Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:18.084001Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 77.7,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:18.084001Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:18.084001Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:18.084001Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:13-20251117T195018361697Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:13"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.61497592926,
+          10.7380517925754
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:18.361697Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:18.361697Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 84.0,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:18.361697Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:18.361697Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:18.361697Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:14-20251117T195018611111Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:14"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.509790420532,
+          10.7736992353084
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:18.611111Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:18.611111Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 85.8,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:18.611111Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:18.611111Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:18.611111Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:15-20251117T195018831457Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:15"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.658009290695,
+          10.7576784340111
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.04,
+      "observedAt": "2025-11-17T19:50:18.831457Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.04,
+      "observedAt": "2025-11-17T19:50:18.831457Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 73.3,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:18.831457Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 2,
+      "observedAt": "2025-11-17T19:50:18.831457Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:18.831457Z"
+    },
+    "detectionDetails": {
+      "type": "Property",
+      "value": {
+        "total_detections": 3,
+        "classes": {
+          "person": 1,
+          "car": 1,
+          "truck": 1
+        }
+      }
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:16-20251117T195019080050Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:16"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.704602,
+          10.781944
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:19.080050Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:19.080050Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 87.7,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:19.080050Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:19.080050Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:19.080050Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:17-20251117T195019308175Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:17"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.664902567863,
+          10.8129465937096
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.04,
+      "observedAt": "2025-11-17T19:50:19.308175Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.04,
+      "observedAt": "2025-11-17T19:50:19.308175Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 82.1,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:19.308175Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 2,
+      "observedAt": "2025-11-17T19:50:19.308175Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:19.308175Z"
+    },
+    "detectionDetails": {
+      "type": "Property",
+      "value": {
+        "total_detections": 2,
+        "classes": {
+          "car": 2
+        }
+      }
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:18-20251117T195019512349Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:18"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.577017307281,
+          10.7304200365785
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:19.512349Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:19.512349Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 80.3,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:19.512349Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:19.512349Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:19.512349Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:19-20251117T195019713176Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:19"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.571368575096,
+          10.7590644777735
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:19.713176Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:19.713176Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 89.0,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:19.713176Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:19.713176Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:19.713176Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:20-20251117T195019968260Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:20"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.670830249786,
+          10.7697784337206
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:19.968260Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:19.968260Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 91.9,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:19.968260Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:19.968260Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:19.968260Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:21-20251117T195020159725Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:21"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.696482896805,
+          10.8019970541825
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.02,
+      "observedAt": "2025-11-17T19:50:20.159725Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.02,
+      "observedAt": "2025-11-17T19:50:20.159725Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 85.6,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:20.159725Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 1,
+      "observedAt": "2025-11-17T19:50:20.159725Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:20.159725Z"
+    },
+    "detectionDetails": {
+      "type": "Property",
+      "value": {
+        "total_detections": 1,
+        "classes": {
+          "car": 1
+        }
+      }
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:22-20251117T195020352160Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:22"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.677197813988,
+          10.751960277381
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.02,
+      "observedAt": "2025-11-17T19:50:20.352160Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.02,
+      "observedAt": "2025-11-17T19:50:20.352160Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 80.5,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:20.352160Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 1,
+      "observedAt": "2025-11-17T19:50:20.352160Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:20.352160Z"
+    },
+    "detectionDetails": {
+      "type": "Property",
+      "value": {
+        "total_detections": 1,
+        "classes": {
+          "bus": 1
+        }
+      }
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:23-20251117T195020537329Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:23"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.7755866,
+          10.7701157
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:20.537329Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:20.537329Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 77.7,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:20.537329Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:20.537329Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:20.537329Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:24-20251117T195020766143Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:24"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.677948832512,
+          10.794472307568
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:20.766143Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:20.766143Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 90.4,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:20.766143Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:20.766143Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:20.766143Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:25-20251117T195020952202Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:25"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.737660169601,
+          10.7052043577961
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.02,
+      "observedAt": "2025-11-17T19:50:20.952202Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.02,
+      "observedAt": "2025-11-17T19:50:20.952202Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 84.4,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:20.952202Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 1,
+      "observedAt": "2025-11-17T19:50:20.952202Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:20.952202Z"
+    },
+    "detectionDetails": {
+      "type": "Property",
+      "value": {
+        "total_detections": 3,
+        "classes": {
+          "person": 1,
+          "bench": 1,
+          "car": 1
+        }
+      }
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:26-20251117T195021157237Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:26"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.672879457474,
+          10.8079619154301
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:21.157237Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:21.157237Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 83.8,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:21.157237Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:21.157237Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:21.157237Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:27-20251117T195021332966Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:27"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.768741607666,
+          10.872081942303
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:21.332966Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:21.332966Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 81.2,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:21.332966Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:21.332966Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:21.332966Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:28-20251117T195021595431Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:28"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.654415130615,
+          10.8619248135124
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.02,
+      "observedAt": "2025-11-17T19:50:21.595431Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.02,
+      "observedAt": "2025-11-17T19:50:21.595431Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 86.4,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:21.595431Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 1,
+      "observedAt": "2025-11-17T19:50:21.595431Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:21.595431Z"
+    },
+    "detectionDetails": {
+      "type": "Property",
+      "value": {
+        "total_detections": 1,
+        "classes": {
+          "car": 1
+        }
+      }
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:29-20251117T195021892419Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:29"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.671452522278,
+          10.7918902432446
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:21.892419Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:21.892419Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 86.8,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:21.892419Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:21.892419Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:21.892419Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:30-20251117T195022134833Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:30"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.696075201035,
+          10.7927439077816
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:22.134833Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:22.134833Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 75.0,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:22.134833Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:22.134833Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:22.134833Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:31-20251117T195022374984Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:31"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.77956700325,
+          10.7659102810674
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:22.374984Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:22.374984Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 90.4,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:22.374984Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:22.374984Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:22.374984Z"
+    },
+    "detectionDetails": {
+      "type": "Property",
+      "value": {
+        "total_detections": 1,
+        "classes": {
+          "person": 1
+        }
+      }
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:32-20251117T195022600659Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:32"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.624095439911,
+          10.7459416028391
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:22.600659Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:22.600659Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 80.8,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:22.600659Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:22.600659Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:22.600659Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:33-20251117T195022850514Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:33"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.7367374897,
+          10.7409610852775
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:22.850514Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:22.850514Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 76.1,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:22.850514Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:22.850514Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:22.850514Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:34-20251117T195023109635Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:34"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.670079231262,
+          10.7503686605855
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:23.109635Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:23.109635Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 78.4,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:23.109635Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:23.109635Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:23.109635Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:35-20251117T195023395200Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:35"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.68367266655,
+          10.7519444666594
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.04,
+      "observedAt": "2025-11-17T19:50:23.395200Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.04,
+      "observedAt": "2025-11-17T19:50:23.395200Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 78.0,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:23.395200Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 2,
+      "observedAt": "2025-11-17T19:50:23.395200Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:23.395200Z"
+    },
+    "detectionDetails": {
+      "type": "Property",
+      "value": {
+        "total_detections": 2,
+        "classes": {
+          "bus": 1,
+          "truck": 1
+        }
+      }
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:36-20251117T195023701163Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:36"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.690624952316,
+          10.7748059039379
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.02,
+      "observedAt": "2025-11-17T19:50:23.701163Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.02,
+      "observedAt": "2025-11-17T19:50:23.701163Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 86.6,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:23.701163Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 1,
+      "observedAt": "2025-11-17T19:50:23.701163Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:23.701163Z"
+    },
+    "detectionDetails": {
+      "type": "Property",
+      "value": {
+        "total_detections": 1,
+        "classes": {
+          "car": 1
+        }
+      }
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:37-20251117T195024016646Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:37"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.695774793625,
+          10.7917743133057
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:24.016646Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:24.016646Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 73.1,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:24.016646Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:24.016646Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:24.016646Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:38-20251117T195024418002Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:38"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.70635342598,
+          10.7710748334425
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:24.418002Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:24.418002Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 73.1,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:24.418002Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:24.418002Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:24.418002Z"
+    }
+  },
+  {
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://smartdatamodels.org/context.jsonld"
+    ],
+    "id": "urn:ngsi-ld:ItemFlowObserved:39-20251117T195024714234Z",
+    "type": "ItemFlowObserved",
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:39"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.601693630219,
+          10.7235049089888
+        ]
+      }
+    },
+    "intensity": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:24.714234Z"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 0.0,
+      "observedAt": "2025-11-17T19:50:24.714234Z"
+    },
+    "averageSpeed": {
+      "type": "Property",
+      "value": 77.8,
+      "unitCode": "KMH",
+      "observedAt": "2025-11-17T19:50:24.714234Z"
+    },
+    "vehicleCount": {
+      "type": "Property",
+      "value": 0,
+      "observedAt": "2025-11-17T19:50:24.714234Z"
+    },
+    "congestionLevel": {
+      "type": "Property",
+      "value": "free",
+      "observedAt": "2025-11-17T19:50:24.714234Z"
+    }
+  }
+]

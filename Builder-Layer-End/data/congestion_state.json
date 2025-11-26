@@ -1,0 +1,6248 @@
+{
+  "urn:ngsi-ld:Camera:CamX": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-01T09:34:03Z",
+    "history": [
+      {
+        "ts": "2025-11-01T09:20:26Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-01T09:24:40Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-01T09:27:27Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-01T09:30:58Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-01T09:31:07Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-01T09:34:03Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:CamAlert": {
+    "congested": true,
+    "first_breach_ts": "2025-11-01T09:20:26Z",
+    "last_update_ts": "2025-11-01T09:24:40Z",
+    "history": [
+      {
+        "ts": "2025-11-01T09:20:26Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-01T09:24:40Z",
+        "congested": true
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:0": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:12.003664Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:04.557867Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:06.169517Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:50.594593Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:10.747625Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:20.464084Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:00.256646Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:20.512672Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:35.750945Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:24.945410Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:13:53.116643Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:11.089086Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:42.249718Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:12.284284Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:15.249455Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:34.865735Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:34.685530Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:07.423848Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:05.033640Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:08.562365Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:10.165517Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:40:57.857474Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:26.718785Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:17.678642Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:01.960368Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:01.868947Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:45.535661Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.177350Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:36.648018Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:00.423745Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:00.535371Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:10:43.766012Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:27.775173Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:33.767515Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:18.334374Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:39:51.085629Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:09.106117Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:12.003664Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:1": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:17.503458Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:04.680893Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:10.059046Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:55.056037Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:14.946389Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:25.005899Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:05.223079Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:20.902752Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:39.672046Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:25.307031Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:13:57.077474Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:11.564573Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:42.557943Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:16.588175Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:20.143746Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:35.250880Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:39.636948Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:11.375253Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:10.208291Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:14.738390Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:15.145288Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:03.930111Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:30.978858Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:30.624207Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:12.281340Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:12.902482Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:49.680128Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.201192Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:37.421523Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:00.759508Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:00.875762Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:10:54.745055Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:31.958989Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:37.844121Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:23.297874Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:39:55.052950Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:13.419935Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:17.503458Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:2": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:17.943724Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:04.782367Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:10.379701Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:55.300391Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:15.316634Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:25.231638Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:05.987194Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:21.121965Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:39.941318Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:25.777449Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:13:57.313429Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:11.840272Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:42.847326Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:17.028841Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:20.492276Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:35.441463Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:40.271013Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:11.972927Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:10.440254Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:15.073771Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:15.761341Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:04.566800Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:31.220928Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:31.105164Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:12.518158Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:13.191122Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:49.962440Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.222578Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:37.855576Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:00.988637Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:01.184118Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:10:55.399114Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:32.210407Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:38.310751Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:23.486854Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:39:55.283583Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:13.734061Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:17.943724Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:3": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:18.986555Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:04.899753Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:11.411434Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:55.532696Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:15.610598Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:25.548537Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:06.616632Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:21.476003Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:40.363909Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:26.018931Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:13:57.512848Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:12.072485Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:43.031017Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:17.224558Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:20.748577Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:35.710698Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:43.299678Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:12.479149Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:10.827683Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:15.433604Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:16.943866Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:05.350279Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:31.588673Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:31.610818Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:12.764793Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:14.019254Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:50.187901Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.245932Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:38.409049Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:01.173928Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:01.382622Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:10:56.530817Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:32.442124Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:38.601998Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:23.656358Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:39:55.526208Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:14.501917Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:18.986555Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:4": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:19.328323Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:05.012492Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:11.962165Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:56.002663Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:15.875760Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:25.750488Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:06.861375Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:21.703198Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:40.652170Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:26.228382Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:13:57.758922Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:12.300327Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:43.220642Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:17.426879Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:21.009957Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:36.032683Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:43.842676Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:13.208983Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:11.122243Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:15.668878Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:17.680474Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:06.234234Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:32.331039Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:33.126878Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:12.990294Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:14.388401Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:50.645606Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.265736Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:38.694707Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:01.367651Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:01.586882Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:10:56.795618Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:32.659995Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:38.891159Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:23.914162Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:39:55.758629Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:14.737138Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:19.328323Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:5": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:19.810592Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:05.110424Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:12.228305Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:56.240984Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:16.270808Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:25.971600Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:07.089687Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:29.158591Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:40.887680Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:26.438088Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:13:57.957555Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:12.665070Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:43.395659Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:17.632173Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:21.390624Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:36.235846Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:44.304091Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:13.714197Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:11.854274Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:16.079031Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:18.156390Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:08.262684Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:33.133032Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:34.555706Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:13.243816Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:14.730741Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:51.059278Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.283627Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:39.272530Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:01.542051Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:01.791541Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:10:57.245429Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:33.114289Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:39.149594Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:24.099087Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:39:56.036397Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:14.954920Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:19.810592Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:6": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:20.070123Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:05.210909Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:12.487199Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:56.450966Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:16.559244Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:26.592965Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:07.324812Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:29.410768Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:41.184718Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:26.630213Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:13:58.140207Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:12.892301Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:44.498445Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:17.869349Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:21.720226Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:36.550280Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:44.796018Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:14.023927Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:12.144221Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:16.422282Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:18.665506Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:09.267731Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:33.457180Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:35.276472Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:13.438573Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:15.028145Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:51.546053Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.301346Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:39.812771Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:01.713254Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:02.357851Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:10:57.709883Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:33.783037Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:39.548937Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:24.286195Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:39:56.415112Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:15.487192Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:20.070123Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:7": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:20.559858Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:05.302987Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:12.962922Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:56.655955Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:16.797332Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:26.824087Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:07.741954Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:30.960352Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:41.413656Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:26.823076Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:13:58.347193Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:13.158179Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:44.688023Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:18.110672Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:21.929584Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:36.836206Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:45.211134Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:14.385905Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:12.782699Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:16.608150Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:18.896522Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:09.621831Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:33.706799Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:38.293506Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:13.688137Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:15.237392Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:51.761472Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.312804Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:40.213534Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:01.950325Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:02.599101Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:10:58.150203Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:34.058445Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:39.739296Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:24.461090Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:39:56.622251Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:16.193509Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:20.559858Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:8": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:21.924885Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:05.412385Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:13.323395Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:56.956668Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:17.062210Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:27.064683Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:07.987447Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:31.373136Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:41.653259Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:27.041130Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:13:58.537150Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:13.385311Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:44.888887Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:18.350421Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:22.144759Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:39.602381Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:45.675531Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:14.986464Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:13.139060Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:16.843856Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:19.191552Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:10.094746Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:34.045160Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:38.815118Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:14.721049Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:15.546770Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:51.978072Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.337395Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:40.625453Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:02.162042Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:03.066411Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:10:58.553938Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:34.327391Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:39.981998Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:24.658161Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:39:57.038717Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:16.660160Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:21.924885Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:9": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:22.195016Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:05.520920Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:13.573054Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:57.221544Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:17.300455Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:27.298541Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:08.164893Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:31.556877Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:41.840573Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:27.275926Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:13:58.731534Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:13.597886Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:45.106670Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:18.581331Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:22.395365Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:41.276493Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:45.961479Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:15.644538Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:13.830655Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:17.314085Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:19.538520Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:10.554332Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:34.535447Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:39.890304Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:15.086549Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:16.023789Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:52.439545Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.358337Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:41.153087Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:02.718960Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:03.323352Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:10:59.202046Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:34.627244Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:40.179698Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:24.950717Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:39:57.335967Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:17.039875Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:22.195016Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:10": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:22.414329Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:05.665048Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:13.818799Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:57.556403Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:17.552849Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:27.478108Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:08.400417Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:31.891348Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:42.062693Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:27.537307Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:13:58.949023Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:13.818609Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:45.375513Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:18.813642Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:22.608025Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:41.533307Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:47.603726Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:16.208259Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:14.626276Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:17.653574Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:20.158789Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:10.945427Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:34.811322Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:40.466648Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:15.382170Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:16.228079Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:52.857394Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.378505Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:41.744800Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:02.955585Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:03.559051Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:10:59.574244Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:34.926430Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:40.429580Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:25.152056Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:39:57.528393Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:17.399284Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:22.414329Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:11": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:22.700223Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:05.774101Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:14.221749Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:57.780173Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:17.770782Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:27.737444Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:08.610408Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:32.213740Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:42.363037Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:27.752457Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:13:59.151852Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:14.002991Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:45.629627Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:19.042071Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:22.865662Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:41.742036Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:48.345706Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:16.505095Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:15.211581Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:17.950941Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:23.840798Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:11.632108Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:41.313260Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:41.172434Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:15.618530Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:16.506634Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:53.115262Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.397237Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:42.078553Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:03.170038Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:03.847576Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:00.304163Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:35.198396Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:40.666334Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:25.331517Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:39:58.008867Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:17.766548Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:22.700223Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:12": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:22.981165Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:05.872914Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:14.565749Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:58.038719Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:18.058163Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:27.990695Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:08.902784Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:32.460994Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:42.542357Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:27.941296Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:13:59.462404Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:14.194781Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:45.850693Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:19.339719Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:23.130825Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:42.086111Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:49.054714Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:16.956688Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:15.573276Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:18.527092Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:24.372383Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:11.891729Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:41.665300Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:41.738804Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:15.943851Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:16.940581Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:53.527432Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.415837Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:42.579509Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:03.375991Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:04.038680Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:00.866842Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:35.471617Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:40.918094Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:25.527443Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:39:58.520478Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:18.084001Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:22.981165Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:13": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:23.294295Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:05.990569Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:14.989808Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:58.262447Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:18.411280Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:28.245920Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:09.121414Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:32.758569Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:42.899565Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:28.165666Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:13:59.687110Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:14.388637Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:46.055867Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:19.575622Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:23.379264Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:42.397845Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:49.742062Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:17.667332Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:15.862646Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:20.239052Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:25.465093Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:12.190536Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:41.931790Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:43.135882Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:16.215417Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:17.304107Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:53.752704Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.429233Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:42.985660Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:03.610214Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:04.296473Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:02.701210Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:35.742913Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:41.108296Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:25.703017Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:39:59.347694Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:18.361697Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:23.294295Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:14": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:23.523057Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:06.123502Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:15.453770Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:58.447237Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:18.694054Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:28.479229Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:09.436912Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:33.002795Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:43.149318Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:28.425893Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:13:59.867675Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:14.592164Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:46.468902Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:19.858494Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:23.614292Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:42.809298Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:50.112943Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:17.922853Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:16.265511Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:20.609297Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:26.664905Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:13.033446Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:43.896459Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:43.571804Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:16.526254Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:17.656866Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:53.947037Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.450878Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:43.438676Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:03.845025Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:04.674371Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:03.212558Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:36.080235Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:41.339759Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:25.911988Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:39:59.814538Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:18.611111Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:23.523057Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:15": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:23.876003Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:06.252265Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:15.967343Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:58.649423Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:18.940313Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:28.672369Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:09.700507Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:33.319303Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:43.398066Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:28.630436Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:00.133173Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:14.831599Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:46.851167Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:20.077900Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:24.035045Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:43.306563Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:50.546968Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:18.584279Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:16.658772Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:21.078421Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:27.562569Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:13.648966Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:44.197153Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:44.115605Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:16.881767Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:17.994226Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:54.138290Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.476026Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:43.897739Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:04.173391Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:05.028613Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:03.661905Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:36.353791Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:41.588139Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:26.085771Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:00.179945Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:18.831457Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:23.876003Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:16": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:24.134632Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:06.376103Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:16.221774Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:58.848134Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:19.168482Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:28.855145Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:09.995871Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:33.646693Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:43.777534Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:28.815034Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:00.332187Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:15.054246Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:47.114908Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:20.300431Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:24.308549Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:43.684716Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:50.887475Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:18.948233Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:17.016949Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:21.589643Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:28.299288Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:14.250821Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:44.538762Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:44.655865Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:17.757934Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:18.521220Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:54.357953Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.496027Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:44.669978Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:04.407488Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:05.226925Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:04.855608Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:36.915078Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:42.219502Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:26.373775Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:00.528356Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:19.080050Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:24.134632Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:17": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:24.437380Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:06.477985Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:16.607327Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:59.051480Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:19.399778Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:29.751631Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:10.265333Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:33.893794Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:43.963866Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:28.998677Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:00.656207Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:15.846691Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:47.280998Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:20.559974Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:24.496699Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:43.976014Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:51.381014Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:19.260785Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:17.778432Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:23.109556Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:28.555558Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:14.699086Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:44.919756Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:45.289201Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:18.393449Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:18.781332Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:54.592233Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.512135Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:45.141231Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:04.644424Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:05.577337Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:05.339784Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:37.525751Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:42.527956Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:26.527139Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:00.834100Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:19.308175Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:24.437380Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:18": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:24.720759Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:06.569976Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:16.910567Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:59.248874Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:19.613419Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:30.085468Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:10.549931Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:34.134682Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:44.292584Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:29.242603Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:00.902816Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:16.108394Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:47.482156Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:20.777975Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:24.755138Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:44.208843Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:52.426532Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:20.837673Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:18.162485Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:23.648988Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:28.985014Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:15.894352Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:45.228724Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:45.728057Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:18.889591Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:19.389984Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:54.793244Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.529971Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:45.568964Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:04.958732Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:05.779071Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:05.827333Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:37.775881Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:42.729254Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:26.696044Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:01.110173Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:19.512349Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:24.720759Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:19": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:24.997671Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:06.688134Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:17.156119Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:59.431178Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:19.846271Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:30.388969Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:10.843031Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:34.695083Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:44.497183Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:29.717533Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:01.109209Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:16.301257Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:47.747905Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:20.973467Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:24.977183Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:44.709357Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:52.828574Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:21.134859Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:18.964503Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:24.138343Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:29.270178Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:16.181390Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:45.956517Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:46.160805Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:19.471140Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:19.689207Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:54.970778Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.547744Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:46.061324Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:05.143864Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:06.057525Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:06.037851Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:38.120876Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:42.907716Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:26.871528Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:01.424583Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:19.713176Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:24.997671Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:20": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:25.444977Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:06.791860Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:17.370114Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:59.622485Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:20.074062Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:30.593682Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:11.428107Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:35.035365Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:44.727368Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:29.970877Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:01.324497Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:16.461090Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:47.952921Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:21.202488Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:25.182138Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:44.938156Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:53.469014Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:21.342718Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:19.219034Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:25.034235Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:29.852658Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:16.623855Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:46.402245Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:46.880941Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:20.134299Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:20.002624Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:55.232844Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.564482Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:46.665619Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:05.362051Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:06.253555Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:06.675942Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:38.747318Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:43.136743Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:27.069942Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:01.667035Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:19.968260Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:25.444977Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:21": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:25.739834Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:06.905648Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:17.781655Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:54:59.838171Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:20.441816Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:30.845715Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:11.752081Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:35.271112Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:44.998793Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:30.237919Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:01.603232Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:16.651497Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:48.218586Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:21.532281Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:25.470380Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:45.390790Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:53.703765Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:21.653270Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:19.657733Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:25.350856Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:30.220278Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:18.642940Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:46.656764Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:47.450417Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:20.655030Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:20.480812Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:55.681254Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.585230Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:47.198540Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:05.549139Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:06.526883Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:07.112095Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:39.333894Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:43.347050Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:27.261714Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:01.939310Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:20.159725Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:25.739834Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:22": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:26.040061Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:07.022046Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:18.010904Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:00.030466Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:20.724197Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:31.061479Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:11.987903Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:35.494106Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:45.182341Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:30.519281Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:01.806655Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:16.839683Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:48.530113Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:21.753442Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:25.716059Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:45.586640Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:53.960160Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:22.261004Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:19.886128Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:25.752171Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:30.590683Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:19.106492Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:47.287237Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:47.939093Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:21.087807Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:20.977124Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:56.319948Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.601228Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:47.584296Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:05.738517Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:06.718031Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:07.388883Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:39.907304Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:45.304955Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:27.462820Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:02.166649Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:20.352160Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:26.040061Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:23": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:26.297986Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:07.127781Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:18.217353Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:00.355353Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:20.896289Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:31.300312Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:12.228954Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:35.850327Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:45.709341Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:30.787405Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:02.290021Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:17.037795Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:48.764446Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:21.947910Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:26.081482Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:45.752317Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:54.587025Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:22.560679Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:20.224226Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:26.061332Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:31.312383Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:19.657172Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:47.709827Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:48.170837Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:21.415271Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:21.269442Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:56.536501Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.615841Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:48.006785Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:05.895464Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:06.901842Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:07.839913Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:40.347719Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:45.572737Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:27.624443Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:02.432598Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:20.537329Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:26.297986Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:24": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:26.725788Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:07.260170Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:18.443009Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:00.605042Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:21.162985Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:31.638586Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:12.706996Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:36.089419Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:45.932831Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:31.086653Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:02.588609Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:17.293037Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:49.108715Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:22.241547Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:26.818223Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:46.206625Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:54.965898Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:22.908357Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:20.464235Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:26.429474Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:32.328310Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:20.117847Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:48.042214Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:48.682496Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:22.101035Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:21.675211Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:56.778671Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.631953Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:48.514761Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:06.113381Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:07.153059Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:08.842401Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:41.241212Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:45.813289Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:27.840047Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:02.750448Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:20.766143Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:26.725788Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:25": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:27.558238Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:07.351870Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:18.637643Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:00.842812Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:21.363428Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:32.215342Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:12.925464Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:36.368033Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:46.345465Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:31.346302Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:02.776342Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:17.494401Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:49.412569Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:22.442372Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:27.357357Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:46.526269Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:56.176841Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:23.193551Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:20.923773Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:26.840340Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:32.895256Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:21.700406Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:48.466737Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:49.155173Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:22.537504Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:21.926624Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:57.272588Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.648732Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:48.753976Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:06.388960Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:07.394155Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:09.406188Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:41.888640Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:46.006257Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:28.066893Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:03.048583Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:20.952202Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:27.558238Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:26": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:27.974834Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:07.469682Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:18.879719Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:01.041154Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:21.637392Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:32.540505Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:13.120913Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:36.656848Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:46.693543Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:31.914064Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:03.695393Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:17.714376Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:49.679859Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:22.697380Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:27.633871Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:46.869808Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:58.291328Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:23.630900Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:21.239344Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:27.503856Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:33.240684Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:22.327525Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:48.775031Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:49.641905Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:23.067755Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:22.311871Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:57.560553Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.665250Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:49.381954Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:06.589018Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:07.641479Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:09.959273Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:42.289145Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:46.254996Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:28.300889Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:03.292134Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:21.157237Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:27.974834Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:27": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:28.342882Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:07.560114Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:19.183187Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:01.231734Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:21.809217Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:32.852313Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:13.277293Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:36.934556Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:46.888977Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:32.234054Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:03.920738Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:17.881786Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:49.913827Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:22.960713Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:27.892150Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:47.104375Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:58.551287Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:23.947193Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:21.445871Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:27.779639Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:33.544994Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:22.900339Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:49.063737Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:50.109245Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:23.292931Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:22.559651Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:57.756050Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.682468Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:49.809487Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:06.748925Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:07.902652Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:10.649134Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:42.812556Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:46.652576Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:28.641874Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:03.506401Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:21.332966Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:28.342882Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:28": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:28.781476Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:07.662741Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:19.364720Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:01.426783Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:22.140880Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:33.352749Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:13.582054Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:37.134192Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:47.123432Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:32.475250Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:04.138110Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:18.156864Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:50.229080Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:23.162173Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:28.155125Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:47.381892Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:58.789131Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:24.157141Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:21.731089Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:28.228191Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:34.049934Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:24.154451Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:49.445369Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:50.575733Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:23.837616Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:22.947753Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:58.183312Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.700728Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:50.475515Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:06.911295Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:08.144136Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:12.119351Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:43.095990Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:46.939330Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:28.854314Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:03.895758Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:21.595431Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:28.781476Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:29": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:29.365440Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:07.778644Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:19.616077Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:01.623600Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:22.380059Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:33.812423Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:13.856832Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:37.348255Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:47.392405Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:32.794734Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:04.537933Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:18.351975Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:50.483952Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:23.371168Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:28.565617Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:48.194877Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:59.130616Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:24.387685Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:22.247009Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:28.665970Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:34.664453Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:24.632138Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:49.932784Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:51.139421Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:24.346550Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:23.291224Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:58.427379Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.717981Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:50.903978Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:07.120613Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:08.392196Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:12.848491Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:43.393844Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:47.171021Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:29.870583Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:04.164532Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:21.892419Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:29.365440Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:30": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:29.729178Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:07.902641Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:20.018702Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:01.819660Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:22.570782Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:34.109278Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:14.097894Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:37.559728Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:47.593696Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:33.215003Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:04.770543Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:18.533945Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:50.849444Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:23.588257Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:29.101996Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:48.388703Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:59.384569Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:24.693573Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:22.474974Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:29.001911Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:35.003526Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:25.012349Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:50.197365Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:51.702180Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:24.848047Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:23.583772Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:58.641947Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.738177Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:51.363473Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:07.413997Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:08.682919Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:13.566254Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:43.702065Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:47.487361Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:30.094100Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:04.453910Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:22.134833Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:29.729178Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:31": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:30.327229Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:08.068766Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:20.280721Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:02.004982Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:22.822196Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:34.920948Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:14.433227Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:37.781410Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:47.799718Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:33.534939Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:05.352735Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:18.735508Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:51.073029Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:23.814253Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:29.399960Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:49.064683Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:59.623169Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:24.953335Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:22.743087Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:29.825951Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:35.518971Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:25.298301Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:50.522876Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:52.218493Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:25.373775Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:23.990145Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:58.878339Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.752078Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:51.598998Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:07.614950Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:08.942980Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:14.344874Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:44.217527Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:47.883436Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:30.354159Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:04.790011Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:22.374984Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:30.327229Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:32": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:30.663892Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:08.709540Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:20.534745Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:02.218490Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:23.209493Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:35.212930Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:14.658394Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:38.045370Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:48.030079Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:33.875056Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:05.685499Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:18.919834Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:51.308230Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:24.043517Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:29.685879Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:49.290738Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:09:59.846357Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:25.973747Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:23.324568Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:30.368799Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:35.909347Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:25.703910Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:51.132013Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:53.095804Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:25.853135Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:24.358018Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:59.290980Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.769083Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:52.053630Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:07.768515Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:09.197765Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:15.024841Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:44.578710Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:48.185001Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:30.530616Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:04.982426Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:22.600659Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:30.663892Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:33": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:30.954342Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:08.844840Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:20.726867Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:02.521246Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:23.412591Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:35.704098Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:14.931012Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:38.313358Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:48.256445Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:34.143430Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:05.899095Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:19.172790Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:51.523831Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:24.276125Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:30.055638Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:49.508446Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:10:00.720109Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:26.161351Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:23.569125Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:31.337142Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:36.214454Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:26.198067Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:51.436198Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:53.621348Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:26.287891Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:24.710557Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:59.516708Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.785213Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:52.494590Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:07.939650Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:09.430053Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:15.265195Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:44.947982Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:48.383209Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:30.697041Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:05.201416Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:22.850514Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:30.954342Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:34": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:31.221265Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:08.974307Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:20.945633Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:02.779133Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:23.669733Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:35.947509Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:15.180124Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:38.555205Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:48.505380Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:34.444243Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:06.199214Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:19.422129Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:51.900385Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:24.517454Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:30.389662Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:49.715957Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:10:00.997390Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:26.448280Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:23.794815Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:31.701472Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:36.716568Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:26.453785Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:51.968202Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:54.265755Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:26.976496Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:25.147003Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:58:59.902669Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.802418Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:52.968396Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:08.160949Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:09.667451Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:15.805194Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:45.352416Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:48.686095Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:30.953072Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:05.572664Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:23.109635Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:31.221265Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:35": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:31.529747Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:09.280434Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:21.185732Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:02.977222Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:23.924109Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:36.272705Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:15.445529Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:38.880376Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:48.768807Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:34.758347Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:06.420891Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:19.644756Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:52.089498Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:24.780206Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:31.053970Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:49.914555Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:10:01.254975Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:26.993550Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:24.069090Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:32.155648Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:37.363172Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:26.853582Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:52.544315Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:55.293719Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:27.441790Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:25.660562Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:59:00.108043Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.822036Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:53.416669Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:08.408081Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:09.934239Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:16.414941Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:45.684613Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:49.006000Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:31.148589Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:06.322316Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:23.395200Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:31.529747Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:36": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:31.829313Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:09.397591Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:21.433836Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:03.150795Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:24.175922Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:37.026657Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:15.733738Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:39.167544Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:48.978441Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:35.049228Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:06.906959Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:19.864968Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:52.282565Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:25.063159Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:31.796507Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:50.140928Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:10:01.845687Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:27.758015Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:24.588444Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:32.433269Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:38.167326Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:27.145121Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:52.998269Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:55.925852Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:27.963758Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:26.261705Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:59:00.303626Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.829415Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:53.853977Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:08.626302Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:10.144842Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:17.031574Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:46.292828Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:49.208087Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:31.321852Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:06.543682Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:23.701163Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:31.829313Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:37": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:32.074563Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:09.499900Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:21.916874Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:03.381594Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:24.445864Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:37.261795Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:16.827204Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:39.487652Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:49.170863Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:35.718085Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:07.513499Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:20.029475Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:52.495188Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:25.294068Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:33.796986Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:50.390545Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:10:02.127380Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:28.192857Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:24.812674Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:32.723873Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:38.387687Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:27.567945Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:53.313922Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:56.345025Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:28.480162Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:26.655902Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:59:00.707483Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.850551Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:54.313095Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:08.801143Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:10.349800Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:17.485728Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:46.709229Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:49.411721Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:31.509498Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:06.723704Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:24.016646Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:32.074563Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:38": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:32.484643Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:09.620513Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:22.241914Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:03.588701Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:24.792943Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:37.456629Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:17.131643Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:39.758901Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:49.363832Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:36.108866Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:08.139629Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:20.388831Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:52.695339Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:25.527747Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:34.140898Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:50.617718Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:10:02.631367Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:28.554917Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:25.029259Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:33.150734Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:38.716737Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:27.968992Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:53.550828Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:56.924656Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:28.952265Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:26.938207Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:59:00.906842Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.866835Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:54.864784Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:08.998461Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:10.581919Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:17.969098Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:47.061746Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:49.635270Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:33.457672Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:06.921485Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:24.418002Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:32.484643Z",
+        "congested": false
+      }
+    ]
+  },
+  "urn:ngsi-ld:Camera:39": {
+    "congested": false,
+    "first_breach_ts": null,
+    "last_update_ts": "2025-11-17T20:03:32.739693Z",
+    "history": [
+      {
+        "ts": "2025-11-05T19:19:09.712117Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T20:22:22.448779Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-09T23:55:03.776611Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T00:11:25.047001Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:52:37.655152Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T01:59:17.613958Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:01:39.995387Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:04:49.533483Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:07:36.401863Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:14:08.815722Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:17:20.648383Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:18:53.227697Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:23:25.806557Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:27:34.949758Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-10T02:29:50.947717Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:10:03.334789Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:33:29.344227Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-11T18:59:25.380769Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:12:33.449338Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:32:38.999387Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:41:28.544196Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T06:59:53.882955Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:08:57.439496Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:29:29.549371Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:40:27.246744Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T20:59:01.098340Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:13:33.880688Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:17:55.336250Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:28:09.228250Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T21:37:10.785353Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-12T22:11:18.439361Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:35:47.620198Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T07:44:49.942957Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:13:33.671355Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:40:07.219525Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T19:50:24.714234Z",
+        "congested": false
+      },
+      {
+        "ts": "2025-11-17T20:03:32.739693Z",
+        "congested": false
+      }
+    ]
+  }
+}

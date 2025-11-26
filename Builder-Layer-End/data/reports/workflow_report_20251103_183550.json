@@ -1,0 +1,58 @@
+{
+  "execution_time": "2025-11-03T11:35:50.834489Z",
+  "total_duration_seconds": 2.24,
+  "status": "partial",
+  "phases": [
+    {
+      "name": "Data Collection",
+      "status": "success",
+      "duration_seconds": 2.2,
+      "agents": [
+        {
+          "name": "image_refresh_agent",
+          "status": "success",
+          "duration_seconds": 2.2,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "external_data_collector_agent",
+          "status": "skipped",
+          "duration_seconds": 0.0,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "Transformation",
+      "status": "failed",
+      "duration_seconds": 0.04,
+      "agents": [
+        {
+          "name": "ngsi_ld_transformer_agent",
+          "status": "failed",
+          "duration_seconds": 0.04,
+          "error_message": "main() takes 0 positional arguments but 1 was given",
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    }
+  ],
+  "endpoints": {},
+  "statistics": {
+    "total_phases": 2,
+    "successful_phases": 1,
+    "failed_phases": 1,
+    "total_agents": 3,
+    "successful_agents": 1,
+    "failed_agents": 1,
+    "skipped_agents": 1
+  },
+  "errors": [
+    "Phase 'Transformation' failed"
+  ]
+}

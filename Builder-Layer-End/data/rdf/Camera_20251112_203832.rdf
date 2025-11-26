@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ngsi-ld="https://uri.etsi.org/ngsi-ld/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sosa="http://www.w3.org/ns/sosa/"
+>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%25201.8-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%25201.8"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.74</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.790762543678, 10.796827763223]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:35.068515Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520292">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Lũy Bán Bích - Thoại Ngọc Hầu</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 292</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6623f1046f998a001b2527db&amp;zoom=4&amp;t=1762979683538</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:25.252325Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.636122465134, 10.7821519725547]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%252022.7-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252022.7"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.73</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.781423091888, 10.7646823693643]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:34:57.259144Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%252022.7-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252022.7"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.06</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.781423091888, 10.7646823693643]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:34:57.259144Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%252026.4">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Phổ Quang - Hoàng Minh Giám</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 26.4</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58df4d95dc195800111e04b9&amp;zoom=4&amp;t=1762979683544</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:57.585742Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.672879457474, 10.8079619154301]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:ITS%25208.2-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:ITS%25208.2"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.44</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.704602, 10.781944]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:57.418277Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%252044.4-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252044.4"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.14</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.696482896805, 10.8019970541825]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:20.574752Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520245-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520245"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.51</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.737660169601, 10.7052043577961]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:42.438554Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%252029.4">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Trường Sơn - Ga Quốc Nội 2</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 29.4</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5b8b2323ca057700116405d0&amp;zoom=4&amp;t=1762979683540</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:39.441543Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.664902567863, 10.8129465937096]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%252021.84">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Tô Ngọc Vân - TX25</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 21.84</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5a6065c58576340017d06615&amp;zoom=4&amp;t=1762979683533</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:07.055490Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.677986383438, 10.8797100979598]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520247">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Tôn Đức Thắng - Hàm Nghi</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 247</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=649da72ca6068200171a6dbb&amp;zoom=4&amp;t=1762979683547</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:14:21.765148Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.70635342598, 10.7710748334425]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520417-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520417"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.72</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.624095439911, 10.7459416028391]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:09.970950Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%252018.2-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252018.2"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.79</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.620351076126, 10.7265671915496]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:15.710345Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520247-20251112203751">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520247"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.46</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.70635342598, 10.7710748334425]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:42.820983Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%252011.1">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Võ Văn Kiệt - Huỳnh Mẫn Đạt</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 11.1</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48128f&amp;zoom=4&amp;t=1762979683541</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:49.519354Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.677197813988, 10.751960277381]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520423-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520423"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.03</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.509790420532, 10.7736992353084]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:42.766039Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520385">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Đinh Tiên Hoàng - Trần Quang Khải</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 385</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=662b81721afb9c00172dcc44&amp;zoom=4&amp;t=1762979683545</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:14:05.654556Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.696075201035, 10.7927439077816]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520102.1-20251112203751">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520102.1"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.98</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.695774793625, 10.7917743133057]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:38.201165Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%252034.11">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Nguyễn Văn Trỗi - Trần Huy Liệu</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 34.11</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH_AXIS</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58b571c817139d0010f35d5d&amp;zoom=4&amp;t=1762979683542</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:53.556055Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.677948832512, 10.794472307568]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%252018.2-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252018.2"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.73</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.620351076126, 10.7265671915496]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:15.710345Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520335">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Nguyễn Chí Thanh - Thuận Kiều</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 335</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=662b4ecb1afb9c00172d8692&amp;zoom=4&amp;t=1762979683539</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:35.408200Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.658009290695, 10.7576784340111]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:IDICO-QL1%252029-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:IDICO-QL1%252029"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.27</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.593974232674, 10.7492355507977]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:11.935068Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520299.1-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520299.1"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.13</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.765716075897, 10.8349709243101]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:38.614219Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%252022.4">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Nút giao Mỹ Thủy 2</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 22.4</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c4812a2&amp;zoom=4&amp;t=1762979683541</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:51.543328Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.7755866, 10.7701157]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520245">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Huỳnh Tấn Phát - Phạm Hữu Lầu</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 245</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=63bd1f21bfd3d90017ec3d04&amp;zoom=4&amp;t=1762979683543</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:55.566880Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.737660169601, 10.7052043577961]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520197-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520197"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.69</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.670830249786, 10.7697784337206]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:20.307592Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%25201.8-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%25201.8"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.96</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.790762543678, 10.796827763223]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:35.068515Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520273-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520273"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.69</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.684530973434, 10.8032933150268]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:11.566666Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%252029.4-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252029.4"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.97</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.664902567863, 10.8129465937096]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:01.274091Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520259-20251112203751">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520259"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.43</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.690624952316, 10.7748059039379]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:33.986541Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%252021.69">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Quốc lộ 1 - Đường Lê Thị Riêng 2</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 21.69</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=595dd8463dcfc400106f28b2&amp;zoom=4&amp;t=1762979683545</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:14:01.613564Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.654415130615, 10.8619248135124]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520145">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Lê Văn Sỹ - Huỳnh Văn Bánh</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 145</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5d8cd4ee766c880017188946&amp;zoom=4&amp;t=1762979683545</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:14:03.637077Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.671452522278, 10.7918902432446]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%252011.1-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252011.1"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.31</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.677197813988, 10.751960277381]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:23.969415Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%252021.69-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252021.69"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.01</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.654415130615, 10.8619248135124]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:47.258406Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:IDICO-QL1%252036-20251112203751">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:IDICO-QL1%252036"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.03</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.601693630219, 10.7235049089888]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:49.324496Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520245-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520245"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.72</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.737660169601, 10.7052043577961]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:42.438554Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%252010.1-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252010.1"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.71</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.68367266655, 10.7519444666594]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:33.541131Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520299.1">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Võ Nguyên Giáp - Đỗ Xuân Hợp (1)</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 299.1</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6623f44f6f998a001b2528aa&amp;zoom=4&amp;t=1762979683538</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:29.303254Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.765716075897, 10.8349709243101]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520419-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520419"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.53</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.715161800385, 10.8010801833774]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:16.125708Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%252010.1">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Võ Văn Kiệt - Cầu Chữ Y 1</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 10.1</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5822adbbedeb6c0012a2d65f&amp;zoom=4&amp;t=1762979683547</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:14:15.721070Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.68367266655, 10.7519444666594]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520442">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Trần Đại Nghĩa - Võ Trần Chí</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 442</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=68188a226dfb4b0018f8f70a&amp;zoom=4&amp;t=1762979683540</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:41.462306Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.577017307281, 10.7304200365785]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%252044.4">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Phan Đăng Lưu - Lê Văn Duyệt</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 44.4</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587ee0ecb807da0011e33d50&amp;zoom=4&amp;t=1762979683540</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:47.512902Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.696482896805, 10.8019970541825]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%252021.3-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252021.3"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.33</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.768741607666, 10.872081942303]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:46.588886Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%252044.4-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252044.4"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.72</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.696482896805, 10.8019970541825]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:20.574752Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%252021.69-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252021.69"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.09</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.654415130615, 10.8619248135124]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:47.258406Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520273">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Phan Đăng Lưu - Thích Quảng Đức</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 273</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6623e8da6f998a001b2524a6&amp;zoom=4&amp;t=1762979683535</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:17.200663Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.684530973434, 10.8032933150268]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%252011.1-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252011.1"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.71</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.677197813988, 10.751960277381]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:23.969415Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%252034.11-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252034.11"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.68</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.677948832512, 10.794472307568]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:28.232361Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520335-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520335"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.45</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.658009290695, 10.7576784340111]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:56.900546Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520299.1-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520299.1"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.69</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.765716075897, 10.8349709243101]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:38.614219Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%252021.59-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252021.59"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.77</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.686397790909, 10.8610818827294]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:20.333003Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%252021.84-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252021.84"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.02</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.677986383438, 10.8797100979598]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:34:49.608680Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520259">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Nguyễn Thị Minh Khai - Bà Huyện Thanh Quan</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 259</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6623e43e6f998a001b2522cb&amp;zoom=4&amp;t=1762979683547</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:14:17.730283Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.690624952316, 10.7748059039379]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520374">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Cách Mạng Tháng Tám - Bùi Thị Xuân</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 374</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=662b7ce71afb9c00172dc676&amp;zoom=4&amp;t=1762979683534</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:11.111231Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.691064834595, 10.7726452614037]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520292-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520292"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.99</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.636122465134, 10.7821519725547]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:34.469111Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520273-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520273"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.85</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.684530973434, 10.8032933150268]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:11.566666Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%252021.3-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252021.3"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.55</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.768741607666, 10.872081942303]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:46.588886Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%252013.2-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252013.2"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.94</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.670079231262, 10.7503686605855]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:19.373092Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:ITS%25208.2">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Lý Tự Trọng - Chu Mạnh Trinh</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>ITS 8.2</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5deb576d1dc17d7c5515ad15&amp;zoom=4&amp;t=1762979683539</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:37.420909Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.704602, 10.781944]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520259-20251112203751">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520259"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.67</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.690624952316, 10.7748059039379]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:33.986541Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520145-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520145"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.35</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.671452522278, 10.7918902432446]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:51.232087Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%252034.11-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252034.11"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.79</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.677948832512, 10.794472307568]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:28.232361Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%252026.4-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252026.4"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.68</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.672879457474, 10.8079619154301]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:43.063808Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520102.1">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Đinh Tiên Hoàng - Võ Thị Sáu 1</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 102.1</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5a823e425058170011f6eaa4&amp;zoom=4&amp;t=1762979683547</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:14:19.748469Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.695774793625, 10.7917743133057]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520300">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Quốc Lộ 13 - cầu Ông Dầu</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 300</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6623f4df6f998a001b2528eb&amp;zoom=4&amp;t=1762979683533</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:09.077941Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.713809967041, 10.8361932799182]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520335-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520335"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.99</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.658009290695, 10.7576784340111]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:56.900546Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520406">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Trần Quang Khải - Trần Khắc Chân</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 406</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=662b86c41afb9c00172dd31c&amp;zoom=4&amp;t=1762979683504</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:05.002234Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.691054105759, 10.7918902432446]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520145-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520145"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.69</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.671452522278, 10.7918902432446]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:51.232087Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520419-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520419"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.02</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.715161800385, 10.8010801833774]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:16.125708Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%252022.4-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252022.4"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.73</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.7755866, 10.7701157]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:25.248047Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%252021.59">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Quốc lộ 1 - Rạch Láng Le 1</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 21.59</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=595dc29c3dcfc400106f2894&amp;zoom=4&amp;t=1762979683535</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:23.243372Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.686397790909, 10.8610818827294]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520440">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Trần Văn Giàu - cầu Tân Tạo</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 440</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=681889a96dfb4b0018f8f67e&amp;zoom=4&amp;t=1762979683540</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:43.462815Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.571368575096, 10.7590644777735]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%252018.2">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Võ Văn Kiệt - An Dương Vương 2</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 18.2</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481299&amp;zoom=4&amp;t=1762979683535</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:19.218000Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.620351076126, 10.7265671915496]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520124.1-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520124.1"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.1</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.7367374897, 10.7409610852775]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:12.359657Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%252010.1-20251112203751">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252010.1"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.92</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.68367266655, 10.7519444666594]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:33.541131Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%252022.6.1-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252022.6.1"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.82</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.77956700325, 10.7659102810674]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:06.185928Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520124.1-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520124.1"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.72</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.7367374897, 10.7409610852775]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:12.359657Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:IDICO-QL1%252029-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:IDICO-QL1%252029"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.04</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.593974232674, 10.7492355507977]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:11.935068Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%252026.4-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252026.4"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.11</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.672879457474, 10.8079619154301]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:43.063808Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%252021.3">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Quốc lộ 1 - KCX Linh Trung 1</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 21.3</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=586e28a0f9fab7001111b0b3&amp;zoom=4&amp;t=1762979683544</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:59.601244Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.768741607666, 10.872081942303]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520385-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520385"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.98</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.696075201035, 10.7927439077816]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:05.837821Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:IDICO-QL1%252036">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>QL1 - Nút giao An Lạc 2</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>IDICO-QL1 36</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5a6088218576340017d06693&amp;zoom=4&amp;t=1762979683547</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:14:23.792710Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.601693630219, 10.7235049089888]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%252013.2">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Võ Văn Kiệt - Nguyễn Tri Phương 2</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 13.2</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481297&amp;zoom=4&amp;t=1762979683546</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:14:13.707634Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.670079231262, 10.7503686605855]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520417">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Vòng xoay Mũi Tàu Phú Lâm</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 417</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=66b1c3c2779f740018674125&amp;zoom=4&amp;t=1762979683546</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:14:09.677027Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.624095439911, 10.7459416028391]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520423-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520423"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.92</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.509790420532, 10.7736992353084]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:42.766039Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%25201.8">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Cao tốc LTDG - Võ Chí Công</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 1.8</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5d9de4de766c880017188cbb&amp;zoom=4&amp;t=1762979683538</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:27.271263Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.790762543678, 10.796827763223]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%252021.59-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252021.59"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.03</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.686397790909, 10.8610818827294]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:20.333003Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520417-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520417"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.34</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.624095439911, 10.7459416028391]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:09.970950Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520247-20251112203751">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520247"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.74</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">98</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.70635342598, 10.7710748334425]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:42.820983Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520197">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Ba Tháng Hai – Sư Vạn Hạnh</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 197</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=63ae7a50bfd3d90017e8f2b2&amp;zoom=4&amp;t=1762979683540</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:45.493949Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.670830249786, 10.7697784337206]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520423">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Mai Bá Hương - Kênh 4</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 423</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6818833d6dfb4b0018f8ee9d&amp;zoom=4&amp;t=1762979683539</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:33.388648Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.509790420532, 10.7736992353084]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520406-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520406"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.44</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.691054105759, 10.7918902432446]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:34:48.945360Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520300-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520300"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.04</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.713809967041, 10.8361932799182]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:34:53.101524Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%252021.84-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252021.84"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.98</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.677986383438, 10.8797100979598]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:34:49.608680Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:IDICO-QL1%252036-20251112203751">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:IDICO-QL1%252036"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.69</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.601693630219, 10.7235049089888]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:49.324496Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520385-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520385"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.19</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.696075201035, 10.7927439077816]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:05.837821Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520374-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520374"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.57</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.691064834595, 10.7726452614037]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:34:54.341275Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Platform:HCMCTrafficSystem">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Platform"/>
+    <ngsi-ld:name>Ho Chi Minh City Traffic Monitoring System</ngsi-ld:name>
+    <ngsi-ld:description>City-wide traffic monitoring infrastructure</ngsi-ld:description>
+    <ngsi-ld:operator>HCMC Department of Transportation</ngsi-ld:operator>
+    <ngsi-ld:deploymentYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</ngsi-ld:deploymentYear>
+    <ngsi-ld:coverageArea>Ho Chi Minh City, Vietnam</ngsi-ld:coverageArea>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520292-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520292"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.07</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.636122465134, 10.7821519725547]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:34.469111Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%252013.2-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252013.2"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.71</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.670079231262, 10.7503686605855]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:19.373092Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%252029.4-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252029.4"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.12</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.664902567863, 10.8129465937096]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:01.274091Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520374-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520374"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.67</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.691064834595, 10.7726452614037]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:34:54.341275Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520124.1">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Nguyễn Văn Quỳ - Cầu Phú Mỹ</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 124.1</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5a8269c45058170011f6eae4&amp;zoom=4&amp;t=1762979683546</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:14:11.684789Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.7367374897, 10.7409610852775]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%252022.7">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Nguyễn Thị Định - Đường D</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 22.7</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=583f969161cfea0012cf68f7&amp;zoom=4&amp;t=1762979683534</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:13.135413Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.781423091888, 10.7646823693643]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520308-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520308"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.63</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.61497592926, 10.7380517925754]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:39.239061Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%252022.6.1">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Nguyễn Thị Định - Đường C (20-1)</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 22.6.1</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=67e217c43215f90017863bc8&amp;zoom=4&amp;t=1762979683546</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:14:07.669921Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.77956700325, 10.7659102810674]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520308">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Kinh Dương Vương - Tên Lửa</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 308</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=662a881a1afb9c00172d2559&amp;zoom=4&amp;t=1762979683538</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:31.365287Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.61497592926, 10.7380517925754]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520440-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520440"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.03</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.571368575096, 10.7590644777735]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:05.565747Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520440-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520440"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.4</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.571368575096, 10.7590644777735]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:05.565747Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520197-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520197"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.59</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.670830249786, 10.7697784337206]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:20.307592Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520406-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520406"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.98</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.691054105759, 10.7918902432446]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:34:48.945360Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:ITS%25208.2-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:ITS%25208.2"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.92</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.704602, 10.781944]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:57.418277Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:ObservableProperty:TrafficFlow">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/ObservableProperty"/>
+    <ngsi-ld:name>Traffic Flow Monitoring</ngsi-ld:name>
+    <ngsi-ld:description>Observable property representing traffic flow characteristics</ngsi-ld:description>
+    <ngsi-ld:unitOfMeasurement>vehicles/hour</ngsi-ld:unitOfMeasurement>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520102.1-20251112203751">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520102.1"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.1</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.695774793625, 10.7917743133057]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:38.201165Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520300-20251112203749">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520300"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.73</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.713809967041, 10.8361932799182]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:34:53.101524Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2520419">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Điện Biên Phủ - Nguyễn Gia Trí</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 419</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=66b1c426779f74001867415e&amp;zoom=4&amp;t=1762979683535</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:21.228998Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.715161800385, 10.8010801833774]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:IDICO-QL1%252029">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>QL1 - Tỉnh lộ 10 B (2)</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>IDICO-QL1 29</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:imageSnapshot>https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=59ca317602eb490011a0a408&amp;zoom=4&amp;t=1762979683535</ngsi-ld:imageSnapshot>
+    <ngsi-ld:status>success</ngsi-ld:status>
+    <ngsi-ld:dateLastValueReported>2025-10-31T23:13:15.168837Z</ngsi-ld:dateLastValueReported>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.593974232674, 10.7492355507977]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%252022.6.1-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252022.6.1"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.73</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.77956700325, 10.7659102810674]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:37:06.185928Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%2520442-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520442"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.73</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.577017307281, 10.7304200365785]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:02.122673Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520442-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520442"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.04</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.577017307281, 10.7304200365785]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:02.122673Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:AirQualityObserved:TTH%252022.4-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/AirQualityObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%252022.4"/>
+    <ngsi-ld:pm25 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</ngsi-ld:pm25>
+    <ngsi-ld:stationName>US Diplomatic Post: Ho Chi Minh City</ngsi-ld:stationName>
+    <ngsi-ld:distanceFromDevice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.3</ngsi-ld:distanceFromDevice>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.7755866, 10.7701157]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:36:25.248047Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:WeatherObserved:TTH%2520308-20251112203750">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/WeatherObserved"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Observation"/>
+    <ngsi-ld:refDevice rdf:resource="urn:ngsi-ld:Camera:TTH%2520308"/>
+    <ngsi-ld:temperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.72</ngsi-ld:temperature>
+    <ngsi-ld:relativeHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ngsi-ld:relativeHumidity>
+    <ngsi-ld:windSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ngsi-ld:windSpeed>
+    <ngsi-ld:precipitation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ngsi-ld:precipitation>
+    <ngsi-ld:weatherType>broken clouds</ngsi-ld:weatherType>
+    <ngsi-ld:atmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</ngsi-ld:atmosphericPressure>
+    <ngsi-ld:cloudiness rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ngsi-ld:cloudiness>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.61497592926, 10.7380517925754]}</ngsi-ld:location>
+    <ngsi-ld:dateObserved>2025-11-12T20:35:39.239061Z</ngsi-ld:dateObserved>
+  </rdf:Description>
+</rdf:RDF>

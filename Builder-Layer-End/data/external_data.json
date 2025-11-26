@@ -1,0 +1,602 @@
+[
+  {
+    "entity_id": "0",
+    "entity_name": "Trần Quang Khải - Trần Khắc Chân",
+    "latitude": 10.7918902432446,
+    "longitude": 106.691054105759,
+    "timestamp": "2025-10-31T21:06:42.951484Z",
+    "weather": {
+      "temperature": 26.12,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "1",
+    "entity_name": "Tô Ngọc Vân - TX25",
+    "latitude": 10.8797100979598,
+    "longitude": 106.677986383438,
+    "timestamp": "2025-10-31T21:06:42.962214Z",
+    "weather": {
+      "temperature": 26.02,
+      "humidity": 94,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "2",
+    "entity_name": "Quốc Lộ 13 - cầu Ông Dầu",
+    "latitude": 10.8361932799182,
+    "longitude": 106.713809967041,
+    "timestamp": "2025-10-31T21:06:42.952585Z",
+    "weather": {
+      "temperature": 26.17,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "3",
+    "entity_name": "Cách Mạng Tháng Tám - Bùi Thị Xuân",
+    "latitude": 10.7726452614037,
+    "longitude": 106.691064834595,
+    "timestamp": "2025-10-31T21:06:42.959203Z",
+    "weather": {
+      "temperature": 26.11,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "4",
+    "entity_name": "Nguyễn Thị Định - Đường D",
+    "latitude": 10.7646823693643,
+    "longitude": 106.781423091888,
+    "timestamp": "2025-10-31T21:06:42.928785Z",
+    "weather": {
+      "temperature": 26.17,
+      "humidity": 97,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "5",
+    "entity_name": "QL1 - Tỉnh lộ 10 B (2)",
+    "latitude": 10.7492355507977,
+    "longitude": 106.593974232674,
+    "timestamp": "2025-10-31T21:06:43.708006Z",
+    "weather": {
+      "temperature": 26.04,
+      "humidity": 94,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "6",
+    "entity_name": "Phan Đăng Lưu - Thích Quảng Đức",
+    "latitude": 10.8032933150268,
+    "longitude": 106.684530973434,
+    "timestamp": "2025-10-31T21:06:43.267895Z",
+    "weather": {
+      "temperature": 26.14,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "7",
+    "entity_name": "Võ Văn Kiệt - An Dương Vương 2",
+    "latitude": 10.7265671915496,
+    "longitude": 106.620351076126,
+    "timestamp": "2025-10-31T21:06:43.267895Z",
+    "weather": {
+      "temperature": 26.17,
+      "humidity": 97,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "8",
+    "entity_name": "Điện Biên Phủ - Nguyễn Gia Trí",
+    "latitude": 10.8010801833774,
+    "longitude": 106.715161800385,
+    "timestamp": "2025-10-31T21:06:43.273905Z",
+    "weather": {
+      "temperature": 26.16,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "9",
+    "entity_name": "Quốc lộ 1 - Rạch Láng Le 1",
+    "latitude": 10.8610818827294,
+    "longitude": 106.686397790909,
+    "timestamp": "2025-10-31T21:06:43.264938Z",
+    "weather": {
+      "temperature": 26.17,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "10",
+    "entity_name": "Lũy Bán Bích - Thoại Ngọc Hầu",
+    "latitude": 10.7821519725547,
+    "longitude": 106.636122465134,
+    "timestamp": "2025-10-31T21:06:44.050293Z",
+    "weather": {
+      "temperature": 26,
+      "humidity": 94,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "11",
+    "entity_name": "Cao tốc LTDG - Võ Chí Công",
+    "latitude": 10.796827763223,
+    "longitude": 106.790762543678,
+    "timestamp": "2025-10-31T21:06:44.047131Z",
+    "weather": {
+      "temperature": 26.18,
+      "humidity": 97,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "12",
+    "entity_name": "Võ Nguyên Giáp - Đỗ Xuân Hợp (1)",
+    "latitude": 10.8349709243101,
+    "longitude": 106.765716075897,
+    "timestamp": "2025-10-31T21:06:44.087043Z",
+    "weather": {
+      "temperature": 26.13,
+      "humidity": 97,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "13",
+    "entity_name": "Kinh Dương Vương - Tên Lửa",
+    "latitude": 10.7380517925754,
+    "longitude": 106.61497592926,
+    "timestamp": "2025-10-31T21:06:44.078835Z",
+    "weather": {
+      "temperature": 26.16,
+      "humidity": 97,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "14",
+    "entity_name": "Mai Bá Hương - Kênh 4",
+    "latitude": 10.7736992353084,
+    "longitude": 106.509790420532,
+    "timestamp": "2025-10-31T21:06:44.007938Z",
+    "weather": {
+      "temperature": 26.03,
+      "humidity": 94,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "15",
+    "entity_name": "Nguyễn Chí Thanh - Thuận Kiều",
+    "latitude": 10.7576784340111,
+    "longitude": 106.658009290695,
+    "timestamp": "2025-10-31T21:06:44.794678Z",
+    "weather": {
+      "temperature": 26.12,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "16",
+    "entity_name": "Lý Tự Trọng - Chu Mạnh Trinh",
+    "latitude": 10.781944,
+    "longitude": 106.704602,
+    "timestamp": "2025-10-31T21:06:44.838964Z",
+    "weather": {
+      "temperature": 26.05,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "17",
+    "entity_name": "Trường Sơn - Ga Quốc Nội 2",
+    "latitude": 10.8129465937096,
+    "longitude": 106.664902567863,
+    "timestamp": "2025-10-31T21:06:44.361005Z",
+    "weather": {
+      "temperature": 26.11,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "18",
+    "entity_name": "Trần Đại Nghĩa - Võ Trần Chí",
+    "latitude": 10.7304200365785,
+    "longitude": 106.577017307281,
+    "timestamp": "2025-10-31T21:06:44.390042Z",
+    "weather": {
+      "temperature": 26.04,
+      "humidity": 94,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "19",
+    "entity_name": "Trần Văn Giàu - cầu Tân Tạo",
+    "latitude": 10.7590644777735,
+    "longitude": 106.571368575096,
+    "timestamp": "2025-10-31T21:06:44.389042Z",
+    "weather": {
+      "temperature": 26.03,
+      "humidity": 94,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "20",
+    "entity_name": "Ba Tháng Hai – Sư Vạn Hạnh",
+    "latitude": 10.7697784337206,
+    "longitude": 106.670830249786,
+    "timestamp": "2025-10-31T21:06:44.667163Z",
+    "weather": {
+      "temperature": 26.13,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "21",
+    "entity_name": "Phan Đăng Lưu - Lê Văn Duyệt",
+    "latitude": 10.8019970541825,
+    "longitude": 106.696482896805,
+    "timestamp": "2025-10-31T21:06:44.697954Z",
+    "weather": {
+      "temperature": 26.16,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "22",
+    "entity_name": "Võ Văn Kiệt - Huỳnh Mẫn Đạt",
+    "latitude": 10.751960277381,
+    "longitude": 106.677197813988,
+    "timestamp": "2025-10-31T21:06:45.181893Z",
+    "weather": {
+      "temperature": 26.15,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "23",
+    "entity_name": "Nút giao Mỹ Thủy 2",
+    "latitude": 10.7701157,
+    "longitude": 106.7755866,
+    "timestamp": "2025-10-31T21:06:45.437775Z",
+    "weather": {
+      "temperature": 26.17,
+      "humidity": 97,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "24",
+    "entity_name": "Nguyễn Văn Trỗi - Trần Huy Liệu",
+    "latitude": 10.794472307568,
+    "longitude": 106.677948832512,
+    "timestamp": "2025-10-31T21:06:44.999165Z",
+    "weather": {
+      "temperature": 26.12,
+      "humidity": 97,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "25",
+    "entity_name": "Huỳnh Tấn Phát - Phạm Hữu Lầu",
+    "latitude": 10.7052043577961,
+    "longitude": 106.737660169601,
+    "timestamp": "2025-10-31T21:06:45.097102Z",
+    "weather": {
+      "temperature": 26.16,
+      "humidity": 97,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "26",
+    "entity_name": "Phổ Quang - Hoàng Minh Giám",
+    "latitude": 10.8079619154301,
+    "longitude": 106.672879457474,
+    "timestamp": "2025-10-31T21:06:45.145052Z",
+    "weather": {
+      "temperature": 26.12,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "27",
+    "entity_name": "Quốc lộ 1 - KCX Linh Trung 1",
+    "latitude": 10.872081942303,
+    "longitude": 106.768741607666,
+    "timestamp": "2025-10-31T21:06:45.779000Z",
+    "weather": {
+      "temperature": 25.99,
+      "humidity": 97,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "28",
+    "entity_name": "Quốc lộ 1 - Đường Lê Thị Riêng 2",
+    "latitude": 10.8619248135124,
+    "longitude": 106.654415130615,
+    "timestamp": "2025-10-31T21:06:45.396410Z",
+    "weather": {
+      "temperature": 26.03,
+      "humidity": 94,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "29",
+    "entity_name": "Lê Văn Sỹ - Huỳnh Văn Bánh",
+    "latitude": 10.7918902432446,
+    "longitude": 106.671452522278,
+    "timestamp": "2025-10-31T21:06:45.924344Z",
+    "weather": {
+      "temperature": 26.13,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "30",
+    "entity_name": "Đinh Tiên Hoàng - Trần Quang Khải",
+    "latitude": 10.7927439077816,
+    "longitude": 106.696075201035,
+    "timestamp": "2025-10-31T21:06:45.482938Z",
+    "weather": {
+      "temperature": 26.12,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "31",
+    "entity_name": "Nguyễn Thị Định - Đường C (20-1)",
+    "latitude": 10.7659102810674,
+    "longitude": 106.77956700325,
+    "timestamp": "2025-10-31T21:06:46.193789Z",
+    "weather": {
+      "temperature": 26.17,
+      "humidity": 97,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "32",
+    "entity_name": "Vòng xoay Mũi Tàu Phú Lâm",
+    "latitude": 10.7459416028391,
+    "longitude": 106.624095439911,
+    "timestamp": "2025-10-31T21:06:45.733097Z",
+    "weather": {
+      "temperature": 26.16,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "33",
+    "entity_name": "Nguyễn Văn Quỳ - Cầu Phú Mỹ",
+    "latitude": 10.7409610852775,
+    "longitude": 106.7367374897,
+    "timestamp": "2025-10-31T21:06:46.273125Z",
+    "weather": {
+      "temperature": 26.16,
+      "humidity": 97,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "34",
+    "entity_name": "Võ Văn Kiệt - Nguyễn Tri Phương 2",
+    "latitude": 10.7503686605855,
+    "longitude": 106.670079231262,
+    "timestamp": "2025-10-31T21:06:46.023623Z",
+    "weather": {
+      "temperature": 26.15,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "35",
+    "entity_name": "Võ Văn Kiệt - Cầu Chữ Y 1",
+    "latitude": 10.7519444666594,
+    "longitude": 106.68367266655,
+    "timestamp": "2025-10-31T21:06:46.567852Z",
+    "weather": {
+      "temperature": 26.15,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "36",
+    "entity_name": "Nguyễn Thị Minh Khai - Bà Huyện Thanh Quan",
+    "latitude": 10.7748059039379,
+    "longitude": 106.690624952316,
+    "timestamp": "2025-10-31T21:06:46.227975Z",
+    "weather": {
+      "temperature": 26.11,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "37",
+    "entity_name": "Đinh Tiên Hoàng - Võ Thị Sáu 1",
+    "latitude": 10.7917743133057,
+    "longitude": 106.695774793625,
+    "timestamp": "2025-10-31T21:06:46.329090Z",
+    "weather": {
+      "temperature": 26.12,
+      "humidity": 97,
+      "pressure": 1009,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "38",
+    "entity_name": "Tôn Đức Thắng - Hàm Nghi",
+    "latitude": 10.7710748334425,
+    "longitude": 106.70635342598,
+    "timestamp": "2025-10-31T21:06:46.487830Z",
+    "weather": {
+      "temperature": 26.18,
+      "humidity": 97,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  },
+  {
+    "entity_id": "39",
+    "entity_name": "QL1 - Nút giao An Lạc 2",
+    "latitude": 10.7235049089888,
+    "longitude": 106.601693630219,
+    "timestamp": "2025-10-31T21:06:46.535069Z",
+    "weather": {
+      "temperature": 26.03,
+      "humidity": 94,
+      "pressure": 1010,
+      "description": "few clouds",
+      "wind_speed": 1.03,
+      "clouds": 20
+    }
+  }
+]

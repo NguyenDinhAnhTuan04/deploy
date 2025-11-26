@@ -1,0 +1,334 @@
+@prefix ngsi-ld: <https://uri.etsi.org/ngsi-ld/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<urn:ngsi-ld:ItemFlowObserved:0-20251112T204001868947Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.51e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:0> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:1-20251112T204012902482Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.15e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:1> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:10-20251112T204016228079Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.21e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:detectionDetails "{'total_detections': 1, 'classes': {'car': 1}}" ;
+    ngsi-ld:intensity 2e-02 ;
+    ngsi-ld:occupancy 2e-02 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:10> ;
+    ngsi-ld:vehicleCount 1 .
+
+<urn:ngsi-ld:ItemFlowObserved:11-20251112T204016506634Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.85e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:11> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:12-20251112T204016940581Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.86e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:detectionDetails "{'total_detections': 1, 'classes': {'car': 1}}" ;
+    ngsi-ld:intensity 2e-02 ;
+    ngsi-ld:occupancy 2e-02 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:12> ;
+    ngsi-ld:vehicleCount 1 .
+
+<urn:ngsi-ld:ItemFlowObserved:13-20251112T204017304107Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 7.31e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:13> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:14-20251112T204017656866Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.86e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:14> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:15-20251112T204017994226Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.99e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:detectionDetails "{'total_detections': 1, 'classes': {'car': 1}}" ;
+    ngsi-ld:intensity 2e-02 ;
+    ngsi-ld:occupancy 2e-02 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:15> ;
+    ngsi-ld:vehicleCount 1 .
+
+<urn:ngsi-ld:ItemFlowObserved:16-20251112T204018521220Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 7.99e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:16> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:17-20251112T204018781332Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.02e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:detectionDetails "{'total_detections': 3, 'classes': {'car': 3}}" ;
+    ngsi-ld:intensity 6e-02 ;
+    ngsi-ld:occupancy 6e-02 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:17> ;
+    ngsi-ld:vehicleCount 3 .
+
+<urn:ngsi-ld:ItemFlowObserved:18-20251112T204019389984Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 7.87e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:18> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:19-20251112T204019689207Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.85e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:19> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:2-20251112T204013191122Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 7.98e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:detectionDetails "{'total_detections': 1, 'classes': {'car': 1}}" ;
+    ngsi-ld:intensity 2e-02 ;
+    ngsi-ld:occupancy 2e-02 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:2> ;
+    ngsi-ld:vehicleCount 1 .
+
+<urn:ngsi-ld:ItemFlowObserved:20-20251112T204020002624Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.62e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:20> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:21-20251112T204020480812Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 7.59e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:detectionDetails "{'total_detections': 1, 'classes': {'car': 1}}" ;
+    ngsi-ld:intensity 2e-02 ;
+    ngsi-ld:occupancy 2e-02 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:21> ;
+    ngsi-ld:vehicleCount 1 .
+
+<urn:ngsi-ld:ItemFlowObserved:22-20251112T204020977124Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.03e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:detectionDetails "{'total_detections': 1, 'classes': {'car': 1}}" ;
+    ngsi-ld:intensity 2e-02 ;
+    ngsi-ld:occupancy 2e-02 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:22> ;
+    ngsi-ld:vehicleCount 1 .
+
+<urn:ngsi-ld:ItemFlowObserved:23-20251112T204021269442Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.09e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:23> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:24-20251112T204021675211Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 7.38e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:24> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:25-20251112T204021926624Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 9.14e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:25> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:26-20251112T204022311871Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.7e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:26> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:27-20251112T204022559651Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 7.22e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:27> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:28-20251112T204022947753Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 7.67e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:28> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:29-20251112T204023291224Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 7.61e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:29> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:3-20251112T204014019254Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 7.69e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:detectionDetails "{'total_detections': 1, 'classes': {'car': 1}}" ;
+    ngsi-ld:intensity 2e-02 ;
+    ngsi-ld:occupancy 2e-02 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:3> ;
+    ngsi-ld:vehicleCount 1 .
+
+<urn:ngsi-ld:ItemFlowObserved:30-20251112T204023583772Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.72e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:30> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:31-20251112T204023990145Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.44e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:31> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:32-20251112T204024358018Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 7.31e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:detectionDetails "{'total_detections': 3, 'classes': {'car': 1, 'bus': 1, 'truck': 1}}" ;
+    ngsi-ld:intensity 6e-02 ;
+    ngsi-ld:occupancy 6e-02 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:32> ;
+    ngsi-ld:vehicleCount 3 .
+
+<urn:ngsi-ld:ItemFlowObserved:33-20251112T204024710557Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.5e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:33> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:34-20251112T204025147003Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.91e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:34> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:35-20251112T204025660562Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.16e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:detectionDetails "{'total_detections': 1, 'classes': {'bus': 1}}" ;
+    ngsi-ld:intensity 2e-02 ;
+    ngsi-ld:occupancy 2e-02 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:35> ;
+    ngsi-ld:vehicleCount 1 .
+
+<urn:ngsi-ld:ItemFlowObserved:36-20251112T204026261705Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 7.42e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:36> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:37-20251112T204026655902Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.08e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:37> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:38-20251112T204026938207Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 7.58e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:38> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:39-20251112T204027246744Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 7.54e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:39> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:4-20251112T204014388401Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.93e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:4> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:5-20251112T204014730741Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.12e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:5> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:6-20251112T204015028145Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 9.06e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:6> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:7-20251112T204015237392Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 7.92e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:7> ;
+    ngsi-ld:vehicleCount 0 .
+
+<urn:ngsi-ld:ItemFlowObserved:8-20251112T204015546770Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 8.65e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:detectionDetails "{'total_detections': 1, 'classes': {'bus': 1}}" ;
+    ngsi-ld:intensity 2e-02 ;
+    ngsi-ld:occupancy 2e-02 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:8> ;
+    ngsi-ld:vehicleCount 1 .
+
+<urn:ngsi-ld:ItemFlowObserved:9-20251112T204016023789Z> a ngsi-ld:ItemFlowObserved ;
+    ngsi-ld:averageSpeed 9.19e+01 ;
+    ngsi-ld:congestionLevel "free" ;
+    ngsi-ld:intensity 0e+00 ;
+    ngsi-ld:occupancy 0e+00 ;
+    ngsi-ld:refDevice <urn:ngsi-ld:Camera:9> ;
+    ngsi-ld:vehicleCount 0 .
+

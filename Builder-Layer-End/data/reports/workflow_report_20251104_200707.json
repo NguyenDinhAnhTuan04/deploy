@@ -1,0 +1,125 @@
+{
+  "execution_time": "2025-11-04T13:07:07.886489Z",
+  "total_duration_seconds": 224.78,
+  "status": "success",
+  "phases": [
+    {
+      "name": "Data Collection",
+      "status": "success",
+      "duration_seconds": 3.45,
+      "agents": [
+        {
+          "name": "image_refresh_agent",
+          "status": "success",
+          "duration_seconds": 3.45,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "external_data_collector_agent",
+          "status": "skipped",
+          "duration_seconds": 0.0,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "Transformation",
+      "status": "success",
+      "duration_seconds": 0.4,
+      "agents": [
+        {
+          "name": "ngsi_ld_transformer_agent",
+          "status": "success",
+          "duration_seconds": 0.16,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "sosa_ssn_mapper_agent",
+          "status": "success",
+          "duration_seconds": 0.24,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "Validation",
+      "status": "success",
+      "duration_seconds": 0.19,
+      "agents": [
+        {
+          "name": "smart_data_models_validation_agent",
+          "status": "success",
+          "duration_seconds": 0.19,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "Publishing",
+      "status": "success",
+      "duration_seconds": 150.03,
+      "agents": [
+        {
+          "name": "cv_analysis_agent",
+          "status": "skipped",
+          "duration_seconds": 0.0,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "ngsi_ld_to_rdf_agent",
+          "status": "success",
+          "duration_seconds": 5.83,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "entity_publisher_agent",
+          "status": "success",
+          "duration_seconds": 150.02,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "RDF Loading",
+      "status": "success",
+      "duration_seconds": 70.71,
+      "agents": [
+        {
+          "name": "triplestore_loader_agent",
+          "status": "success",
+          "duration_seconds": 70.71,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    }
+  ],
+  "endpoints": {},
+  "statistics": {
+    "total_phases": 5,
+    "successful_phases": 5,
+    "failed_phases": 0,
+    "total_agents": 9,
+    "successful_agents": 7,
+    "failed_agents": 0,
+    "skipped_agents": 2
+  },
+  "errors": []
+}

@@ -1,0 +1,6295 @@
+[
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520259-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.969921Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.690624952316, 10.7748059039379]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520259"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.33
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520102.1-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.784641Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.1
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.695774793625, 10.7917743133057]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520102.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520385-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.784641Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.19
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.696075201035, 10.7927439077816]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520385"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%252011.1-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.041599Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 4.31
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.677197813988, 10.751960277381]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252011.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520197",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Ba Tháng Hai – Sư Vạn Hạnh"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 197"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:45.493949Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=63ae7a50bfd3d90017e8f2b2&zoom=4&t=1762739898878"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.670830249786, 10.7697784337206]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520417-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.465424Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.624095439911, 10.7459416028391]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520417"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.38
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520308-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.874021Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 10.63
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.61497592926, 10.7380517925754]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520308"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520308",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Kinh Dương Vương - Tên Lửa"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 308"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:31.365287Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=662a881a1afb9c00172d2559&zoom=4&t=1762739898878"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.61497592926, 10.7380517925754]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520292-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.228064Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.636122465134, 10.7821519725547]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520292"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 94
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 27
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520442-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.970372Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.577017307281, 10.7304200365785]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520442"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 94
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 27.04
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252034.11",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Nguyễn Văn Trỗi - Trần Huy Liệu"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 34.11"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH_AXIS"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:53.556055Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58b571c817139d0010f35d5d&zoom=4&t=1762739898879"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.677948832512, 10.794472307568]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520440",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Trần Văn Giàu - cầu Tân Tạo"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 440"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:43.462815Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=681889a96dfb4b0018f8f67e&zoom=4&t=1762739898878"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.571368575096, 10.7590644777735]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%252021.3-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.669999Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.768741607666, 10.872081942303]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252021.3"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 87
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.77
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%252026.4-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.153177Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.672879457474, 10.8079619154301]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252026.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.34
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:ITS%25208.2",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Lý Tự Trọng - Chu Mạnh Trinh"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "ITS 8.2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:37.420909Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5deb576d1dc17d7c5515ad15&zoom=4&t=1762739898878"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.704602, 10.781944]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520299.1-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.645031Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 9.13
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.765716075897, 10.8349709243101]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520299.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520300",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Quốc Lộ 13 - cầu Ông Dầu"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 300"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:09.077941Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6623f4df6f998a001b2528eb&zoom=4&t=1762739898876"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.713809967041, 10.8361932799182]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520335-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.530634Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.658009290695, 10.7576784340111]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520335"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.34
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520273",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Phan Đăng Lưu - Thích Quảng Đức"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 273"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:17.200663Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6623e8da6f998a001b2524a6&zoom=4&t=1762739898877"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.684530973434, 10.8032933150268]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%252021.59-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.275191Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 8.77
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.686397790909, 10.8610818827294]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252021.59"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520335",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Nguyễn Chí Thanh - Thuận Kiều"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 335"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:35.408200Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=662b4ecb1afb9c00172d8692&zoom=4&t=1762739898878"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.658009290695, 10.7576784340111]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520385-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.784641Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.696075201035, 10.7927439077816]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520385"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.36
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%252022.4-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.848210Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 8.3
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.7755866, 10.7701157]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252022.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:IDICO-QL1%252036-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.957920Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 12.69
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.601693630219, 10.7235049089888]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:IDICO-QL1%252036"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252022.6.1",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Nguyễn Thị Định - Đường C (20-1)"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 22.6.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:14:07.669921Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=67e217c43215f90017863bc8&zoom=4&t=1762739898880"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.77956700325, 10.7659102810674]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520245-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.853224Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 9.51
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.737660169601, 10.7052043577961]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520245"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520440-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.203509Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 14.4
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.571368575096, 10.7590644777735]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520440"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520419",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Điện Biên Phủ - Nguyễn Gia Trí"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 419"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:21.228998Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=66b1c426779f74001867415e&zoom=4&t=1762739898877"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.715161800385, 10.8010801833774]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252044.4",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Phan Đăng Lưu - Lê Văn Duyệt"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 44.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:47.512902Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587ee0ecb807da0011e33d50&zoom=4&t=1762739898879"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.696482896805, 10.8019970541825]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%252021.69-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.347111Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 10.09
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.654415130615, 10.8619248135124]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252021.69"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520292",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Lũy Bán Bích - Thoại Ngọc Hầu"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 292"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:25.252325Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6623f1046f998a001b2527db&zoom=4&t=1762739898877"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.636122465134, 10.7821519725547]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%252029.4-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.879215Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.664902567863, 10.8129465937096]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252029.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.33
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520419-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.598004Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 2.53
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.715161800385, 10.8010801833774]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520419"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520259-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.969921Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.43
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.690624952316, 10.7748059039379]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520259"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520406-20251110015833",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.412361Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.44
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.691054105759, 10.7918902432446]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520406"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%252034.11-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.106601Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 2.79
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.677948832512, 10.794472307568]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252034.11"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:ITS%25208.2-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.537644Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.704602, 10.781944]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:ITS%25208.2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.27
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%252021.84-20251110015833",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.019674Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.677986383438, 10.8797100979598]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252021.84"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 94
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 27.02
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/ObservableProperty"
+    ],
+    "https://uri.etsi.org/ngsi-ld/description": [
+      {
+        "@value": "Observable property representing traffic flow characteristics"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/name": [
+      {
+        "@value": "Traffic Flow Monitoring"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/unitOfMeasurement": [
+      {
+        "@value": "vehicles/hour"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252013.2",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Võ Văn Kiệt - Nguyễn Tri Phương 2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 13.2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:14:13.707634Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481297&zoom=4&t=1762739898880"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.670079231262, 10.7503686605855]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%25201.8",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Cao tốc LTDG - Võ Chí Công"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 1.8"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:27.271263Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5d9de4de766c880017188cbb&zoom=4&t=1762739898878"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.790762543678, 10.796827763223]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520385",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Đinh Tiên Hoàng - Trần Quang Khải"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 385"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:14:05.654556Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=662b81721afb9c00172dcc44&zoom=4&t=1762739898880"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.696075201035, 10.7927439077816]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520145",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Lê Văn Sỹ - Huỳnh Văn Bánh"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 145"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:14:03.637077Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5d8cd4ee766c880017188946&zoom=4&t=1762739898880"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.671452522278, 10.7918902432446]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%252013.2-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.652145Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.670079231262, 10.7503686605855]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252013.2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.37
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%252022.7-20251110015833",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:29.609221Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.781423091888, 10.7646823693643]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252022.7"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.39
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%252018.2-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.588343Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.620351076126, 10.7265671915496]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252018.2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.39
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%252044.4-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.735887Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 2.14
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.696482896805, 10.8019970541825]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252044.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520197-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.811550Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 3.59
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.670830249786, 10.7697784337206]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520197"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520299.1-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.645031Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.765716075897, 10.8349709243101]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520299.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.35
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%25201.8-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.894233Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.790762543678, 10.796827763223]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%25201.8"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.4
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%252022.6.1-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.465424Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 8.82
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.77956700325, 10.7659102810674]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252022.6.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%252044.4-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.735887Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.696482896805, 10.8019970541825]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252044.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.38
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:IDICO-QL1%252029",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "QL1 - Tỉnh lộ 10 B (2)"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "IDICO-QL1 29"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:15.168837Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=59ca317602eb490011a0a408&zoom=4&t=1762739898877"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.593974232674, 10.7492355507977]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%252021.59-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.275191Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.686397790909, 10.8610818827294]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252021.59"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 94
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 27.03
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%252013.2-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.652145Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 4.94
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.670079231262, 10.7503686605855]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252013.2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252021.69",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Quốc lộ 1 - Đường Lê Thị Riêng 2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 21.69"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:14:01.613564Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=595dd8463dcfc400106f28b2&zoom=4&t=1762739898879"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.654415130615, 10.8619248135124]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252010.1",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Võ Văn Kiệt - Cầu Chữ Y 1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 10.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:14:15.721070Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5822adbbedeb6c0012a2d65f&zoom=4&t=1762739898880"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.68367266655, 10.7519444666594]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520423-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.496486Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 20.92
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.509790420532, 10.7736992353084]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520423"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520247-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:33.090143Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.46
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.70635342598, 10.7710748334425]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520247"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520273-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.569701Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.684530973434, 10.8032933150268]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520273"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.35
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252021.3",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Quốc lộ 1 - KCX Linh Trung 1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 21.3"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:59.601244Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=586e28a0f9fab7001111b0b3&zoom=4&t=1762739898879"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.768741607666, 10.872081942303]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520419-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.598004Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.715161800385, 10.8010801833774]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520419"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.38
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520292-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.228064Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 7.07
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.636122465134, 10.7821519725547]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520292"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520102.1-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.784641Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.695774793625, 10.7917743133057]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520102.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.36
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%252022.6.1-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.465424Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.77956700325, 10.7659102810674]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252022.6.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.39
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:IDICO-QL1%252029-20251110015833",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.324583Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.593974232674, 10.7492355507977]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:IDICO-QL1%252029"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 94
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 27.04
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520440-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.203509Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.571368575096, 10.7590644777735]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520440"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 94
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 27.03
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520374-20251110015833",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.250522Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.57
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.691064834595, 10.7726452614037]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520374"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520247",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Tôn Đức Thắng - Hàm Nghi"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 247"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:14:21.765148Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=649da72ca6068200171a6dbb&zoom=4&t=1762739898880"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.70635342598, 10.7710748334425]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520273-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.569701Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 2.85
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.684530973434, 10.8032933150268]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520273"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520247-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:33.090143Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.70635342598, 10.7710748334425]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520247"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.38
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520374-20251110015833",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.250522Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.691064834595, 10.7726452614037]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520374"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.33
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520124.1-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.465424Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.7367374897, 10.7409610852775]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520124.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.38
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%252010.1-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:33.247334Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.68367266655, 10.7519444666594]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252010.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.37
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520335-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.530634Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 5.45
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.658009290695, 10.7576784340111]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520335"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520300-20251110015833",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:29.948482Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.713809967041, 10.8361932799182]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520300"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 87
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.96
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520245",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Huỳnh Tấn Phát - Phạm Hữu Lầu"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 245"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:55.566880Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=63bd1f21bfd3d90017ec3d04&zoom=4&t=1762739898879"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.737660169601, 10.7052043577961]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252021.59",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Quốc lộ 1 - Rạch Láng Le 1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 21.59"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:23.243372Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=595dc29c3dcfc400106f2894&zoom=4&t=1762739898877"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.686397790909, 10.8610818827294]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520423",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Mai Bá Hương - Kênh 4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 423"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:33.388648Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6818833d6dfb4b0018f8ee9d&zoom=4&t=1762739898878"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.509790420532, 10.7736992353084]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520145-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.153177Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.671452522278, 10.7918902432446]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520145"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.34
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Platform"
+    ],
+    "https://uri.etsi.org/ngsi-ld/coverageArea": [
+      {
+        "@value": "Ho Chi Minh City, Vietnam"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/deploymentYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2020
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/description": [
+      {
+        "@value": "City-wide traffic monitoring infrastructure"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/name": [
+      {
+        "@value": "Ho Chi Minh City Traffic Monitoring System"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/operator": [
+      {
+        "@value": "HCMC Department of Transportation"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%252021.3-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.669999Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 12.33
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.768741607666, 10.872081942303]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252021.3"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252021.84",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Tô Ngọc Vân - TX25"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 21.84"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:07.055490Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5a6065c58576340017d06615&zoom=4&t=1762739898876"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.677986383438, 10.8797100979598]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:IDICO-QL1%252029-20251110015833",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.324583Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 12.27
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.593974232674, 10.7492355507977]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:IDICO-QL1%252029"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252022.7",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Nguyễn Thị Định - Đường D"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 22.7"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:13.135413Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=583f969161cfea0012cf68f7&zoom=4&t=1762739898877"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.781423091888, 10.7646823693643]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%252021.69-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.347111Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.654415130615, 10.8619248135124]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252021.69"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 94
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 27.03
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252011.1",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Võ Văn Kiệt - Huỳnh Mẫn Đạt"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 11.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:49.519354Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48128f&zoom=4&t=1762739898879"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.677197813988, 10.751960277381]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%252026.4-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.153177Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 4.11
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.672879457474, 10.8079619154301]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252026.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520124.1",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Nguyễn Văn Quỳ - Cầu Phú Mỹ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 124.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:14:11.684789Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5a8269c45058170011f6eae4&zoom=4&t=1762739898880"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.7367374897, 10.7409610852775]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520417",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Vòng xoay Mũi Tàu Phú Lâm"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 417"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:14:09.677027Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=66b1c3c2779f740018674125&zoom=4&t=1762739898880"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.624095439911, 10.7459416028391]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520308-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.874021Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.61497592926, 10.7380517925754]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520308"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.38
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252029.4",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Trường Sơn - Ga Quốc Nội 2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 29.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:39.441543Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5b8b2323ca057700116405d0&zoom=4&t=1762739898878"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.664902567863, 10.8129465937096]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252018.2",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Võ Văn Kiệt - An Dương Vương 2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 18.2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:19.218000Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481299&zoom=4&t=1762739898877"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.620351076126, 10.7265671915496]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520406",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Trần Quang Khải - Trần Khắc Chân"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 406"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:05.002234Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=662b86c41afb9c00172dd31c&zoom=4&t=1762739898862"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.691054105759, 10.7918902432446]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%252029.4-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.879215Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 5.12
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.664902567863, 10.8129465937096]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252029.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252026.4",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Phổ Quang - Hoàng Minh Giám"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 26.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:57.585742Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58df4d95dc195800111e04b9&zoom=4&t=1762739898879"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.672879457474, 10.8079619154301]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%252021.84-20251110015833",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.019674Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 10.98
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.677986383438, 10.8797100979598]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252021.84"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520406-20251110015833",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.412361Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.691054105759, 10.7918902432446]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520406"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 87
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.9
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%252022.4",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Nút giao Mỹ Thủy 2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 22.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:51.543328Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c4812a2&zoom=4&t=1762739898879"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.7755866, 10.7701157]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%25201.8-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.894233Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 9.96
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.790762543678, 10.796827763223]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%25201.8"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520102.1",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Đinh Tiên Hoàng - Võ Thị Sáu 1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 102.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:14:19.748469Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5a823e425058170011f6eaa4&zoom=4&t=1762739898880"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.695774793625, 10.7917743133057]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520245-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.853224Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.737660169601, 10.7052043577961]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520245"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.38
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%252034.11-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.106601Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.677948832512, 10.794472307568]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252034.11"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.34
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%252018.2-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.588343Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 10.79
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.620351076126, 10.7265671915496]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252018.2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520423-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.496486Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.509790420532, 10.7736992353084]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520423"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 94
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 27.03
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:IDICO-QL1%252036-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.957920Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.601693630219, 10.7235049089888]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:IDICO-QL1%252036"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 94
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 27.03
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520442-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:30.970372Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 14.73
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.577017307281, 10.7304200365785]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520442"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%252022.7-20251110015833",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:29.609221Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 9.06
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.781423091888, 10.7646823693643]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252022.7"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520259",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Nguyễn Thị Minh Khai - Bà Huyện Thanh Quan"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 259"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:14:17.730283Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6623e43e6f998a001b2522cb&zoom=4&t=1762739898880"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.690624952316, 10.7748059039379]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520300-20251110015833",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:29.948482Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 6.04
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.713809967041, 10.8361932799182]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520300"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%252011.1-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.041599Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.677197813988, 10.751960277381]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252011.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.37
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:IDICO-QL1%252036",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "QL1 - Nút giao An Lạc 2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "IDICO-QL1 36"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:14:23.792710Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5a6088218576340017d06693&zoom=4&t=1762739898880"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.601693630219, 10.7235049089888]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%252022.4-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.848210Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.7755866, 10.7701157]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252022.4"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.39
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520417-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.465424Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 9.34
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.624095439911, 10.7459416028391]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520417"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520374",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Cách Mạng Tháng Tám - Bùi Thị Xuân"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 374"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:11.111231Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=662b7ce71afb9c00172dc676&zoom=4&t=1762739898877"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.691064834595, 10.7726452614037]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520442",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Trần Đại Nghĩa - Võ Trần Chí"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 442"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "Fixed"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:41.462306Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=68188a226dfb4b0018f8f70a&zoom=4&t=1762739898878"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.577017307281, 10.7304200365785]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520145-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.153177Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 3.35
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.671452522278, 10.7918902432446]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520145"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%252010.1-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:33.247334Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 3.92
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.68367266655, 10.7519444666594]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%252010.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:WeatherObserved:TTH%2520197-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/WeatherObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/atmosphericPressure": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1010
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cloudiness": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 75
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.811550Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.670830249786, 10.7697784337206]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/precipitation": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.0
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520197"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/relativeHumidity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 89
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/temperature": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.35
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/weatherType": [
+      {
+        "@value": "mist"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/windSpeed": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 1.54
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:TTH%2520124.1-20251110015835",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:32.465424Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 6.1
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.7367374897, 10.7409610852775]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:TTH%2520124.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:Camera:TTH%2520299.1",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/Camera",
+      "http://www.w3.org/ns/sosa/Sensor"
+    ],
+    "http://www.w3.org/ns/sosa/isHostedBy": [
+      {
+        "@id": "urn:ngsi-ld:Platform:HCMCTrafficSystem"
+      }
+    ],
+    "http://www.w3.org/ns/sosa/observes": [
+      {
+        "@id": "urn:ngsi-ld:ObservableProperty:TrafficFlow"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraName": [
+      {
+        "@value": "Võ Nguyên Giáp - Đỗ Xuân Hợp (1)"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraNum": [
+      {
+        "@value": "TTH 299.1"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraType": [
+      {
+        "@value": "PTZ"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/cameraUsage": [
+      {
+        "@value": "TTH"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateLastValueReported": [
+      {
+        "@value": "2025-10-31T23:13:29.303254Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/imageSnapshot": [
+      {
+        "@value": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6623f44f6f998a001b2528aa&zoom=4&t=1762739898878"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.765716075897, 10.8349709243101]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/status": [
+      {
+        "@value": "success"
+      }
+    ]
+  },
+  {
+    "@id": "urn:ngsi-ld:AirQualityObserved:ITS%25208.2-20251110015834",
+    "@type": [
+      "https://uri.etsi.org/ngsi-ld/AirQualityObserved",
+      "http://www.w3.org/ns/sosa/Observation"
+    ],
+    "https://uri.etsi.org/ngsi-ld/dateObserved": [
+      {
+        "@value": "2025-11-10T01:58:31.537644Z"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/distanceFromDevice": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 0.44
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/location": [
+      {
+        "@value": "{\"type\": \"Point\", \"coordinates\": [106.704602, 10.781944]}"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/pm25": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#double",
+        "@value": 28.2
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/refDevice": [
+      {
+        "@id": "urn:ngsi-ld:Camera:ITS%25208.2"
+      }
+    ],
+    "https://uri.etsi.org/ngsi-ld/stationName": [
+      {
+        "@value": "US Diplomatic Post: Ho Chi Minh City"
+      }
+    ]
+  }
+]

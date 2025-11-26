@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-11-12T21:29:11.158787Z",
+  "dataset": "lod-dataset",
+  "files_loaded": [
+    "Camera_20251112_212909.ttl"
+  ],
+  "total_triples": 335,
+  "named_graphs": [
+    "http://example.org/graphs/Camera_20251112_212909"
+  ],
+  "sparql_endpoint": "http://localhost:3030/lod-dataset/sparql",
+  "duration_seconds": 0.57,
+  "status": "success",
+  "errors": []
+}

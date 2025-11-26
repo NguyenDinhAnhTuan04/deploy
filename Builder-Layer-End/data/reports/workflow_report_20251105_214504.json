@@ -1,0 +1,119 @@
+{
+  "execution_time": "2025-11-05T14:45:04.616334Z",
+  "total_duration_seconds": 55.46,
+  "status": "partial",
+  "phases": [
+    {
+      "name": "Data Collection",
+      "status": "success",
+      "duration_seconds": 3.82,
+      "agents": [
+        {
+          "name": "image_refresh_agent",
+          "status": "success",
+          "duration_seconds": 3.82,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "external_data_collector_agent",
+          "status": "skipped",
+          "duration_seconds": 0.0,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "Transformation",
+      "status": "success",
+      "duration_seconds": 0.66,
+      "agents": [
+        {
+          "name": "ngsi_ld_transformer_agent",
+          "status": "success",
+          "duration_seconds": 0.35,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "sosa_ssn_mapper_agent",
+          "status": "success",
+          "duration_seconds": 0.31,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "Validation",
+      "status": "success",
+      "duration_seconds": 0.2,
+      "agents": [
+        {
+          "name": "smart_data_models_validation_agent",
+          "status": "success",
+          "duration_seconds": 0.2,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "Publishing",
+      "status": "success",
+      "duration_seconds": 50.27,
+      "agents": [
+        {
+          "name": "ngsi_ld_to_rdf_agent",
+          "status": "success",
+          "duration_seconds": 4.46,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "entity_publisher_agent",
+          "status": "success",
+          "duration_seconds": 50.26,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    },
+    {
+      "name": "Analytics",
+      "status": "failed",
+      "duration_seconds": 0.51,
+      "agents": [
+        {
+          "name": "cv_analysis_agent",
+          "status": "failed",
+          "duration_seconds": 0.51,
+          "error_message": "main() takes 0 positional arguments but 1 was given",
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    }
+  ],
+  "endpoints": {},
+  "statistics": {
+    "total_phases": 5,
+    "successful_phases": 4,
+    "failed_phases": 1,
+    "total_agents": 8,
+    "successful_agents": 6,
+    "failed_agents": 1,
+    "skipped_agents": 1
+  },
+  "errors": [
+    "Phase 'Analytics' failed"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "hcmc-traffic-backend",
+  "version": "1.0.0",
+  "description": "HCMC Traffic Monitoring Backend API",
+  "main": "dist/server.js",
+  "scripts": {
+    "setup": "node setup.js",
+    "test:connections": "node test-connections.js",
+    "test:camera": "node test-camera-endpoint.js",
+    "test:weather": "node test-weather-endpoint.js",
+    "test:airquality": "node test-airquality-endpoint.js",
+    "test:all": "node test-all-endpoints.js",
+    "start": "node --max-old-space-size=4096 dist/server.js",
+    "dev": "set NODE_OPTIONS=--max-old-space-size=4096 && npm run setup && ts-node-dev --respawn --transpile-only src/server.ts",
+    "build": "tsc",
+    "test": "jest",
+    "lint": "eslint . --ext .ts"
+  },
+  "keywords": [
+    "traffic",
+    "monitoring",
+    "hcmc",
+    "rest-api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@turf/turf": "^7.2.0",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "joi": "^17.11.0",
+    "js-yaml": "^4.1.0",
+    "neo4j-driver": "^5.14.0",
+    "node-cache": "^5.1.2",
+    "pg": "^8.11.3",
+    "sparql-http-client": "^2.4.1",
+    "winston": "^3.11.0",
+    "ws": "^8.14.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.15",
+    "@types/express": "^4.17.20",
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^20.9.0",
+    "@types/node-cache": "^4.1.3",
+    "@types/pg": "^8.10.7",
+    "@types/ws": "^8.5.8",
+    "@typescript-eslint/eslint-plugin": "^6.10.0",
+    "@typescript-eslint/parser": "^6.10.0",
+    "eslint": "^8.53.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.2.2"
+  }
+}

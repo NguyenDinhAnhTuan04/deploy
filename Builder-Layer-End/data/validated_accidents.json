@@ -1,0 +1,100 @@
+[
+  {
+    "id": "urn:ngsi-ld:Accident:mock-0-20251118025042",
+    "type": "Accident",
+    "accidentDate": {
+      "type": "Property",
+      "value": "2025-11-17T19:50:42.342028Z"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.6296,
+          10.7629
+        ]
+      }
+    },
+    "accidentType": {
+      "type": "Property",
+      "value": "collision"
+    },
+    "severity": {
+      "type": "Property",
+      "value": "minor"
+    },
+    "vehiclesInvolved": {
+      "type": "Property",
+      "value": 2
+    },
+    "description": {
+      "type": "Property",
+      "value": "Mock accident #0 for testing purposes"
+    },
+    "weatherCondition": {
+      "type": "Property",
+      "value": "clear"
+    },
+    "status": {
+      "type": "Property",
+      "value": "detected"
+    },
+    "detectedBy": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:0"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Accident:mock-1-20251118025042",
+    "type": "Accident",
+    "accidentDate": {
+      "type": "Property",
+      "value": "2025-11-17T19:50:42.342028Z"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          106.6396,
+          10.7729
+        ]
+      }
+    },
+    "accidentType": {
+      "type": "Property",
+      "value": "rear-end"
+    },
+    "severity": {
+      "type": "Property",
+      "value": "moderate"
+    },
+    "vehiclesInvolved": {
+      "type": "Property",
+      "value": 3
+    },
+    "description": {
+      "type": "Property",
+      "value": "Mock accident #1 for testing purposes"
+    },
+    "weatherCondition": {
+      "type": "Property",
+      "value": "clear"
+    },
+    "status": {
+      "type": "Property",
+      "value": "detected"
+    },
+    "detectedBy": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Camera:1"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ]
+  }
+]

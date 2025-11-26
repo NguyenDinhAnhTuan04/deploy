@@ -1,0 +1,337 @@
+<urn:ngsi-ld:ItemFlowObserved:32-20251112T205859290980Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:31-20251112T205858878339Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:31-20251112T205858878339Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:23-20251112T205856536501Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:11-20251112T205853115262Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:11-20251112T205853115262Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:24-20251112T205856778671Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:14-20251112T205853947037Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.509790420532, 10.7736992353084]}" .
+<urn:ngsi-ld:ItemFlowObserved:38-20251112T205900906842Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:13-20251112T205853752704Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:29-20251112T205858427379Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "72.1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:4-20251112T205850645606Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:0-20251112T205845535661Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:18-20251112T205854793244Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:14-20251112T205853947037Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "74.3"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:27-20251112T205857756050Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:37-20251112T205900707483Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "80.3"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:32-20251112T205859290980Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.624095439911, 10.7459416028391]}" .
+<urn:ngsi-ld:ItemFlowObserved:16-20251112T205854357953Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:16> .
+<urn:ngsi-ld:ItemFlowObserved:36-20251112T205900303626Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:22-20251112T205856319948Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "78.7"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:37-20251112T205900707483Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:1-20251112T205849680128Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:12-20251112T205853527432Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:21-20251112T205855681254Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:21-20251112T205855681254Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:12-20251112T205853527432Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 1, 'classes': {'car': 1}}" .
+<urn:ngsi-ld:ItemFlowObserved:25-20251112T205857272588Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:25-20251112T205857272588Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:29-20251112T205858427379Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:17-20251112T205854592233Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.664902567863, 10.8129465937096]}" .
+<urn:ngsi-ld:ItemFlowObserved:1-20251112T205849680128Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:1> .
+<urn:ngsi-ld:ItemFlowObserved:26-20251112T205857560553Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:33-20251112T205859516708Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:27-20251112T205857756050Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:1-20251112T205849680128Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:12-20251112T205853527432Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:34-20251112T205859902669Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.06"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:30-20251112T205858641947Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:28-20251112T205858183312Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:16-20251112T205854357953Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:3-20251112T205850187901Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:0-20251112T205845535661Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:23-20251112T205856536501Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.7755866, 10.7701157]}" .
+<urn:ngsi-ld:ItemFlowObserved:19-20251112T205854970778Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:25-20251112T205857272588Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.737660169601, 10.7052043577961]}" .
+<urn:ngsi-ld:ItemFlowObserved:30-20251112T205858641947Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:36-20251112T205900303626Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:7-20251112T205851761472Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.620351076126, 10.7265671915496]}" .
+<urn:ngsi-ld:ItemFlowObserved:3-20251112T205850187901Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:38-20251112T205900906842Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.70635342598, 10.7710748334425]}" .
+<urn:ngsi-ld:ItemFlowObserved:7-20251112T205851761472Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:0-20251112T205845535661Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:15-20251112T205854138290Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:12-20251112T205853527432Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:12> .
+<urn:ngsi-ld:ItemFlowObserved:11-20251112T205853115262Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "76.1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:24-20251112T205856778671Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:24> .
+<urn:ngsi-ld:ItemFlowObserved:2-20251112T205849962440Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:22-20251112T205856319948Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:17-20251112T205854592233Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 2, 'classes': {'car': 2}}" .
+<urn:ngsi-ld:ItemFlowObserved:1-20251112T205849680128Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.677986383438, 10.8797100979598]}" .
+<urn:ngsi-ld:ItemFlowObserved:39-20251112T205901098340Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:39> .
+<urn:ngsi-ld:ItemFlowObserved:20-20251112T205855232844Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:28-20251112T205858183312Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:18-20251112T205854793244Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "77.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:8-20251112T205851978072Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:1-20251112T205849680128Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:1-20251112T205849680128Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "72.4"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:9-20251112T205852439545Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:24-20251112T205856778671Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.677948832512, 10.794472307568]}" .
+<urn:ngsi-ld:ItemFlowObserved:7-20251112T205851761472Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:15-20251112T205854138290Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:5-20251112T205851059278Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:5> .
+<urn:ngsi-ld:ItemFlowObserved:18-20251112T205854793244Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:8-20251112T205851978072Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:39-20251112T205901098340Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.601693630219, 10.7235049089888]}" .
+<urn:ngsi-ld:ItemFlowObserved:16-20251112T205854357953Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:19-20251112T205854970778Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "91.1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:17-20251112T205854592233Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:17> .
+<urn:ngsi-ld:ItemFlowObserved:17-20251112T205854592233Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:33-20251112T205859516708Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:33> .
+<urn:ngsi-ld:ItemFlowObserved:39-20251112T205901098340Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:4-20251112T205850645606Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 1, 'classes': {'truck': 1}}" .
+<urn:ngsi-ld:ItemFlowObserved:35-20251112T205900108043Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.08"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:32-20251112T205859290980Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:32> .
+<urn:ngsi-ld:ItemFlowObserved:3-20251112T205850187901Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:31-20251112T205858878339Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "83.6"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:33-20251112T205859516708Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:23-20251112T205856536501Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "82.1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:23-20251112T205856536501Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 1, 'classes': {'truck': 1}}" .
+<urn:ngsi-ld:ItemFlowObserved:28-20251112T205858183312Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "77.8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:39-20251112T205901098340Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "78.6"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:30-20251112T205858641947Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:30> .
+<urn:ngsi-ld:ItemFlowObserved:2-20251112T205849962440Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:14-20251112T205853947037Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:22-20251112T205856319948Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:19-20251112T205854970778Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:8-20251112T205851978072Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:10-20251112T205852857394Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:15-20251112T205854138290Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "84.1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:37-20251112T205900707483Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 1, 'classes': {'truck': 1}}" .
+<urn:ngsi-ld:ItemFlowObserved:8-20251112T205851978072Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 1, 'classes': {'car': 1}}" .
+<urn:ngsi-ld:ItemFlowObserved:19-20251112T205854970778Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:38-20251112T205900906842Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:14-20251112T205853947037Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:5-20251112T205851059278Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:3-20251112T205850187901Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 1, 'classes': {'motorcycle': 1}}" .
+<urn:ngsi-ld:ItemFlowObserved:11-20251112T205853115262Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:15-20251112T205854138290Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:20-20251112T205855232844Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 2, 'classes': {'car': 1, 'truck': 1}}" .
+<urn:ngsi-ld:ItemFlowObserved:35-20251112T205900108043Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:17-20251112T205854592233Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:23-20251112T205856536501Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:34-20251112T205859902669Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:4-20251112T205850645606Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:9-20251112T205852439545Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:10-20251112T205852857394Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 1, 'classes': {'traffic light': 1}}" .
+<urn:ngsi-ld:ItemFlowObserved:35-20251112T205900108043Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:1-20251112T205849680128Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:24-20251112T205856778671Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:3-20251112T205850187901Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:3> .
+<urn:ngsi-ld:ItemFlowObserved:31-20251112T205858878339Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:31> .
+<urn:ngsi-ld:ItemFlowObserved:27-20251112T205857756050Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:25-20251112T205857272588Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:5-20251112T205851059278Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:20-20251112T205855232844Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:31-20251112T205858878339Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:13-20251112T205853752704Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "80.1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:37-20251112T205900707483Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:24-20251112T205856778671Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:18-20251112T205854793244Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.577017307281, 10.7304200365785]}" .
+<urn:ngsi-ld:ItemFlowObserved:19-20251112T205854970778Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.571368575096, 10.7590644777735]}" .
+<urn:ngsi-ld:ItemFlowObserved:38-20251112T205900906842Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:34-20251112T205859902669Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.670079231262, 10.7503686605855]}" .
+<urn:ngsi-ld:ItemFlowObserved:13-20251112T205853752704Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:13-20251112T205853752704Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:29-20251112T205858427379Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:32-20251112T205859290980Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:34-20251112T205859902669Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:34> .
+<urn:ngsi-ld:ItemFlowObserved:10-20251112T205852857394Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:31-20251112T205858878339Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:39-20251112T205901098340Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:38-20251112T205900906842Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "90.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:33-20251112T205859516708Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "80.6"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:13-20251112T205853752704Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:13> .
+<urn:ngsi-ld:ItemFlowObserved:21-20251112T205855681254Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:9-20251112T205852439545Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "86.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:25-20251112T205857272588Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:11-20251112T205853115262Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:11> .
+<urn:ngsi-ld:ItemFlowObserved:9-20251112T205852439545Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:9> .
+<urn:ngsi-ld:ItemFlowObserved:3-20251112T205850187901Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "88.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:2-20251112T205849962440Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:26-20251112T205857560553Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:26-20251112T205857560553Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:10-20251112T205852857394Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "85.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:6-20251112T205851546053Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:36-20251112T205900303626Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:27-20251112T205857756050Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:27> .
+<urn:ngsi-ld:ItemFlowObserved:16-20251112T205854357953Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:20-20251112T205855232844Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "75.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:38-20251112T205900906842Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:7-20251112T205851761472Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:7> .
+<urn:ngsi-ld:ItemFlowObserved:21-20251112T205855681254Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:11-20251112T205853115262Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.790762543678, 10.796827763223]}" .
+<urn:ngsi-ld:ItemFlowObserved:5-20251112T205851059278Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:25-20251112T205857272588Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:25> .
+<urn:ngsi-ld:ItemFlowObserved:32-20251112T205859290980Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:35-20251112T205900108043Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "76.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:29-20251112T205858427379Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:29> .
+<urn:ngsi-ld:ItemFlowObserved:11-20251112T205853115262Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:24-20251112T205856778671Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:23-20251112T205856536501Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:6-20251112T205851546053Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:31-20251112T205858878339Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.77956700325, 10.7659102810674]}" .
+<urn:ngsi-ld:ItemFlowObserved:16-20251112T205854357953Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:2-20251112T205849962440Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:18-20251112T205854793244Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:13-20251112T205853752704Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.61497592926, 10.7380517925754]}" .
+<urn:ngsi-ld:ItemFlowObserved:6-20251112T205851546053Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "73.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:11-20251112T205853115262Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:17-20251112T205854592233Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:27-20251112T205857756050Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:34-20251112T205859902669Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.06"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:28-20251112T205858183312Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:28-20251112T205858183312Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:4-20251112T205850645606Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:37-20251112T205900707483Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:25-20251112T205857272588Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:16-20251112T205854357953Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "90.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:34-20251112T205859902669Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:24-20251112T205856778671Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "75.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:33-20251112T205859516708Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:33-20251112T205859516708Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:14-20251112T205853947037Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:30-20251112T205858641947Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:30-20251112T205858641947Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:29-20251112T205858427379Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:30-20251112T205858641947Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "77.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:12-20251112T205853527432Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:7-20251112T205851761472Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:6-20251112T205851546053Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.684530973434, 10.8032933150268]}" .
+<urn:ngsi-ld:ItemFlowObserved:38-20251112T205900906842Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:38> .
+<urn:ngsi-ld:ItemFlowObserved:0-20251112T205845535661Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:6-20251112T205851546053Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:34-20251112T205859902669Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "91.8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:8-20251112T205851978072Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:8> .
+<urn:ngsi-ld:ItemFlowObserved:6-20251112T205851546053Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:10-20251112T205852857394Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:10> .
+<urn:ngsi-ld:ItemFlowObserved:36-20251112T205900303626Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:31-20251112T205858878339Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:28-20251112T205858183312Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:28> .
+<urn:ngsi-ld:ItemFlowObserved:21-20251112T205855681254Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.696482896805, 10.8019970541825]}" .
+<urn:ngsi-ld:ItemFlowObserved:26-20251112T205857560553Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:26> .
+<urn:ngsi-ld:ItemFlowObserved:6-20251112T205851546053Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:6> .
+<urn:ngsi-ld:ItemFlowObserved:17-20251112T205854592233Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:17-20251112T205854592233Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:8-20251112T205851978072Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "86.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:8-20251112T205851978072Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:5-20251112T205851059278Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "81.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:36-20251112T205900303626Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:36> .
+<urn:ngsi-ld:ItemFlowObserved:3-20251112T205850187901Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.691064834595, 10.7726452614037]}" .
+<urn:ngsi-ld:ItemFlowObserved:21-20251112T205855681254Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:0-20251112T205845535661Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "82.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:22-20251112T205856319948Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:19-20251112T205854970778Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:3-20251112T205850187901Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:7-20251112T205851761472Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:20-20251112T205855232844Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:28-20251112T205858183312Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.654415130615, 10.8619248135124]}" .
+<urn:ngsi-ld:ItemFlowObserved:19-20251112T205854970778Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:4-20251112T205850645606Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.781423091888, 10.7646823693643]}" .
+<urn:ngsi-ld:ItemFlowObserved:24-20251112T205856778671Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:5-20251112T205851059278Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.593974232674, 10.7492355507977]}" .
+<urn:ngsi-ld:ItemFlowObserved:20-20251112T205855232844Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.670830249786, 10.7697784337206]}" .
+<urn:ngsi-ld:ItemFlowObserved:21-20251112T205855681254Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:21> .
+<urn:ngsi-ld:ItemFlowObserved:32-20251112T205859290980Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "89.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:22-20251112T205856319948Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:2-20251112T205849962440Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "81.6"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:2-20251112T205849962440Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.713809967041, 10.8361932799182]}" .
+<urn:ngsi-ld:ItemFlowObserved:4-20251112T205850645606Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "86.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:35-20251112T205900108043Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:35> .
+<urn:ngsi-ld:ItemFlowObserved:30-20251112T205858641947Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.696075201035, 10.7927439077816]}" .
+<urn:ngsi-ld:ItemFlowObserved:35-20251112T205900108043Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.08"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:10-20251112T205852857394Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:8-20251112T205851978072Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.715161800385, 10.8010801833774]}" .
+<urn:ngsi-ld:ItemFlowObserved:16-20251112T205854357953Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:33-20251112T205859516708Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.7367374897, 10.7409610852775]}" .
+<urn:ngsi-ld:ItemFlowObserved:0-20251112T205845535661Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:3-20251112T205850187901Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:15-20251112T205854138290Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:10-20251112T205852857394Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.636122465134, 10.7821519725547]}" .
+<urn:ngsi-ld:ItemFlowObserved:12-20251112T205853527432Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "77.4"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:39-20251112T205901098340Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:22-20251112T205856319948Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.677197813988, 10.751960277381]}" .
+<urn:ngsi-ld:ItemFlowObserved:39-20251112T205901098340Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 1, 'classes': {'car': 1}}" .
+<urn:ngsi-ld:ItemFlowObserved:9-20251112T205852439545Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:34-20251112T205859902669Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 3, 'classes': {'car': 3}}" .
+<urn:ngsi-ld:ItemFlowObserved:23-20251112T205856536501Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:23> .
+<urn:ngsi-ld:ItemFlowObserved:39-20251112T205901098340Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:2-20251112T205849962440Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:20-20251112T205855232844Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:9-20251112T205852439545Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:14-20251112T205853947037Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:14-20251112T205853947037Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:20-20251112T205855232844Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:20> .
+<urn:ngsi-ld:ItemFlowObserved:6-20251112T205851546053Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:26-20251112T205857560553Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "83.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:10-20251112T205852857394Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:23-20251112T205856536501Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:32-20251112T205859290980Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 2, 'classes': {'bus': 1, 'car': 1}}" .
+<urn:ngsi-ld:ItemFlowObserved:8-20251112T205851978072Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:13-20251112T205853752704Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:9-20251112T205852439545Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.686397790909, 10.8610818827294]}" .
+<urn:ngsi-ld:ItemFlowObserved:36-20251112T205900303626Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "87.4"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:27-20251112T205857756050Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "90.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:36-20251112T205900303626Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.690624952316, 10.7748059039379]}" .
+<urn:ngsi-ld:ItemFlowObserved:26-20251112T205857560553Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.672879457474, 10.8079619154301]}" .
+<urn:ngsi-ld:ItemFlowObserved:10-20251112T205852857394Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:35-20251112T205900108043Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.68367266655, 10.7519444666594]}" .
+<urn:ngsi-ld:ItemFlowObserved:16-20251112T205854357953Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.704602, 10.781944]}" .
+<urn:ngsi-ld:ItemFlowObserved:15-20251112T205854138290Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:27-20251112T205857756050Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 2, 'classes': {'train': 1, 'car': 1}}" .
+<urn:ngsi-ld:ItemFlowObserved:2-20251112T205849962440Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:2> .
+<urn:ngsi-ld:ItemFlowObserved:13-20251112T205853752704Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:18-20251112T205854793244Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:18> .
+<urn:ngsi-ld:ItemFlowObserved:26-20251112T205857560553Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:23-20251112T205856536501Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:34-20251112T205859902669Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:4-20251112T205850645606Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:9-20251112T205852439545Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:7-20251112T205851761472Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:27-20251112T205857756050Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:15-20251112T205854138290Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.658009290695, 10.7576784340111]}" .
+<urn:ngsi-ld:ItemFlowObserved:4-20251112T205850645606Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:22-20251112T205856319948Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:35-20251112T205900108043Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 4, 'classes': {'truck': 2, 'bus': 1, 'car': 1}}" .
+<urn:ngsi-ld:ItemFlowObserved:29-20251112T205858427379Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.671452522278, 10.7918902432446]}" .
+<urn:ngsi-ld:ItemFlowObserved:14-20251112T205853947037Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:14> .
+<urn:ngsi-ld:ItemFlowObserved:26-20251112T205857560553Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:18-20251112T205854793244Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:32-20251112T205859290980Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:30-20251112T205858641947Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:4-20251112T205850645606Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:4> .
+<urn:ngsi-ld:ItemFlowObserved:20-20251112T205855232844Z> <https://uri.etsi.org/ngsi-ld/congestionLevel> "free" .
+<urn:ngsi-ld:ItemFlowObserved:35-20251112T205900108043Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:15-20251112T205854138290Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:15> .
+<urn:ngsi-ld:ItemFlowObserved:39-20251112T205901098340Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:1-20251112T205849680128Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:18-20251112T205854793244Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:29-20251112T205858427379Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:15-20251112T205854138290Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 3, 'classes': {'person': 1, 'car': 1, 'bus': 1}}" .
+<urn:ngsi-ld:ItemFlowObserved:12-20251112T205853527432Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:0-20251112T205845535661Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.691054105759, 10.7918902432446]}" .
+<urn:ngsi-ld:ItemFlowObserved:37-20251112T205900707483Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:21-20251112T205855681254Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "79.3"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:25-20251112T205857272588Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "80.1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:29-20251112T205858427379Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 1, 'classes': {'car': 1}}" .
+<urn:ngsi-ld:ItemFlowObserved:19-20251112T205854970778Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:19> .
+<urn:ngsi-ld:ItemFlowObserved:37-20251112T205900707483Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:37> .
+<urn:ngsi-ld:ItemFlowObserved:7-20251112T205851761472Z> <https://uri.etsi.org/ngsi-ld/detectionDetails> "{'total_detections': 2, 'classes': {'car': 1, 'motorcycle': 1}}" .
+<urn:ngsi-ld:ItemFlowObserved:27-20251112T205857756050Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.768741607666, 10.872081942303]}" .
+<urn:ngsi-ld:ItemFlowObserved:33-20251112T205859516708Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:22-20251112T205856319948Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:22> .
+<urn:ngsi-ld:ItemFlowObserved:37-20251112T205900707483Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.695774793625, 10.7917743133057]}" .
+<urn:ngsi-ld:ItemFlowObserved:12-20251112T205853527432Z> <https://uri.etsi.org/ngsi-ld/location> "{\"type\": \"Point\", \"coordinates\": [106.765716075897, 10.8349709243101]}" .
+<urn:ngsi-ld:ItemFlowObserved:29-20251112T205858427379Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:7-20251112T205851761472Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "83.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:12-20251112T205853527432Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:37-20251112T205900707483Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:0-20251112T205845535661Z> <https://uri.etsi.org/ngsi-ld/refDevice> <urn:ngsi-ld:Camera:0> .
+<urn:ngsi-ld:ItemFlowObserved:28-20251112T205858183312Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:38-20251112T205900906842Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:17-20251112T205854592233Z> <https://uri.etsi.org/ngsi-ld/averageSpeed> "82.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:32-20251112T205859290980Z> <https://uri.etsi.org/ngsi-ld/vehicleCount> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:ngsi-ld:ItemFlowObserved:5-20251112T205851059278Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://uri.etsi.org/ngsi-ld/ItemFlowObserved> .
+<urn:ngsi-ld:ItemFlowObserved:5-20251112T205851059278Z> <https://uri.etsi.org/ngsi-ld/intensity> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urn:ngsi-ld:ItemFlowObserved:36-20251112T205900303626Z> <https://uri.etsi.org/ngsi-ld/occupancy> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .

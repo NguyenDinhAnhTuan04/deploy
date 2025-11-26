@@ -1,0 +1,41 @@
+{
+  "execution_time": "2025-11-01T08:03:07.990366Z",
+  "total_duration_seconds": 0.22,
+  "status": "success",
+  "phases": [
+    {
+      "name": "Phase 1",
+      "status": "success",
+      "duration_seconds": 0.22,
+      "agents": [
+        {
+          "name": "optional_agent",
+          "status": "success",
+          "duration_seconds": 0.11,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        },
+        {
+          "name": "required_agent",
+          "status": "success",
+          "duration_seconds": 0.11,
+          "error_message": null,
+          "retry_count": 0,
+          "output_files": []
+        }
+      ]
+    }
+  ],
+  "endpoints": {},
+  "statistics": {
+    "total_phases": 1,
+    "successful_phases": 1,
+    "failed_phases": 0,
+    "total_agents": 2,
+    "successful_agents": 2,
+    "failed_agents": 0,
+    "skipped_agents": 0
+  },
+  "errors": []
+}

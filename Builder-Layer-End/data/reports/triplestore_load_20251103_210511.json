@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-03T14:05:11.743751Z",
+  "dataset": "lod-dataset",
+  "files_loaded": [],
+  "total_triples": 5920,
+  "named_graphs": [
+    "http://example.org/graphs/default"
+  ],
+  "sparql_endpoint": "http://localhost:3030/lod-dataset/sparql",
+  "duration_seconds": 74.96,
+  "status": "failed",
+  "errors": [
+    "data\\rdf\\Camera_20251101_072343.ttl: File contains no triples",
+    "data\\rdf\\Camera_20251101_072456.ttl: File contains no triples",
+    "data\\rdf\\Camera_20251101_072603.ttl: File contains no triples",
+    "data\\rdf\\Camera_20251101_072711.ttl: File contains no triples",
+    "data\\rdf\\Camera_20251101_073324.ttl: File contains no triples",
+    "data\\rdf\\Camera_20251101_073434.ttl: Upload failed",
+    "data\\rdf\\Camera_20251101_073449.ttl: Upload failed",
+    "data\\rdf\\Camera_20251101_073450.ttl: Upload failed",
+    "data\\rdf\\Camera_20251101_073451.ttl: Upload failed",
+    "data\\rdf\\Camera_20251101_073517.ttl: Upload failed",
+    "data\\rdf\\Camera_20251101_073518.ttl: Upload failed",
+    "data\\rdf\\Camera_20251101_073519.ttl: Upload failed",
+    "data\\rdf\\Camera_20251101_073532.ttl: Upload failed",
+    "data\\rdf\\Camera_20251103_134337.ttl: Upload failed",
+    "data\\rdf\\ObservableProperty_20251101_072821.ttl: File contains no triples",
+    "data\\rdf\\ObservableProperty_20251101_072934.ttl: File contains no triples",
+    "data\\rdf\\ObservableProperty_20251101_073040.ttl: File contains no triples",
+    "data\\rdf\\ObservableProperty_20251101_073143.ttl: File contains no triples",
+    "data\\rdf\\ObservableProperty_20251101_073452.ttl: Upload failed",
+    "data\\rdf\\ObservableProperty_20251101_073454.ttl: Upload failed",
+    "data\\rdf\\ObservableProperty_20251101_073455.ttl: Upload failed",
+    "data\\rdf\\ObservableProperty_20251101_073519.ttl: Upload failed",
+    "data\\rdf\\ObservableProperty_20251101_073520.ttl: Upload failed",
+    "data\\rdf\\ObservableProperty_20251101_073521.ttl: Upload failed",
+    "data\\rdf\\ObservableProperty_20251101_073522.ttl: Upload failed"
+  ]
+}

@@ -1,0 +1,2680 @@
+[
+  {
+    "id": "0",
+    "name": "Trần Quang Khải - Trần Khắc Chân",
+    "code": "TTH 406",
+    "latitude": 10.7918902432446,
+    "longitude": 106.691054105759,
+    "latlng": "10.7918902432446,106.691054105759",
+    "node_id": "687ce800-704f-4abf-9589-e7688ff2b527",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/8c5fb875-b91d-4552-8b5d-4507c64d41f0",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Trần Quang Khải",
+      "Trần Khắc Chân"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=662b86c41afb9c00172dd31c&zoom=4&t=1763409530160",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:05.002234",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.616606Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:58:55.036099Z",
+    "weather": {
+      "temperature": 26.68,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "1",
+    "name": "Tô Ngọc Vân - TX25",
+    "code": "TTH 21.84",
+    "latitude": 10.8797100979598,
+    "longitude": 106.677986383438,
+    "latlng": "10.8797100979598,106.677986383438",
+    "node_id": "c9e63e01-1cba-4e6d-866f-659b2e3b9fe7",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/5cdccb5b-b5c5-406c-bcfb-5d9a254c0d2c",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Tô Ngọc Vân",
+      "TX25"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5a6065c58576340017d06615&zoom=4&t=1763409530222",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:07.055490",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.616086Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:58:55.114462Z",
+    "weather": {
+      "temperature": 25.02,
+      "humidity": 100,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 97
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 15.67,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 20.05,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 9.9,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 27.31,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 378.74,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 3.07,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 3.32,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Fair",
+      "aqi_index": 2,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Quốc Lộ 13 - cầu Ông Dầu",
+    "code": "TTH 300",
+    "latitude": 10.8361932799182,
+    "longitude": 106.713809967041,
+    "latlng": "10.8361932799182,106.713809967041",
+    "node_id": "4a165901-2761-4c9b-a183-5ff88dd13ecb",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/71f33bbb-95cd-407c-a65d-7c53542aa81f",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Quốc Lộ 13",
+      "cầu Ông Dầu"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6623f4df6f998a001b2528eb&zoom=4&t=1763409530223",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:09.077941",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.544787Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:58:58.295768Z",
+    "weather": {
+      "temperature": 26.73,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 100
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 15.67,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 20.05,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 9.9,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 27.31,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 378.74,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 3.07,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 3.32,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Fair",
+      "aqi_index": 2,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Cách Mạng Tháng Tám - Bùi Thị Xuân",
+    "code": "TTH 374",
+    "latitude": 10.7726452614037,
+    "longitude": 106.691064834595,
+    "latlng": "10.7726452614037,106.691064834595",
+    "node_id": "ce6d0a02-1d32-412c-a1b3-a346c9dfb116",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/ea94bbfd-b2d8-4b91-adde-87b279df21b8",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Cách Mạng Tháng Tám",
+      "Bùi Thị Xuân"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=662b7ce71afb9c00172dc676&zoom=4&t=1763409530226",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:11.111231",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.450075Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:58:58.391698Z",
+    "weather": {
+      "temperature": 26.67,
+      "humidity": 93,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Nguyễn Thị Định - Đường D",
+    "code": "TTH 22.7",
+    "latitude": 10.7646823693643,
+    "longitude": 106.781423091888,
+    "latlng": "10.7646823693643,106.781423091888",
+    "node_id": "cf5fcb03-b8b8-4cce-b28c-dfb009adfa79",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/01e03e2a-80b1-4c54-a7a1-e1f78a57d53b",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Nguyễn Thị Định",
+      "Đường D"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=583f969161cfea0012cf68f7&zoom=4&t=1763409530229",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:13.135413",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.616086Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:59:01.542323Z",
+    "weather": {
+      "temperature": 26.73,
+      "humidity": 93,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 100
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "5",
+    "name": "QL1 - Tỉnh lộ 10 B (2)",
+    "code": "IDICO-QL1 29",
+    "latitude": 10.7492355507977,
+    "longitude": 106.593974232674,
+    "latlng": "10.7492355507977,106.593974232674",
+    "node_id": "b0df0e04-bd9a-4471-ac51-a4b333d9d453",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/bc97253a-b309-42ca-977f-1132d3120213",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "QL1",
+      "Tỉnh lộ 10 B (2)"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=59ca317602eb490011a0a408&zoom=4&t=1763409530231",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:15.168837",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.615076Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:59:14.780673Z",
+    "weather": {
+      "temperature": 25.04,
+      "humidity": 100,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 95
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 10.46,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 12.8,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 8.17,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 32.91,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 276.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 2.55,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 1,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Fair",
+      "aqi_index": 2,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Phan Đăng Lưu - Thích Quảng Đức",
+    "code": "TTH 273",
+    "latitude": 10.8032933150268,
+    "longitude": 106.684530973434,
+    "latlng": "10.8032933150268,106.684530973434",
+    "node_id": "84be2004-804a-4772-bb38-7ea0f52d3d25",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/24dd3b62-8a36-49b2-858a-a76a96b6cb60",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Phan Đăng Lưu",
+      "Thích Quảng Đức"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6623e8da6f998a001b2524a6&zoom=4&t=1763409530232",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:17.200663",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.670693Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:59:15.030912Z",
+    "weather": {
+      "temperature": 26.69,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 15.67,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 20.05,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 9.9,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 27.31,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 378.74,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 3.07,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 3.32,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Fair",
+      "aqi_index": 2,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Võ Văn Kiệt - An Dương Vương 2",
+    "code": "TTH 18.2",
+    "latitude": 10.7265671915496,
+    "longitude": 106.620351076126,
+    "latlng": "10.7265671915496,106.620351076126",
+    "node_id": "21a93504-3cf5-42c1-aca6-4564c5251466",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/d8e71068-361e-42be-90aa-1e0b1d5a1bcd",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Võ Văn Kiệt",
+      "An Dương Vương 2"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481299&zoom=4&t=1763409530233",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:19.218000",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.651268Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:59:18.019918Z",
+    "weather": {
+      "temperature": 26.73,
+      "humidity": 93,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 95
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "8",
+    "name": "Điện Biên Phủ - Nguyễn Gia Trí",
+    "code": "TTH 419",
+    "latitude": 10.8010801833774,
+    "longitude": 106.715161800385,
+    "latlng": "10.8010801833774,106.715161800385",
+    "node_id": "14655404-b0d9-45a8-a16b-4619b274d47d",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/7b476961-2fa4-4a24-a76e-c918a0bbcfb2",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Điện Biên Phủ",
+      "Nguyễn Gia Trí"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=66b1c426779f74001867415e&zoom=4&t=1763409530236",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:21.228998",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.614070Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:59:18.245774Z",
+    "weather": {
+      "temperature": 26.72,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 99
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 15.67,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 20.05,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 9.9,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 27.31,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 378.74,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 3.07,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 3.32,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Fair",
+      "aqi_index": 2,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Quốc lộ 1 - Rạch Láng Le 1",
+    "code": "TTH 21.59",
+    "latitude": 10.8610818827294,
+    "longitude": 106.686397790909,
+    "latlng": "10.8610818827294,106.686397790909",
+    "node_id": "3c6fb304-8581-4c9c-945c-6931bb80859c",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/965fb49a-5943-407a-af3b-8fc41f4b57a3",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Quốc lộ 1",
+      "Rạch Láng Le 1"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=595dc29c3dcfc400106f2894&zoom=4&t=1763409530236",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:23.243372",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.428207Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:59:21.271923Z",
+    "weather": {
+      "temperature": 25.03,
+      "humidity": 100,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 15.67,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 20.05,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 9.9,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 27.31,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 378.74,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 3.07,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 3.32,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Fair",
+      "aqi_index": 2,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Lũy Bán Bích - Thoại Ngọc Hầu",
+    "code": "TTH 292",
+    "latitude": 10.7821519725547,
+    "longitude": 106.636122465134,
+    "latlng": "10.7821519725547,106.636122465134",
+    "node_id": "fc46fa04-5b84-46e6-a85d-2cbba9d33bea",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/01a8fd8f-0e4c-4370-8e9e-0cd08bc8a104",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Lũy Bán Bích",
+      "Thoại Ngọc Hầu"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6623f1046f998a001b2527db&zoom=4&t=1763409530237",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:25.252325",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.652409Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:59:34.526476Z",
+    "weather": {
+      "temperature": 25,
+      "humidity": 100,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 97
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Cao tốc LTDG - Võ Chí Công",
+    "code": "TTH 1.8",
+    "latitude": 10.796827763223,
+    "longitude": 106.790762543678,
+    "latlng": "10.796827763223,106.790762543678",
+    "node_id": "ef685d05-b5c1-4ab5-b8a2-5b813869040a",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/1ca82a5e-e2c8-44b7-a797-bed855459c6d",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Cao tốc LTDG",
+      "Võ Chí Công"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5d9de4de766c880017188cbb&zoom=4&t=1763409530237",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:27.271263",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.652409Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:59:34.620464Z",
+    "weather": {
+      "temperature": 26.74,
+      "humidity": 93,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 100
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Võ Nguyên Giáp - Đỗ Xuân Hợp (1)",
+    "code": "TTH 299.1",
+    "latitude": 10.8349709243101,
+    "longitude": 106.765716075897,
+    "latlng": "10.8349709243101,106.765716075897",
+    "node_id": "93d36505-8b20-4661-9361-e6efda25aace",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/52866915-5bc7-4a15-8a9c-c5e5d570b27a",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Võ Nguyên Giáp",
+      "Đỗ Xuân Hợp (1)"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6623f44f6f998a001b2528aa&zoom=4&t=1763409530238",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:29.303254",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.670693Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:59:37.786496Z",
+    "weather": {
+      "temperature": 26.69,
+      "humidity": 93,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 100
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 15.67,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 20.05,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 9.9,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 27.31,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 378.74,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 3.07,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 3.32,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Fair",
+      "aqi_index": 2,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Kinh Dương Vương - Tên Lửa",
+    "code": "TTH 308",
+    "latitude": 10.7380517925754,
+    "longitude": 106.61497592926,
+    "latlng": "10.7380517925754,106.61497592926",
+    "node_id": "183b7406-5471-4bd1-b897-2bb5fa546430",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/746e6676-442a-410c-ba51-1796831dd83c",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Kinh Dương Vương",
+      "Tên Lửa"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=662a881a1afb9c00172d2559&zoom=4&t=1763409530239",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:31.365287",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.901066Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:59:37.901361Z",
+    "weather": {
+      "temperature": 26.72,
+      "humidity": 93,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 95
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Mai Bá Hương - Kênh 4",
+    "code": "TTH 423",
+    "latitude": 10.7736992353084,
+    "longitude": 106.509790420532,
+    "latlng": "10.7736992353084,106.509790420532",
+    "node_id": "79036e07-5739-4043-be81-07c24257130f",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/39140caf-bb7d-401f-b147-b84425bbf14d",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Mai Bá Hương",
+      "Kênh 4"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6818833d6dfb4b0018f8ee9d&zoom=4&t=1763409530247",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:33.388648",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.900064Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:59:41.026557Z",
+    "weather": {
+      "temperature": 25.03,
+      "humidity": 100,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 94
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 10.46,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 12.8,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 8.17,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 32.91,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 276.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 2.55,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 1,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Fair",
+      "aqi_index": 2,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Nguyễn Chí Thanh - Thuận Kiều",
+    "code": "TTH 335",
+    "latitude": 10.7576784340111,
+    "longitude": 106.658009290695,
+    "latlng": "10.7576784340111,106.658009290695",
+    "node_id": "3d3f0708-1a2b-4e0b-8ff2-80513c0d9032",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/d406db73-a749-44ae-b3ef-bba16b9fdeac",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Nguyễn Chí Thanh",
+      "Thuận Kiều"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=662b4ecb1afb9c00172d8692&zoom=4&t=1763409530248",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:35.408200",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.720461Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:59:54.236175Z",
+    "weather": {
+      "temperature": 26.68,
+      "humidity": 93,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 97
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "16",
+    "name": "Lý Tự Trọng - Chu Mạnh Trinh",
+    "code": "ITS 8.2",
+    "latitude": 10.781944,
+    "longitude": 106.704602,
+    "latlng": "10.781944,106.704602",
+    "node_id": "aaf31708-462f-4377-addf-88fc9c87d74f",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/3af7a6fe-7896-4c56-b8ef-4b8c44de12e4",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Lý Tự Trọng",
+      "Chu Mạnh Trinh"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5deb576d1dc17d7c5515ad15&zoom=4&t=1763409530249",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:37.420909",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.833926Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:59:54.198641Z",
+    "weather": {
+      "temperature": 26.66,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 99
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "17",
+    "name": "Trường Sơn - Ga Quốc Nội 2",
+    "code": "TTH 29.4",
+    "latitude": 10.8129465937096,
+    "longitude": 106.664902567863,
+    "latlng": "10.8129465937096,106.664902567863",
+    "node_id": "04fe1908-9a7d-4e52-a1f6-1fc64baa4724",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/e0305779-7daa-48f9-a2dd-0ed7ccf9cb60",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Trường Sơn",
+      "Ga Quốc Nội 2"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5b8b2323ca057700116405d0&zoom=4&t=1763409530249",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:39.441543",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.831518Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:59:57.430300Z",
+    "weather": {
+      "temperature": 26.67,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 97
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 15.67,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 20.05,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 9.9,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 27.31,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 378.74,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 3.07,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 3.32,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Fair",
+      "aqi_index": 2,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "18",
+    "name": "Trần Đại Nghĩa - Võ Trần Chí",
+    "code": "TTH 442",
+    "latitude": 10.7304200365785,
+    "longitude": 106.577017307281,
+    "latlng": "10.7304200365785,106.577017307281",
+    "node_id": "865a0809-582f-49e5-b0e0-fcc7d79d2488",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/f9103df3-9ec3-48ba-9e80-76533d49e953",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Trần Đại Nghĩa",
+      "Võ Trần Chí"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=68188a226dfb4b0018f8f70a&zoom=4&t=1763409530250",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:41.462306",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.937580Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T19:59:57.531861Z",
+    "weather": {
+      "temperature": 25.04,
+      "humidity": 100,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 95
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 10.46,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 12.8,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 8.17,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 32.91,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 276.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 2.55,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 1,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Fair",
+      "aqi_index": 2,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "19",
+    "name": "Trần Văn Giàu - cầu Tân Tạo",
+    "code": "TTH 440",
+    "latitude": 10.7590644777735,
+    "longitude": 106.571368575096,
+    "latlng": "10.7590644777735,106.571368575096",
+    "node_id": "5f75e809-898b-45bd-b0b4-4db8f369dc68",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/16cea448-b706-482d-b2e4-c3612e19ce9f",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Trần Văn Giàu",
+      "cầu Tân Tạo"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=681889a96dfb4b0018f8f67e&zoom=4&t=1763409530250",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:43.462815",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.935001Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:00:00.693432Z",
+    "weather": {
+      "temperature": 25.03,
+      "humidity": 100,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 95
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 10.46,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 12.8,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 8.17,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 32.91,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 276.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 2.55,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 1,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Fair",
+      "aqi_index": 2,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "20",
+    "name": "Ba Tháng Hai – Sư Vạn Hạnh",
+    "code": "TTH 197",
+    "latitude": 10.7697784337206,
+    "longitude": 106.670830249786,
+    "latlng": "10.7697784337206,106.670830249786",
+    "node_id": "d3e69e0a-e613-4267-9b93-4b0f3396a769",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/4ca420dc-3d5e-4920-8e3b-57fc16cf23ba",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Ba Tháng Hai",
+      "Sư Vạn Hạnh"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=63ae7a50bfd3d90017e8f2b2&zoom=4&t=1763409530250",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:45.493949",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.926267Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:00:13.947819Z",
+    "weather": {
+      "temperature": 26.69,
+      "humidity": 93,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "21",
+    "name": "Phan Đăng Lưu - Lê Văn Duyệt",
+    "code": "TTH 44.4",
+    "latitude": 10.8019970541825,
+    "longitude": 106.696482896805,
+    "latlng": "10.8019970541825,106.696482896805",
+    "node_id": "57733d0b-0b33-441a-9e85-e768596b38fd",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/5b659646-9119-43af-9fce-4889692cf3ec",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Phan Đăng Lưu",
+      "Lê Văn Duyệt"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=587ee0ecb807da0011e33d50&zoom=4&t=1763409530251",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:47.512902",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.901066Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:00:14.082867Z",
+    "weather": {
+      "temperature": 26.72,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 15.67,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 20.05,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 9.9,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 27.31,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 378.74,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 3.07,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 3.32,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Fair",
+      "aqi_index": 2,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "22",
+    "name": "Võ Văn Kiệt - Huỳnh Mẫn Đạt",
+    "code": "TTH 11.1",
+    "latitude": 10.751960277381,
+    "longitude": 106.677197813988,
+    "latlng": "10.751960277381,106.677197813988",
+    "node_id": "ed01790b-5f40-4224-8ffb-3a4defc66f1c",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/04e9f7c2-952d-4977-bc1f-a6efd90629d2",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Võ Văn Kiệt",
+      "Huỳnh Mẫn Đạt"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c48128f&zoom=4&t=1763409530251",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:49.519354",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.833926Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:00:17.168316Z",
+    "weather": {
+      "temperature": 26.71,
+      "humidity": 93,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "23",
+    "name": "Nút giao Mỹ Thủy 2",
+    "code": "TTH 22.4",
+    "latitude": 10.7701157,
+    "longitude": 106.7755866,
+    "latlng": "10.7701157,106.7755866",
+    "node_id": "1a139c0b-d1c9-4543-b0d5-1f183f7ace19",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/ae4f7f5a-beae-490e-be0e-58d0b2093cbd",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Nút giao Mỹ Thủy 2"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c4812a2&zoom=4&t=1763409530252",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:51.543328",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:50.927391Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:00:18.845604Z",
+    "weather": {
+      "temperature": 26.73,
+      "humidity": 93,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 100
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "24",
+    "name": "Nguyễn Văn Trỗi - Trần Huy Liệu",
+    "code": "TTH 34.11",
+    "latitude": 10.794472307568,
+    "longitude": 106.677948832512,
+    "latlng": "10.794472307568,106.677948832512",
+    "node_id": "97f9a40b-75b6-4111-ad9a-6791c207578b",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/39004594-1a51-44c1-bd72-e8eb2a56e8ac",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Nguyễn Văn Trỗi",
+      "Trần Huy Liệu"
+    ],
+    "cam_type": "tth_axis",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58b571c817139d0010f35d5d&zoom=4&t=1763409530252",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:53.556055",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.034158Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:00:24.833573Z",
+    "weather": {
+      "temperature": 26.68,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "25",
+    "name": "Huỳnh Tấn Phát - Phạm Hữu Lầu",
+    "code": "TTH 245",
+    "latitude": 10.7052043577961,
+    "longitude": 106.737660169601,
+    "latlng": "10.7052043577961,106.737660169601",
+    "node_id": "53d0180d-98ed-4aaa-afb3-755811fe1196",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/e54ea210-32dd-4915-a815-4da292a989cc",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Huỳnh Tấn Phát",
+      "Phạm Hữu Lầu"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=63bd1f21bfd3d90017ec3d04&zoom=4&t=1763409530252",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:55.566880",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.034158Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:00:38.087716Z",
+    "weather": {
+      "temperature": 26.72,
+      "humidity": 93,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 96
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "26",
+    "name": "Phổ Quang - Hoàng Minh Giám",
+    "code": "TTH 26.4",
+    "latitude": 10.8079619154301,
+    "longitude": 106.672879457474,
+    "latlng": "10.8079619154301,106.672879457474",
+    "node_id": "382c510d-ea31-4d50-bedc-102148429ad0",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/c39073ce-0374-4130-9c49-ca9adee36184",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Phổ Quang",
+      "Hoàng Minh Giám"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=58df4d95dc195800111e04b9&zoom=4&t=1763409530253",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:57.585742",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.034158Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:00:38.185758Z",
+    "weather": {
+      "temperature": 26.68,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 15.67,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 20.05,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 9.9,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 27.31,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 378.74,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 3.07,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 3.32,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Fair",
+      "aqi_index": 2,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "27",
+    "name": "Quốc lộ 1 - KCX Linh Trung 1",
+    "code": "TTH 21.3",
+    "latitude": 10.872081942303,
+    "longitude": 106.768741607666,
+    "latlng": "10.872081942303,106.768741607666",
+    "node_id": "f0b7b50d-118d-49b9-ada6-595a801ccec2",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/247fe095-552e-4522-9448-a4cbc5f98325",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Quốc lộ 1",
+      "KCX Linh Trung 1"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=586e28a0f9fab7001111b0b3&zoom=4&t=1763409530253",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:13:59.601244",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.142727Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:00:42.870975Z",
+    "weather": {
+      "temperature": 26.55,
+      "humidity": 93,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 100
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 15.67,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 20.05,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 9.9,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 27.31,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 378.74,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 3.07,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 3.32,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Fair",
+      "aqi_index": 2,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "28",
+    "name": "Quốc lộ 1 - Đường Lê Thị Riêng 2",
+    "code": "TTH 21.69",
+    "latitude": 10.8619248135124,
+    "longitude": 106.654415130615,
+    "latlng": "10.8619248135124,106.654415130615",
+    "node_id": "fd00e80d-f60c-43c9-810b-d5f1c528fa83",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/fde853dc-3b07-42be-b0a3-6190912030c1",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Quốc lộ 1",
+      "Đường Lê Thị Riêng 2"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=595dd8463dcfc400106f28b2&zoom=4&t=1763409530253",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:14:01.613564",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.181811Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:00:48.850459Z",
+    "weather": {
+      "temperature": 25.03,
+      "humidity": 100,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 96
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 15.67,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 20.05,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 9.9,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 27.31,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 378.74,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 3.07,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 3.32,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Fair",
+      "aqi_index": 2,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "29",
+    "name": "Lê Văn Sỹ - Huỳnh Văn Bánh",
+    "code": "TTH 145",
+    "latitude": 10.7918902432446,
+    "longitude": 106.671452522278,
+    "latlng": "10.7918902432446,106.671452522278",
+    "node_id": "ba81010e-f003-4416-9d87-180479a0e059",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/95e14513-3ad8-4d4a-9e85-ce99db8f31e1",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Lê Văn Sỹ",
+      "Huỳnh Văn Bánh"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5d8cd4ee766c880017188946&zoom=4&t=1763409530254",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:14:03.637077",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.182813Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:00:54.850408Z",
+    "weather": {
+      "temperature": 26.69,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "30",
+    "name": "Đinh Tiên Hoàng - Trần Quang Khải",
+    "code": "TTH 385",
+    "latitude": 10.7927439077816,
+    "longitude": 106.696075201035,
+    "latlng": "10.7927439077816,106.696075201035",
+    "node_id": "e862480e-a8be-4add-91c9-958662d4b3a4",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/07423d92-f60c-4696-8f86-9327f777cc76",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Đinh Tiên Hoàng",
+      "Trần Quang Khải"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=662b81721afb9c00172dcc44&zoom=4&t=1763409530255",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:14:05.654556",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.103378Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:01:08.079679Z",
+    "weather": {
+      "temperature": 26.68,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "31",
+    "name": "Nguyễn Thị Định - Đường C (20-1)",
+    "code": "TTH 22.6.1",
+    "latitude": 10.7659102810674,
+    "longitude": 106.77956700325,
+    "latlng": "10.7659102810674,106.77956700325",
+    "node_id": "70f16e0e-007d-49a7-888c-3075336ef6e5",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/340c56e0-47df-436f-b570-889e40141cef",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Nguyễn Thị Định",
+      "Đường C (20"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=67e217c43215f90017863bc8&zoom=4&t=1763409530255",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:14:07.669921",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.182813Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:01:08.049789Z",
+    "weather": {
+      "temperature": 26.73,
+      "humidity": 93,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 100
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "32",
+    "name": "Vòng xoay Mũi Tàu Phú Lâm",
+    "code": "TTH 417",
+    "latitude": 10.7459416028391,
+    "longitude": 106.624095439911,
+    "latlng": "10.7459416028391,106.624095439911",
+    "node_id": "8639a30e-7cb5-43bd-b171-9a73b875ed8f",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/bb0ba63b-a6f4-48a6-9c81-e3618eb29d65",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Vòng xoay Mũi Tàu Phú Lâm"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=66b1c3c2779f740018674125&zoom=4&t=1763409530255",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:14:09.677027",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.180799Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:01:12.843261Z",
+    "weather": {
+      "temperature": 26.72,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 96
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "33",
+    "name": "Nguyễn Văn Quỳ - Cầu Phú Mỹ",
+    "code": "TTH 124.1",
+    "latitude": 10.7409610852775,
+    "longitude": 106.7367374897,
+    "latlng": "10.7409610852775,106.7367374897",
+    "node_id": "1831fc0e-6902-477f-9156-3db4dbe5474a",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/3378564a-8bcb-456d-acca-f3380bfd1dcf",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Nguyễn Văn Quỳ",
+      "Cầu Phú Mỹ"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5a8269c45058170011f6eae4&zoom=4&t=1763409530256",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:14:11.684789",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.255294Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:01:18.853688Z",
+    "weather": {
+      "temperature": 26.72,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "34",
+    "name": "Võ Văn Kiệt - Nguyễn Tri Phương 2",
+    "code": "TTH 13.2",
+    "latitude": 10.7503686605855,
+    "longitude": 106.670079231262,
+    "latlng": "10.7503686605855,106.670079231262",
+    "node_id": "867e380f-49a0-4128-86b3-85bedbc5f8c6",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/4c2f0787-7c84-4497-9e1a-7df679f2014b",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Võ Văn Kiệt",
+      "Nguyễn Tri Phương 2"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=56de42f611f398ec0c481297&zoom=4&t=1763409530256",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:14:13.707634",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.271996Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:01:24.847792Z",
+    "weather": {
+      "temperature": 26.71,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "35",
+    "name": "Võ Văn Kiệt - Cầu Chữ Y 1",
+    "code": "TTH 10.1",
+    "latitude": 10.7519444666594,
+    "longitude": 106.68367266655,
+    "latlng": "10.7519444666594,106.68367266655",
+    "node_id": "6752ef0f-b3c0-48c9-9823-0dbd2456a64f",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/73244da6-e3de-45c4-8292-6eabbd53eb77",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Võ Văn Kiệt",
+      "Cầu Chữ Y 1"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5822adbbedeb6c0012a2d65f&zoom=4&t=1763409530257",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:14:15.721070",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.193701Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:01:37.924262Z",
+    "weather": {
+      "temperature": 26.71,
+      "humidity": 93,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "36",
+    "name": "Nguyễn Thị Minh Khai - Bà Huyện Thanh Quan",
+    "code": "TTH 259",
+    "latitude": 10.7748059039379,
+    "longitude": 106.690624952316,
+    "latlng": "10.7748059039379,106.690624952316",
+    "node_id": "d82e1210-c93d-4e61-8f1c-e922168160f5",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/ff0e945f-72fc-4389-badb-cce60597d41f",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Nguyễn Thị Minh Khai",
+      "Bà Huyện Thanh Quan"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=6623e43e6f998a001b2522cb&zoom=4&t=1763409530258",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:14:17.730283",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.255294Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:01:37.982506Z",
+    "weather": {
+      "temperature": 26.67,
+      "humidity": 93,
+      "pressure": 1009,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "37",
+    "name": "Đinh Tiên Hoàng - Võ Thị Sáu 1",
+    "code": "TTH 102.1",
+    "latitude": 10.7917743133057,
+    "longitude": 106.695774793625,
+    "latlng": "10.7917743133057,106.695774793625",
+    "node_id": "70bf1511-4d3b-450f-862c-5d5b1d6826db",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/28db00b7-e925-47f3-8a89-f72a33057b32",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "Đinh Tiên Hoàng",
+      "Võ Thị Sáu 1"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5a823e425058170011f6eaa4&zoom=4&t=1763409530259",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:14:19.748469",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.271996Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:01:42.668722Z",
+    "weather": {
+      "temperature": 26.68,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 98
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "38",
+    "name": "Tôn Đức Thắng - Hàm Nghi",
+    "code": "TTH 247",
+    "latitude": 10.7710748334425,
+    "longitude": 106.70635342598,
+    "latlng": "10.7710748334425,106.70635342598",
+    "node_id": "da774611-7ef1-40da-a486-0195c59edd37",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/ed1e77d0-76db-4162-ac6d-5a4c17ee4bbb",
+    "ptz": "True",
+    "description": null,
+    "streets": [
+      "Tôn Đức Thắng",
+      "Hàm Nghi"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=649da72ca6068200171a6dbb&zoom=4&t=1763409530259",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:14:21.765148",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.284859Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:01:48.845241Z",
+    "weather": {
+      "temperature": 26.74,
+      "humidity": 93,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 99
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  },
+  {
+    "id": "39",
+    "name": "QL1 - Nút giao An Lạc 2",
+    "code": "IDICO-QL1 36",
+    "latitude": 10.7235049089888,
+    "longitude": 106.601693630219,
+    "latlng": "10.7235049089888,106.601693630219",
+    "node_id": "432a4e11-6879-4ba6-963f-4b37ee860484",
+    "path": "/root/vdms/tangthu/data/layerdata/camera/faea37c8-384c-4abe-9dc2-e04a1d2489f5",
+    "ptz": "False",
+    "description": null,
+    "streets": [
+      "QL1",
+      "Nút giao An Lạc 2"
+    ],
+    "cam_type": "tth",
+    "image_url_x4": "https://giaothong.hochiminhcity.gov.vn/render/ImageHandler.ashx?id=5a6088218576340017d06693&zoom=4&t=1763409530260",
+    "screenshot_path": "",
+    "status": "success",
+    "updated_at": "2025-10-31T23:14:23.792710",
+    "error": null,
+    "last_refreshed": "2025-11-17T19:58:51.274329Z",
+    "refresh_status": "success",
+    "verification_status": "accessible",
+    "enrichment_timestamp": "2025-11-17T20:01:54.842785Z",
+    "weather": {
+      "temperature": 25.03,
+      "humidity": 100,
+      "pressure": 1008,
+      "description": "mist",
+      "wind_speed": 2.06,
+      "clouds": 95
+    },
+    "air_quality": {
+      "pm25": {
+        "value": 8,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": 9.97,
+        "unit": "µg/m³"
+      },
+      "no2": {
+        "value": 5.77,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 37.75,
+        "unit": "µg/m³"
+      },
+      "co": {
+        "value": 231.48,
+        "unit": "µg/m³"
+      },
+      "so2": {
+        "value": 1.88,
+        "unit": "µg/m³"
+      },
+      "nh3": {
+        "value": 0.93,
+        "unit": "µg/m³"
+      },
+      "aqi_category": "Good",
+      "aqi_index": 1,
+      "source": "OpenWeatherMap"
+    }
+  }
+]

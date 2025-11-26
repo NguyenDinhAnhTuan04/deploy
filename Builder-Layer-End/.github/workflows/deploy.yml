@@ -1,0 +1,247 @@
+name: Deploy to Server
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Deploy Builder-Layer-End (Pipeline)
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.SERVER_HOST }}
+          username: ${{ secrets.SERVER_USER }}
+          password: ${{ secrets.SERVER_PASSWORD }}
+          port: 22
+          script: |
+            # Navigate to project directory
+            cd /home/deepminds/deploy || exit 1
+
+            # Pull latest code
+            echo "=========================================="
+            echo "Pulling latest code from GitHub..."
+            echo "=========================================="
+            git pull origin main || git pull origin master
+
+            # Deploy Builder-Layer-End
+            echo ""
+            echo "=========================================="
+            echo "Deploying Builder-Layer-End (Pipeline)"
+            echo "=========================================="
+            cd Builder-Layer-End
+
+            # Stop running containers
+            echo "Stopping pipeline containers..."
+            docker-compose -f docker-compose.test.yml down
+
+            # Pull latest images
+            echo "Pulling latest Docker images..."
+            docker-compose -f docker-compose.test.yml pull
+
+            # Build and start containers
+            echo "Starting pipeline containers..."
+            docker-compose -f docker-compose.test.yml up -d --build
+
+            # Show pipeline status
+            echo "Pipeline containers:"
+            docker-compose -f docker-compose.test.yml ps
+
+      - name: Deploy Layer-Business (Backend + Frontend)
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.SERVER_HOST }}
+          username: ${{ secrets.SERVER_USER }}
+          password: ${{ secrets.SERVER_PASSWORD }}
+          port: 22
+          script: |
+            cd /home/deepminds/deploy/Layer-Business
+
+            echo ""
+            echo "=========================================="
+            echo "Deploying Layer-Business"
+            echo "=========================================="
+
+            # Install/Update Backend Dependencies
+            echo ""
+            echo "--- Backend Setup ---"
+            cd backend
+
+            # Check if node_modules exists
+            if [ ! -d "node_modules" ]; then
+              echo "Installing backend dependencies..."
+              npm install
+            else
+              echo "Updating backend dependencies..."
+              npm install --production
+            fi
+
+            # Build backend
+            echo "Building backend..."
+            npm run build
+
+            # PM2 setup for backend
+            echo "Deploying backend with PM2..."
+            if command -v pm2 &> /dev/null; then
+              pm2 delete hcmc-backend || true
+              pm2 start dist/server.js --name hcmc-backend --max-memory-restart 4G
+              pm2 save
+            else
+              echo "WARNING: PM2 not found. Installing PM2..."
+              npm install -g pm2
+              pm2 start dist/server.js --name hcmc-backend --max-memory-restart 4G
+              pm2 startup
+              pm2 save
+            fi
+
+            # Install/Update Frontend Dependencies
+            echo ""
+            echo "--- Frontend Setup ---"
+            cd ../frontend
+
+            # Check if node_modules exists
+            if [ ! -d "node_modules" ]; then
+              echo "Installing frontend dependencies..."
+              npm install
+            else
+              echo "Updating frontend dependencies..."
+              npm install
+            fi
+
+            # Build frontend
+            echo "Building frontend..."
+            npm run build
+
+            # Deploy frontend with PM2 (using preview server)
+            echo "Deploying frontend with PM2..."
+            if command -v pm2 &> /dev/null; then
+              pm2 delete hcmc-frontend || true
+              pm2 start npm --name hcmc-frontend -- run preview
+              pm2 save
+            fi
+
+            echo ""
+            echo "=========================================="
+            echo "Layer-Business deployment complete!"
+            echo "=========================================="
+
+      - name: Cleanup and Show Status
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.SERVER_HOST }}
+          username: ${{ secrets.SERVER_USER }}
+          password: ${{ secrets.SERVER_PASSWORD }}
+          port: 22
+          script: |
+            # Clean up unused Docker resources
+            echo ""
+            echo "Cleaning up unused Docker resources..."
+            docker system prune -f
+
+            # Show all running services
+            echo ""
+            echo "=========================================="
+            echo "All Running Services"
+            echo "=========================================="
+
+            echo ""
+            echo "--- Docker Containers (Pipeline) ---"
+            cd /home/deepminds/deploy/Builder-Layer-End
+            docker-compose -f docker-compose.test.yml ps
+
+            echo ""
+            echo "--- PM2 Processes (Backend + Frontend) ---"
+            pm2 list
+
+            echo ""
+            echo "=========================================="
+            echo "Deployment Complete!"
+            echo "=========================================="
+
+      - name: Verify Deployment
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.SERVER_HOST }}
+          username: ${{ secrets.SERVER_USER }}
+          password: ${{ secrets.SERVER_PASSWORD }}
+          port: 22
+          script: |
+            echo ""
+            echo "=========================================="
+            echo "Verifying All Services"
+            echo "=========================================="
+
+            # Wait for services to start
+            echo "Waiting for services to stabilize..."
+            sleep 15
+
+            # Check Pipeline Containers
+            echo ""
+            echo "--- Checking Pipeline Containers ---"
+            cd /home/deepminds/deploy/Builder-Layer-End
+            RUNNING=$(docker-compose -f docker-compose.test.yml ps --services --filter "status=running" | wc -l)
+            TOTAL=$(docker-compose -f docker-compose.test.yml ps --services | wc -l)
+            echo "Pipeline: $RUNNING/$TOTAL containers running"
+
+            if [ $RUNNING -lt $TOTAL ]; then
+              echo "WARNING: Not all pipeline containers are running!"
+              docker-compose -f docker-compose.test.yml ps
+            else
+              echo "SUCCESS: All pipeline containers running!"
+            fi
+
+            # Check Backend (PM2)
+            echo ""
+            echo "--- Checking Backend (PM2) ---"
+            if pm2 describe hcmc-backend > /dev/null 2>&1; then
+              BACKEND_STATUS=$(pm2 describe hcmc-backend | grep 'status' | awk '{print $4}')
+              echo "Backend status: $BACKEND_STATUS"
+              if [ "$BACKEND_STATUS" != "online" ]; then
+                echo "WARNING: Backend is not online!"
+                pm2 logs hcmc-backend --lines 20 --nostream
+              else
+                echo "SUCCESS: Backend is online!"
+              fi
+            else
+              echo "ERROR: Backend process not found!"
+            fi
+
+            # Check Frontend (PM2)
+            echo ""
+            echo "--- Checking Frontend (PM2) ---"
+            if pm2 describe hcmc-frontend > /dev/null 2>&1; then
+              FRONTEND_STATUS=$(pm2 describe hcmc-frontend | grep 'status' | awk '{print $4}')
+              echo "Frontend status: $FRONTEND_STATUS"
+              if [ "$FRONTEND_STATUS" != "online" ]; then
+                echo "WARNING: Frontend is not online!"
+                pm2 logs hcmc-frontend --lines 20 --nostream
+              else
+                echo "SUCCESS: Frontend is online!"
+              fi
+            else
+              echo "ERROR: Frontend process not found!"
+            fi
+
+            # Final Summary
+            echo ""
+            echo "=========================================="
+            echo "Deployment Verification Complete!"
+            echo "=========================================="
+
+            # Show recent logs
+            echo ""
+            echo "--- Recent Pipeline Logs ---"
+            cd /home/deepminds/deploy/Builder-Layer-End
+            docker-compose -f docker-compose.test.yml logs --tail=30
+
+            echo ""
+            echo "--- PM2 Status ---"
+            pm2 status

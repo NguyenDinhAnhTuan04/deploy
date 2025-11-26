@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ngsi-ld="https://uri.etsi.org/ngsi-ld/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sosa="http://www.w3.org/ns/sosa/"
+>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2018.2">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Võ Văn Kiệt - An Dương Vương 2</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 18.2</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.620351076126, 10.7265671915496]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2021.84">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Tô Ngọc Vân - TX25</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 21.84</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.677986383438, 10.8797100979598]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:IDICO-QL1%2036">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>QL1 - Nút giao An Lạc 2</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>IDICO-QL1 36</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.601693630219, 10.7235049089888]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20247">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Tôn Đức Thắng - Hàm Nghi</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 247</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.70635342598, 10.7710748334425]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20406">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Trần Quang Khải - Trần Khắc Chân</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 406</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.691054105759, 10.7918902432446]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2026.4">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Phổ Quang - Hoàng Minh Giám</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 26.4</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.672879457474, 10.8079619154301]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20197">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Ba Tháng Hai – Sư Vạn Hạnh</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 197</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.670830249786, 10.7697784337206]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20440">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Trần Văn Giàu - cầu Tân Tạo</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 440</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.571368575096, 10.7590644777735]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2011.1">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Võ Văn Kiệt - Huỳnh Mẫn Đạt</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 11.1</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.677197813988, 10.751960277381]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20423">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Mai Bá Hương - Kênh 4</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 423</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.509790420532, 10.7736992353084]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20374">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Cách Mạng Tháng Tám - Bùi Thị Xuân</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 374</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.691064834595, 10.7726452614037]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2013.2">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Võ Văn Kiệt - Nguyễn Tri Phương 2</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 13.2</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.670079231262, 10.7503686605855]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20442">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Trần Đại Nghĩa - Võ Trần Chí</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 442</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.577017307281, 10.7304200365785]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2022.4">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Nút giao Mỹ Thủy 2</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 22.4</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.7755866, 10.7701157]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20124.1">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Nguyễn Văn Quỳ - Cầu Phú Mỹ</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 124.1</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.7367374897, 10.7409610852775]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2022.7">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Nguyễn Thị Định - Đường D</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 22.7</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.781423091888, 10.7646823693643]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2010.1">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Võ Văn Kiệt - Cầu Chữ Y 1</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 10.1</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.68367266655, 10.7519444666594]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20335">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Nguyễn Chí Thanh - Thuận Kiều</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 335</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.658009290695, 10.7576784340111]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2029.4">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Trường Sơn - Ga Quốc Nội 2</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 29.4</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.664902567863, 10.8129465937096]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:ObservableProperty:TrafficFlow">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/ObservableProperty"/>
+    <ngsi-ld:name>Traffic Flow Monitoring</ngsi-ld:name>
+    <ngsi-ld:description>Observable property representing traffic flow characteristics</ngsi-ld:description>
+    <ngsi-ld:unitOfMeasurement>vehicles/hour</ngsi-ld:unitOfMeasurement>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2034.11">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Nguyễn Văn Trỗi - Trần Huy Liệu</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 34.11</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH_AXIS</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.677948832512, 10.794472307568]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20419">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Điện Biên Phủ - Nguyễn Gia Trí</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 419</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.715161800385, 10.8010801833774]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:ITS%208.2">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Lý Tự Trọng - Chu Mạnh Trinh</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>ITS 8.2</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.704602, 10.781944]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20308">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Kinh Dương Vương - Tên Lửa</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 308</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.61497592926, 10.7380517925754]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2021.69">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Quốc lộ 1 - Đường Lê Thị Riêng 2</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 21.69</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.654415130615, 10.8619248135124]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:IDICO-QL1%2029">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>QL1 - Tỉnh lộ 10 B (2)</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>IDICO-QL1 29</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.593974232674, 10.7492355507977]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%201.8">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Cao tốc LTDG - Võ Chí Công</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 1.8</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.790762543678, 10.796827763223]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20273">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Phan Đăng Lưu - Thích Quảng Đức</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 273</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.684530973434, 10.8032933150268]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20417">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Vòng xoay Mũi Tàu Phú Lâm</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 417</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.624095439911, 10.7459416028391]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2021.59">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Quốc lộ 1 - Rạch Láng Le 1</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 21.59</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.686397790909, 10.8610818827294]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20385">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Đinh Tiên Hoàng - Trần Quang Khải</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 385</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.696075201035, 10.7927439077816]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2022.6.1">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Nguyễn Thị Định - Đường C (20-1)</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 22.6.1</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.77956700325, 10.7659102810674]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20299.1">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Võ Nguyên Giáp - Đỗ Xuân Hợp (1)</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 299.1</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.765716075897, 10.8349709243101]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20292">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Lũy Bán Bích - Thoại Ngọc Hầu</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 292</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.636122465134, 10.7821519725547]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20300">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Quốc Lộ 13 - cầu Ông Dầu</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 300</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.713809967041, 10.8361932799182]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20102.1">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Đinh Tiên Hoàng - Võ Thị Sáu 1</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 102.1</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.695774793625, 10.7917743133057]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Platform:HCMCTrafficSystem">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Platform"/>
+    <ngsi-ld:name>Ho Chi Minh City Traffic Monitoring System</ngsi-ld:name>
+    <ngsi-ld:description>City-wide traffic monitoring infrastructure</ngsi-ld:description>
+    <ngsi-ld:operator>HCMC Department of Transportation</ngsi-ld:operator>
+    <ngsi-ld:deploymentYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</ngsi-ld:deploymentYear>
+    <ngsi-ld:coverageArea>Ho Chi Minh City, Vietnam</ngsi-ld:coverageArea>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20245">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Huỳnh Tấn Phát - Phạm Hữu Lầu</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 245</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.737660169601, 10.7052043577961]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20145">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Lê Văn Sỹ - Huỳnh Văn Bánh</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 145</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.671452522278, 10.7918902432446]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%20259">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Nguyễn Thị Minh Khai - Bà Huyện Thanh Quan</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 259</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>PTZ</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.690624952316, 10.7748059039379]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2021.3">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Quốc lộ 1 - KCX Linh Trung 1</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 21.3</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.768741607666, 10.872081942303]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ngsi-ld:Camera:TTH%2044.4">
+    <rdf:type rdf:resource="https://uri.etsi.org/ngsi-ld/Camera"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/sosa/Sensor"/>
+    <ngsi-ld:cameraName>Phan Đăng Lưu - Lê Văn Duyệt</ngsi-ld:cameraName>
+    <ngsi-ld:cameraNum>TTH 44.4</ngsi-ld:cameraNum>
+    <ngsi-ld:cameraType>Fixed</ngsi-ld:cameraType>
+    <ngsi-ld:cameraUsage>TTH</ngsi-ld:cameraUsage>
+    <ngsi-ld:location>{"type": "Point", "coordinates": [106.696482896805, 10.8019970541825]}</ngsi-ld:location>
+    <sosa:observes rdf:resource="urn:ngsi-ld:ObservableProperty:TrafficFlow"/>
+    <sosa:isHostedBy rdf:resource="urn:ngsi-ld:Platform:HCMCTrafficSystem"/>
+  </rdf:Description>
+</rdf:RDF>

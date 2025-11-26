@@ -1,0 +1,137 @@
+[
+  {
+    "timestamp": "2025-11-01T09:39:48Z",
+    "camera": "urn:ngsi-ld:Camera:Test",
+    "entity_id": "urn:ngsi-ld:RoadAccident:Test-20251101T093948",
+    "severity": "moderate",
+    "confidence": 0.7357142857142858,
+    "detection_method": "occupancy_spike, sudden_stop",
+    "message": "Accident detected: moderate severity at urn:ngsi-ld:Camera:Test"
+  },
+  {
+    "timestamp": "2025-11-01T09:45:56Z",
+    "camera": "urn:ngsi-ld:Camera:Test",
+    "entity_id": "urn:ngsi-ld:RoadAccident:Test-20251101T094556",
+    "severity": "severe",
+    "confidence": 1.0,
+    "detection_method": "speed_variance",
+    "message": "Accident detected: severe severity at urn:ngsi-ld:Camera:Test"
+  },
+  {
+    "timestamp": "2025-11-01T09:45:56Z",
+    "camera": "urn:ngsi-ld:Camera:Test",
+    "entity_id": "urn:ngsi-ld:RoadAccident:Test-20251101T094556",
+    "severity": "moderate",
+    "confidence": 0.7357142857142858,
+    "detection_method": "occupancy_spike, sudden_stop",
+    "message": "Accident detected: moderate severity at urn:ngsi-ld:Camera:Test"
+  },
+  {
+    "timestamp": "2025-11-01T09:45:56Z",
+    "camera": "urn:ngsi-ld:Camera:TestCam",
+    "entity_id": "urn:ngsi-ld:RoadAccident:TestCam-20251101T094556",
+    "severity": "severe",
+    "confidence": 1.0,
+    "detection_method": "speed_variance",
+    "message": "Accident detected: severe severity at urn:ngsi-ld:Camera:TestCam"
+  },
+  {
+    "timestamp": "2025-11-01T09:45:56Z",
+    "camera": "urn:ngsi-ld:Camera:Test",
+    "entity_id": "urn:ngsi-ld:RoadAccident:Test-20251101T094556",
+    "severity": "severe",
+    "confidence": 1.0,
+    "detection_method": "speed_variance",
+    "message": "Accident detected: severe severity at urn:ngsi-ld:Camera:Test"
+  },
+  {
+    "timestamp": "2025-11-01T09:45:57Z",
+    "camera": "urn:ngsi-ld:Camera:Cam2",
+    "entity_id": "urn:ngsi-ld:RoadAccident:Cam2-20251101T094557",
+    "severity": "severe",
+    "confidence": 1.0,
+    "detection_method": "speed_variance",
+    "message": "Accident detected: severe severity at urn:ngsi-ld:Camera:Cam2"
+  },
+  {
+    "timestamp": "2025-11-01T09:45:57Z",
+    "camera": "urn:ngsi-ld:Camera:Cam0",
+    "entity_id": "urn:ngsi-ld:RoadAccident:Cam0-20251101T094557",
+    "severity": "severe",
+    "confidence": 1.0,
+    "detection_method": "speed_variance",
+    "message": "Accident detected: severe severity at urn:ngsi-ld:Camera:Cam0"
+  },
+  {
+    "timestamp": "2025-11-01T09:45:57Z",
+    "camera": "urn:ngsi-ld:Camera:Cam1",
+    "entity_id": "urn:ngsi-ld:RoadAccident:Cam1-20251101T094557",
+    "severity": "severe",
+    "confidence": 1.0,
+    "detection_method": "speed_variance",
+    "message": "Accident detected: severe severity at urn:ngsi-ld:Camera:Cam1"
+  },
+  {
+    "timestamp": "2025-11-01T09:46:09Z",
+    "camera": "urn:ngsi-ld:Camera:Test",
+    "entity_id": "urn:ngsi-ld:RoadAccident:Test-20251101T094609",
+    "severity": "severe",
+    "confidence": 1.0,
+    "detection_method": "speed_variance",
+    "message": "Accident detected: severe severity at urn:ngsi-ld:Camera:Test"
+  },
+  {
+    "timestamp": "2025-11-01T09:46:10Z",
+    "camera": "urn:ngsi-ld:Camera:Test",
+    "entity_id": "urn:ngsi-ld:RoadAccident:Test-20251101T094610",
+    "severity": "moderate",
+    "confidence": 0.7357142857142858,
+    "detection_method": "occupancy_spike, sudden_stop",
+    "message": "Accident detected: moderate severity at urn:ngsi-ld:Camera:Test"
+  },
+  {
+    "timestamp": "2025-11-01T09:46:10Z",
+    "camera": "urn:ngsi-ld:Camera:TestCam",
+    "entity_id": "urn:ngsi-ld:RoadAccident:TestCam-20251101T094610",
+    "severity": "severe",
+    "confidence": 1.0,
+    "detection_method": "speed_variance",
+    "message": "Accident detected: severe severity at urn:ngsi-ld:Camera:TestCam"
+  },
+  {
+    "timestamp": "2025-11-01T09:46:10Z",
+    "camera": "urn:ngsi-ld:Camera:Test",
+    "entity_id": "urn:ngsi-ld:RoadAccident:Test-20251101T094610",
+    "severity": "severe",
+    "confidence": 1.0,
+    "detection_method": "speed_variance",
+    "message": "Accident detected: severe severity at urn:ngsi-ld:Camera:Test"
+  },
+  {
+    "timestamp": "2025-11-01T09:46:11Z",
+    "camera": "urn:ngsi-ld:Camera:Cam2",
+    "entity_id": "urn:ngsi-ld:RoadAccident:Cam2-20251101T094611",
+    "severity": "severe",
+    "confidence": 1.0,
+    "detection_method": "speed_variance",
+    "message": "Accident detected: severe severity at urn:ngsi-ld:Camera:Cam2"
+  },
+  {
+    "timestamp": "2025-11-01T09:46:11Z",
+    "camera": "urn:ngsi-ld:Camera:Cam1",
+    "entity_id": "urn:ngsi-ld:RoadAccident:Cam1-20251101T094611",
+    "severity": "severe",
+    "confidence": 1.0,
+    "detection_method": "speed_variance",
+    "message": "Accident detected: severe severity at urn:ngsi-ld:Camera:Cam1"
+  },
+  {
+    "timestamp": "2025-11-01T09:46:11Z",
+    "camera": "urn:ngsi-ld:Camera:Cam0",
+    "entity_id": "urn:ngsi-ld:RoadAccident:Cam0-20251101T094611",
+    "severity": "severe",
+    "confidence": 1.0,
+    "detection_method": "speed_variance",
+    "message": "Accident detected: severe severity at urn:ngsi-ld:Camera:Cam0"
+  }
+]
