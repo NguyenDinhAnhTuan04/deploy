@@ -80,7 +80,7 @@ jobs:
               echo "First time deployment - Cloning repository..."
               echo "=========================================="
               cd /home/deepminds
-              git clone https://github.com/NguyenDinhAnhTuan04/deploy.git
+              GIT_TERMINAL_PROMPT=0 git clone https://github.com/NguyenDinhAnhTuan04/deploy.git || exit 1
               cd deploy
             else
               echo "=========================================="
