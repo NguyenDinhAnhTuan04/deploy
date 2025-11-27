@@ -168,7 +168,7 @@ jobs:
             --cov-report=xml \
             --cov-report=html \
             --cov-report=term-missing \
-            --duration=10 \
+            --durations=10 \
             --tb=short \
             -m "integration"
 
@@ -232,7 +232,7 @@ jobs:
             pytest tests/integration/test_complete_system.py \
             -v \
             -m "performance" \
-            --duration=10 \
+            --durations=10 \
             --tb=short
 
       - name: Cleanup
@@ -271,7 +271,7 @@ jobs:
             pytest tests/integration/test_complete_system.py::TestCompleteSystem::test_full_pipeline_722_cameras \
             -v \
             --tb=short \
-            --duration=10
+            --durations=10
 
       - name: Generate test report
         if: always()
