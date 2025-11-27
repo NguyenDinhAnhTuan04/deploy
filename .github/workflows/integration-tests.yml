@@ -317,7 +317,7 @@ jobs:
     name: Build Docker Images
     runs-on: ubuntu-latest
     needs: [integration-tests, e2e-tests]
-    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    if: false  # Disabled - DOCKERHUB_USERNAME and DOCKERHUB_TOKEN secrets not configured
 
     steps:
       - name: Checkout code
@@ -352,7 +352,7 @@ jobs:
     name: Deploy Documentation
     runs-on: ubuntu-latest
     needs: [integration-tests]
-    if: false  # Disabled - mkdocs.yml not present
+    if: false # Disabled - mkdocs.yml not present
 
     steps:
       - name: Checkout code
