@@ -41,19 +41,19 @@ jobs:
 
             # Stop running containers
             echo "Stopping pipeline containers..."
-            docker-compose -f docker-compose.test.yml down
+            docker compose -f docker-compose.test.yml down
 
             # Pull latest images
             echo "Pulling latest Docker images..."
-            docker-compose -f docker-compose.test.yml pull
+            docker compose -f docker-compose.test.yml pull
 
             # Build and start containers
             echo "Starting pipeline containers..."
-            docker-compose -f docker-compose.test.yml up -d --build
+            docker compose -f docker-compose.test.yml up -d --build
 
             # Show pipeline status
             echo "Pipeline containers:"
-            docker-compose -f docker-compose.test.yml ps
+            docker compose -f docker-compose.test.yml ps
 
       - name: Deploy Layer-Business (Backend + Frontend)
         uses: appleboy/ssh-action@v1.0.0
@@ -155,7 +155,7 @@ jobs:
             echo ""
             echo "--- Docker Containers (Pipeline) ---"
             cd /home/deepminds/deploy/Builder-Layer-End
-            docker-compose -f docker-compose.test.yml ps
+            docker compose -f docker-compose.test.yml ps
 
             echo ""
             echo "--- PM2 Processes (Backend + Frontend) ---"
@@ -193,7 +193,7 @@ jobs:
 
             if [ $RUNNING -lt $TOTAL ]; then
               echo "WARNING: Not all pipeline containers are running!"
-              docker-compose -f docker-compose.test.yml ps
+              docker compose -f docker-compose.test.yml ps
             else
               echo "SUCCESS: All pipeline containers running!"
             fi
@@ -240,7 +240,7 @@ jobs:
             echo ""
             echo "--- Recent Pipeline Logs ---"
             cd /home/deepminds/deploy/Builder-Layer-End
-            docker-compose -f docker-compose.test.yml logs --tail=30
+            docker compose -f docker-compose.test.yml logs --tail=30
 
             echo ""
             echo "--- PM2 Status ---"
